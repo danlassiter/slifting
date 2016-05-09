@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"17105"	"you"	"sorry"	" ``Grx fau blech shmck,'' riposted Grblx, which roughly translated meant, ``Don't forget that you're competing in five carbon-based entity categories, you sorry, vulcanized latex excuse for an extinct species.'' </P> "	"nyt_eng_199503.gz"

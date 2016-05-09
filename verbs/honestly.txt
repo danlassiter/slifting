@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"85121"	"I"	"honestly"	" ``I'll reiterate what I said. It's been a lot of fun coaching the team, but I don't have a crystal ball. If you have one, I'd like to borrow it, all right? But I don't have a crystal ball. And, I honestly, at this moment, do not know what's going to occur.'' </P> "	"nyt_eng_199701.gz"
+"85142"	"I"	"honestly"	" ``It's been a lot of fun coaching the team, but I don't have a crystal ball,'' Parcells said. ``It you have one, I'd like to borrow it, all right? And, I honestly, at this moment, do not know what's going to occur. But I think the time to wait is growing narrow, and we'll find that out at some point.'' </P> "	"nyt_eng_199701.gz"

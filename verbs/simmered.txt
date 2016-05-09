@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"141514"	"I"	"simmered"	" Bloated on the warm, chewy French bread I had used to mop up the last of the brown butter sauce for the sole meuniere, I made one more attempt at Potage Parmentier. I diced, I simmered, I thickened with cream. As far as I could tell, I did everything exactly as I had before. </P> "	"nyt_eng_200408.gz"

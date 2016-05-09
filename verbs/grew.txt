@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"11049"	"we"	"grew"	" Of course there was no Smith and only a little Aikman. Brown didn't care. ``Each game, each win, we grew,'' he said. </P> "	"nyt_eng_199412.gz"
+"166780"	"it"	"grew"	" Groups began gathering to learn from one another, and then, it grew, he said. Ultimately those encounters led to the creation of the Congress for a New Urbanism in 1993, with a charter espousing principles like the reconfiguration of sprawling suburbs into communities of real neighborhoods and diverse, mixed-use districts. </P> "	"nyt_eng_200605.gz"

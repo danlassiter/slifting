@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"68024"	"she"	"needs"	" At the age of 21, Emma Woodhouse (Paltrow) is at loose ends. Wealthy, privileged and single, with only her hypochondriac father to tend to, she needs, if not exactly a profession, at least a calling. </P> "	"nyt_eng_199608.gz"
+"68120"	"she"	"needs"	" At the age of 21, Emma Woodhouse (Paltrow) is at loose ends. Wealthy, privileged and single, with only her hypochondriac father to tend to, she needs, if not exactly a profession, at least a calling. </P> "	"nyt_eng_199608.gz"

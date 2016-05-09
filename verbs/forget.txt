@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"64860"	"I"	"forget"	" ``Address? 4-9 ... . Oh, I forget,'' said Koji Arai, the owner of a shoe store. ``Oh, yes! It's 4-9-12.'' </P> "	"nyt_eng_199607.gz"
+"118223"	"I"	"forget"	" He takes vitamin supplements, but not as often as he should. ``Sometimes, I forget,'' he says. He's not worried about complications down the road. </P> "	"nyt_eng_200206.gz"
+"120909"	"I"	"forget"	" What is her Wright collection worth? ``Offhand, I forget,'' Hunt said. ``The fact that it was the Wrights, to me, it would be a big amount.'' </P> "	"nyt_eng_200207.gz"

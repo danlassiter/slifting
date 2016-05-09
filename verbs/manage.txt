@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"171352"	"you"	"manage"	" If it's one year, you deal with it. If it's two years, you manage, Wagoner told The News. But if it's a chronic $4 billion or $5 billion cost difference with your prime competitor, over time it does impact what you would like to do in things like research and development. </P> "	"nyt_eng_200609.gz"

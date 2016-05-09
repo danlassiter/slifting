@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"6081"	"he"	"sculptures"	" Life away from the pressures of rock-and-roll and the vices of the road gave Vaughan time to discover what really gave him pleasure, besides making music. He draws, he sculptures, he listens to classical and flamenco music. Most of all, he's become passionate about customizing classic cars. </P> "	"nyt_eng_199410.gz"

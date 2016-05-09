@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"43965"	"they"	"mate"	" At the end of this period, they mate, and start the cycle again. </P> "	"nyt_eng_199512.gz"

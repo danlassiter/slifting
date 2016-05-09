@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"48056"	"I"	"nc."	" ``You have one state agency saying that this person is a perpetrator and you have another state agency saying they're not. And that leaves the victim in a very precarious position,'' said Aaryce Hayes(CQ both) of Advocacy, I nc., a federally funded group that helps people with disabilities. ``The victim is caught in the middle.'' </P> "	"nyt_eng_199602.gz"

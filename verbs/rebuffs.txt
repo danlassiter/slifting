@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"709"	"it"	"rebuffs"	" For a compositional process that spanned a half-century of cultural volatility, the tone and the voice of ``The Jungle Book'' are unusually consistent. The language does not so much change with the times; on the contrary, it rebuffs, and with increasing confidence and sophistication, the many and opposing musical ideas of other 20th-century composers. </P> "	"nyt_eng_199407.gz"

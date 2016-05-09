@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"162696"	"he"	"dreams"	" Along the way, he hopes to call attention to AIDS prevention -- and, he dreams, raise a million dollars for it. </P> "	"nyt_eng_200602.gz"

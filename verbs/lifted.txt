@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"95936"	"I"	"lifted"	" ``Last year, I prepared as well as I did this year,'' said Ulbrich, who still can't figure out how he injured himself initially. ``I did everything right _ I ran, I lifted, my flexibility and strength were all there. But sometimes it happens, unfortunately.'' </P> "	"nyt_eng_200108.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"133438"	"I"	"make"	" ``Mistakes I usually don't make, I make,'' Craven said. ``I have no idea why. My head is not in the game. I did feel pressure, because I'm a returning guy who played a lot last year. It can't get any worse. You just have to keep playing. </P> "	"nyt_eng_200212.gz"

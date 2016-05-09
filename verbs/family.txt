@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"100868"	"we"	"family"	" ``C'mon, America, we family,'' Mac tells the camera later, slyly giving viewers the aim of this series. ``When I say I want to kill those kids, you know what I mean. I don't have to explain it. Bernie Mac just say what you want to say but can't. I'll be the bad guy.'' </P> "	"nyt_eng_200111.gz"

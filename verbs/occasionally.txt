@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"48327"	"they"	"occasionally"	" But within their first year, each of the three packs roamed out of the park. Angering ranchers, they occasionally, nibbled on the hors d'oeuvres of civilization _ a hunting dog here, two sheep there. </P> "	"nyt_eng_199602.gz"
+"48439"	"they"	"occasionally"	" But within their first year, each of the three packs roamed out of the park. Angering ranchers, they occasionally, nibbled on the hors d'oeuvres of civilization _ a hunting dog here, two sheep there. </P> "	"nyt_eng_199602.gz"

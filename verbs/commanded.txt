@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"11053"	"he"	"commanded"	" Emmitt Smith, Troy Aikman and Michael Irvin, he commanded, would be locked in sideline straitjackets. If the three players most critical to the Cowboys' hopes of a third consecutive Super Bowl title encountered any challenge this Christmas weekend, it wouldn't be the playoff-hungry New York Giants or the nasty New Jersey weather or a debilitating injury. </P> "	"nyt_eng_199412.gz"

@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"1663"	"I"	"joke"	" Judy H. Korman, who had a painter whitewashing the fire stains on her house on Grant Avenue, one of the streets ravaged most by the fire, said: ``The only thing I really love is gardening, but my garden is singed. Now, I joke, my four o'clocks are two o'clocks, my impatiens have no patience, and I have a baked apple tree.'' </P> "	"nyt_eng_199407.gz"
+"27573"	"they"	"joke"	" If anyone tells one of them anything, they joke, the other knows about it immediately. </P> "	"nyt_eng_199507.gz"
+"27641"	"they"	"joke"	" If anyone tells one of them anything, they joke, the other knows about it immediately. </P> "	"nyt_eng_199507.gz"
+"161380"	"we"	"joke"	" It's just us having a nice time together, says Enos, who lives in Greenhaven, Calif. We laugh, we joke, we have a really good time. </P> "	"nyt_eng_200601.gz"

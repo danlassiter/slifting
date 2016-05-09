@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"127025"	"it"	"lurches"	" Such is the technique of the adapter, but in this case the theatrical originality of the production doesn't stand sturdily enough on its own to obscure the diminishment of the novel. Like Steve Pickering, who plays the peglegged Ahab, it lurches, and it strains to be bigger than it is. </P> "	"nyt_eng_200210.gz"

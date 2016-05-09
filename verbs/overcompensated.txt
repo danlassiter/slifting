@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"45264"	"he"	"overcompensated"	" In many respects, the lieutenant's biography is not too different from those of the more than 10,000 transsexuals estimated to live in this country. Growing up in the New Jersey towns of Lodi and Kearny, Aiello was gripped by an unshakable feeling that he was really a girl. To convince himself otherwise, he overcompensated, becoming a boxer, then a macho police officer, one who worked out ceaselessly. </P> "	"nyt_eng_199601.gz"

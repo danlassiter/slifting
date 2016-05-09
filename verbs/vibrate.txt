@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"121870"	"they"	"vibrate"	" Unlike spinning gyroscopes (like the kind often sold as a toy), piezo gyroscopes do not rotate. Instead, they vibrate, detecting motion along the axis perpendicular to the axis of rotation. Wayne Hillenbrand, the event director of the Maryland Helicopter Association, says piezo gyros are so inexpensive now that they are used with all modern model helicopters to keep the machine pointed in the right direction. </P> "	"nyt_eng_200208.gz"

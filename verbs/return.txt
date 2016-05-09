@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44248"	"you"	"return"	" You keep telling yourself you don't want to go back there. You want to leave it behind and never think of it again. But a friend in from out of town wants to see something he can tell the folks back home about, and so, inevitably, you return, if only briefly. </P> "	"nyt_eng_199601.gz"

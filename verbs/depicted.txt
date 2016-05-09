@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"54208"	"he"	"depicted"	" Turning his back on the VIPs of Olympus, he depicted, with a pen as sharp as his wit, the affairs of mere mortals and their less than lofty, more than likely far messier lives. In doing so, he invented a revolutionary theatrical form: the domestic comedy, or, as a television executive today might put it, the dom-com. </P> "	"nyt_eng_199604.gz"

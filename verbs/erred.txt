@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"153410"	"I"	"erred"	" Bishop Delaney has lied about everything, he said. It's like a slap in the face when he preaches on accountability yet he can't stand up and say 'I made a mistake, I erred, I was wrong, and I'm sorry.'  </P> "	"nyt_eng_200506.gz"
+"164202"	"I"	"erred"	" Technically, I erred, however, by writing last week that the audit concluded that the tax bills had been reduced, suggesting a legal determination, when Auditor John Keel was careful to note that he had reached no conclusions and wasn't implying wrongdoing. </P> "	"nyt_eng_200603.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"83239"	"he"	"deferred"	" Regarding a possible early exit to the NFL, Canty had planned to announce his decision immediately after the Cotton Bowl last Wednesday in Dallas. After the game, a 19-15 loss to Brigham Young, he deferred, saying he hadn't had the opportunity to discuss the matter fully with his mother. </P> "	"nyt_eng_199701.gz"

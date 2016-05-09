@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"56927"	"you"	"sleep"	" ``Your first instinct when you walk out into the light is to close your eyes,'' Rios says. ``And normally when you close your eyes, you sleep, and when you sleep, you dream. At that moment, you walk through a different door.'' </P> "	"nyt_eng_199604.gz"
+"57055"	"you"	"sleep"	" ``Your first instinct when you walk out into the light is to close your eyes,'' Rios says. ``And normally when you close your eyes, you sleep, and when you sleep, you dream. At that moment, you walk through a different door.'' </P> "	"nyt_eng_199604.gz"
+"57158"	"you"	"sleep"	" ``Your first instinct when you walk out into the light is to close your eyes,'' Rios says. ``And normally when you close your eyes, you sleep, and when you sleep, you dream. At that moment, you walk through a different door.'' </P> "	"nyt_eng_199604.gz"

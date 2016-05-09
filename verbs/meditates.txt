@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"124298"	"she"	"meditates"	" Sylvia Boorstein insists that people are basically good, and this is from a person who reads the newspaper every morning. First, however, she meditates, ``to screw my head on straight,'' and then she plows the paper. </P> "	"nyt_eng_200209.gz"

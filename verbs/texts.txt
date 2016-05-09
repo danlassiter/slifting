@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"141586"	"she"	"texts"	" If I'm not at my computer when you need to reach me, you can always text me. Yes, text is a verb these days: He texts, she texts, whatever the pretext. </P> "	"nyt_eng_200408.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"61983"	"we"	"match"	" American Airlines does not offer nonstop flights on those two routes. ``But every place we compete head-to-head with any carrier, we match,'' said Tim Smith, a spokesman for American. The reason for matching, he said, is that the carrier loses less money by matching fares than by losing passengers to rival airlines. </P> "	"nyt_eng_199606.gz"
+"62125"	"we"	"match"	" American Airlines does not offer nonstop flights on those two routes. ``But every place we compete head-to-head with any carrier, we match,'' said Tim Smith, a spokesman for American. The reason for matching, he said, is that the carrier loses less money by matching fares than by losing passengers to rival airlines. </P> "	"nyt_eng_199606.gz"

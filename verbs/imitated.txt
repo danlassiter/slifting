@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106559"	"he"	"imitated"	" ``I watched my uncle play and I saw people giving him money,'' Reyes said. ``I liked that.'' He climbed onto a drink carton and started learning shots. No one taught him: he watched, he imitated, he began to win. </P> "	"nyt_eng_200202.gz"

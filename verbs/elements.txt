@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"56936"	"you"	"elements"	" I tax not you, you elements, with unkindness. </P> "	"nyt_eng_199604.gz"
+"57169"	"you"	"elements"	" I tax not you, you elements, with unkindness. </P> "	"nyt_eng_199604.gz"

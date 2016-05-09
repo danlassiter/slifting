@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"149509"	"he"	"lumbers"	" Sirius, one of the Neapolitans, is only 2 1/2 years old, but weighs 189 pounds. Typically, he lumbers, but he does not strut. </P> "	"nyt_eng_200502.gz"

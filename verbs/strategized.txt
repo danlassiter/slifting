@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"58256"	"he"	"strategized"	" The importance of this game kept Van Gundy awake most of the last two days, hence the bags under both eyes. Van Gundy watched videotapes of Game 1 over and over, he strategized, and he worried. Mostly, he worried. </P> "	"nyt_eng_199605.gz"
+"58257"	"he"	"strategized"	" The importance of this game kept Van Gundy awake most of the last two days, hence the bags under both eyes. Van Gundy watched videotapes of Game 1 over and over, he strategized, and he worried. Mostly, he worried. </P> "	"nyt_eng_199605.gz"

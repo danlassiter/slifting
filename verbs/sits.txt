@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"62618"	"it"	"sits"	" Lodged beneath the true-blue eyes and the wide, pink mouth, it sits, the dimple, The Dimple, so cavernous it's nearly a caricature of itself. It's a Disneyized dimple, a dimple to rival that of Kirk Douglas, the king of all dimple holders, and today, even with a chin fuzzy from a few days' growth, it's a dent that dominates. This dimple, it is forever. </P> "	"nyt_eng_199606.gz"

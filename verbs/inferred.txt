@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"8473"	"he"	"inferred"	" Eaton excluded the players from that kind of thinking, though he had not yet heard from Ron Childs. The coaching staff, he inferred, fears the Rose Bowl. </P> "	"nyt_eng_199411.gz"
+"8476"	"he"	"inferred"	" Eaton excluded the players from that kind of thinking, though he had not yet heard from Ron Childs. The coaching staff, he inferred, fears the Rose Bowl. </P> "	"nyt_eng_199411.gz"
+"52841"	"he"	"inferred"	" In 1958, he wrote that ``anti-Semitic gangrene'' had reappeared in France and noted that non-Jews had been attacked as Jews merely because they disagreed with emotional opinions on the war in Algeria. From such assaults, he inferred, ``these anti-Semites today feel sufficiently encouraged and protected to give public effect to the violence of their sentiments.'' </P> "	"nyt_eng_199603.gz"

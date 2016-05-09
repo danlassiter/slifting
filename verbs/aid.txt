@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"71348"	"he"	"aid"	" Dole said his campaign ``needed strength beyond our own.'' That strength, he aid, was best expressed in chapter three of Proverbs, verses five and six: ``Trust in the Lord with all thine heart, and lean not on thine own understanding. In all thine ways ackknowledge him, and he shall direct thine path.'' </P> "	"nyt_eng_199609.gz"
+"168700"	"I"	"aid"	" As soon as I saw (the news reports), I aid, 'OK, so we're doing (an episode about) that, he said. </P> "	"nyt_eng_200607.gz"

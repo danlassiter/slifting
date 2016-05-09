@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"128628"	"he"	"typed"	" Finally, he typed, ``The Cats had many good plays, but the Eagles' defense showed why Rio Vista was a 2-A playoff team last year.'' </P> "	"nyt_eng_200210.gz"
+"148689"	"she"	"typed"	" In other words, she typed, she transcribed and she took his secrets to the grave. </P> "	"nyt_eng_200501.gz"
+"154589"	"he"	"typed"	" He swiveled from the plasma screen, positioned himself by the keyboard and punched in the e-mail address for Howard Rubenstein in New York. My Birthday Statement, he typed, By George Steinbrenner. </P> "	"nyt_eng_200507.gz"

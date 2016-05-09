@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137513"	"he"	"didreate"	" While still a student at Harvard, he didreate, said Thursday. ``He was an economic theorist as well as the foremostaudhority on the Soviet GNP. </P> "	"nyt_eng_200304.gz"

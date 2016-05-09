@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"115268"	"they"	"suffer"	" ``Japanese people wait for their government to resolve their problems, and when their government is averse to change, they suffer,'' said Chung Chin-sung, a professor at Seoul National University who is an expert on Japan. ``In Korea, we've never believed our government will take care of everything for us. That is why we are so much more dynamic.'' </P> "	"nyt_eng_200205.gz"
+"117202"	"they"	"suffer"	" ``In poverty, they struggle; in tyranny, they suffer,'' Bush added. ``And as we saw in Afghanistan, in liberation, they celebrate.'' </P> "	"nyt_eng_200206.gz"
+"148926"	"you"	"suffer"	" If you won't go out and just work by assignment, you suffer, and if you want to make every film your own -- you wait. </P> "	"nyt_eng_200501.gz"
+"168259"	"we"	"suffer"	" A little bit of me is gone also, said Edward Casas, vice commander of the Veterans or Foreign Wars District 18, which encompasses all of the towns and cities in the Rio Grande Valley. As his mother suffers, we suffer, too. It is her son but our brother. </P> "	"nyt_eng_200606.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"74970"	"he"	"poked"	" No, it takes two to tangle. The real Bob Dole showed up last night: not nasty, but certainly confrontational. He jabbed, he poked, he prodded, and he won the debate, if that makes any difference. </P> "	"nyt_eng_199610.gz"
+"74971"	"he"	"poked"	" No, it takes two to tangle. The real Bob Dole showed up last night: not nasty, but certainly confrontational. He jabbed, he poked, he prodded, and he won the debate, if that makes any difference. </P> "	"nyt_eng_199610.gz"

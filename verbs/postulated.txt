@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"88015"	"he"	"postulated"	" His research found that service clubs shrank while Americans socialized less with neighbors and distrusted strangers more. The combined effect, he postulated, was an unraveling of the social fabric that holds communities together. </P> "	"nyt_eng_199702.gz"
+"166972"	"he"	"postulated"	" Bishop, an African-American, said he was inclined to take the high road and not be offended by the pre-judgment of the alleged victim, who is also African-American. The women's lacrosse team's agenda, he postulated, might be less related to the best interests of the men's team than to its own. </P> "	"nyt_eng_200605.gz"

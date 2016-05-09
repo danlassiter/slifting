@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"9602"	"we"	"acted"	" In an interview this month, Salinas disputed the idea that the two assassinations suggested a failure to adequately confront corruption and drug trafficking within the ruling party. ``Every time we had information and evidence, we acted,'' he said. </P> "	"nyt_eng_199411.gz"
+"159578"	"she"	"acted"	" Along the way, she acted, protested for civil rights and worked on a farm in Germany </P> "	"nyt_eng_200511.gz"
+"161836"	"he"	"acted"	" So when Davis sensed that his wife might be in danger, he acted, which came as no surprise to those who know him. The Knicks and the Bulls were in a timeout when Davis looked into the stands and saw Kendra apparently tussling with a fan. </P> "	"nyt_eng_200601.gz"
+"161839"	"he"	"acted"	" So when Davis sensed that his wife might be in danger, he acted, which came as no surprise to those who know him. The Knicks and the Bulls were in a timeout when Davis looked into the stands and saw Kendra apparently tussling with a fan. </P> "	"nyt_eng_200601.gz"

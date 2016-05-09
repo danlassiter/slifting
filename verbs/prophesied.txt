@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"13166"	"he"	"prophesied"	" --The specter of death haunted Gov. Michael Dukakis that year, too. If he wasn't allowed to raise taxes, he prophesied, the Grim Reaper would stalk the land. ``I think,'' he intoned mournfully, ``we will probably lose some citizens of the commonwealth because we can't do justice by them.'' As Drs. Woolhandler and Himmelstein might have put it, holding the line on taxes would have been ``implementing the death penalty -- a social policy sure to kill.'' </P> "	"nyt_eng_199501.gz"

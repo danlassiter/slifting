@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"152832"	"I"	"download"	" For solace, I download, in seconds, a little program that makes my computer sound like an Underwood manual typewriter and edit this essay, listening to the greasy, mechanical clicks and clangs. Finally, here's something that feels real. </P> </TEXT> </DOC> <DOC id=NYT_ENG_20050521.0038 type=story > <HEADLINE> TAKING CARE OF THE QURAN </HEADLINE> <TEXT> "	"nyt_eng_200505.gz"

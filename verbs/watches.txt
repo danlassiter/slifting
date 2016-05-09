@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"8364"	"she"	"watches"	" She hovers, dark and forbidding. Dressed in black, moving in shadow, she watches, waits, while he sits in the light and laughs, beguiles. And then, inevitably perhaps, she strikes, rushing toward him, drawing back her arm. He faces her, gravely now. She lunges at his heart. </P> "	"nyt_eng_199411.gz"

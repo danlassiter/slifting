@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"172969"	"you"	"rammies!)"	" Last month, I visited him in Fort Collins. We went to the homecoming game (Go, you Rammies!), ate pizza and recounted my 2004 visit, when we ate in his dorm cafeteria: </P> "	"nyt_eng_200611.gz"

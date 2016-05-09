@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"93600"	"he"	"wisecracked"	" When Green was informed of the threat, he wisecracked, ``It must be from an old girlfriend.'' But he had a choice of what to do: withdraw, request a suspension or continue. </P> "	"nyt_eng_200106.gz"

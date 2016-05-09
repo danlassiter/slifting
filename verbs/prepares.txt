@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"128427"	"he"	"prepares"	" Dayne practices, he prepares, he plays sparingly. ``Most of the guys who are noisy are guys who are starters, who've been playing for a long time,'' Dayne said. ``When Keyshawn made a big deal about `Give me the damn ball,' he was a starter, he just wasn't getting the catches he was used to or he wanted. If I said, `Give me the damn ball,' it would be like, `All right. Whatever.''' </P> "	"nyt_eng_200210.gz"

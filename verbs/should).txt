@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"80572"	"you"	"should)"	" If you believe what you read in the paper (and, for the sake of my job security, you should), Christmas can be incredibly stressful. </P> "	"nyt_eng_199612.gz"

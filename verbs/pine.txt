@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92097"	"we"	"pine"	" We worry, we pine, we laugh, we cry. For heaven's sake, what's the matter with us? Are we pathetic or what? </P> "	"nyt_eng_200105.gz"

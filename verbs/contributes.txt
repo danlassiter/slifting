@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"124368"	"he"	"contributes"	" ``He's going to contribute,'' Scioscia said. ``Even when he's struggling, he contributes, taking his walks and getting on base. And just his presence in the lineup is important.'' </P> "	"nyt_eng_200209.gz"

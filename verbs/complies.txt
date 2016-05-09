@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"50494"	"he"	"complies"	" To applaud, as a politician often must, he taps his left palm against his right fist. And when voters ask for his autograph, he complies, but because he rarely writes, his signature is a slow scrawl with a felt pen in his left hand. </P> "	"nyt_eng_199603.gz"
+"50533"	"he"	"complies"	" To applaud, as a politician often must, he taps his left palm against his right fist. And when voters ask for his autograph, he complies, but because he rarely writes, his signature is a slow scrawl with a felt pen in his left hand. </P> "	"nyt_eng_199603.gz"
+"50642"	"he"	"complies"	" To applaud, as a politician often must, he taps his left palm against his right fist. And when voters ask for his autograph, he complies, but because he rarely writes, his signature is a slow scrawl with a felt pen in his left hand. </P> "	"nyt_eng_199603.gz"

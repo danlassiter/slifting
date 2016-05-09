@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"157096"	"they"	"rave"	" I stay in business without spending any money on advertising, he said. This tour gets fabulous word-of-mouth. People come, they rave, they send their friends. In fact, we only get good word of mouth -- because if people come on the tour and don't have fun, we kill them. </P> "	"nyt_eng_200508.gz"

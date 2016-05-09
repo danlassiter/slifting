@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"82466"	"I"	"giggle"	" ``We don't,'' says MacLaine. ``I see him at parties, and we talk, but there's a detachment. Then as soon as we're on the set, and he becomes Garrett and I become Aurora, there's this mysterious chemical thing that happens. I blush, I giggle, I fix my hair, I check my lipstick, I cross and uncross my legs. I don't know what the hell goes on, but it seems to work. I think we should do a whole movie together, and so does he, but I don't think we could play anybody but Garrett and Aurora.'' </P> "	"nyt_eng_199612.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7660"	"he"	"presented"	" In a hotel setting that called to mind a political fund raiser, he presented, often by tactful implication, the day's campaign theme: Choose me and my company, and your Tampa General Hospital could become a money maker, delivering improved health care -- just like my 14 area hospitals and 6 centers for day surgery that are taking away at least a few of Tampa General's patients. </P> "	"nyt_eng_199410.gz"

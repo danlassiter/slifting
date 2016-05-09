@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44705"	"they"	"converted"	" After all of that, the Colts, of course, faced a third-and-5 at the Kansas City 5. And, of course, they converted, scoring on a Harbaugh pass to receiver Floyd Turner for the touchdown. </P> "	"nyt_eng_199601.gz"

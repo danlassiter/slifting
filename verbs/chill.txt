@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"168318"	"we"	"chill"	" Anyone could have done what he did in a moment of stupidity, said Emilce Rodriguez, who lives next door and considers Moran a good friend. We talk, we chill, and when he gets drunk, he goes home and goes to bed. </P> "	"nyt_eng_200606.gz"

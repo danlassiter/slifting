@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"133369"	"it"	"stabilized"	" ``For a few frightening moments, I feared we were in for a disaster,'' Mom said. ``The chalet, with its outwardly sloped walls, was difficult to put together. As the walls collapsed time after time _ and with them, Rachel's faith in her mother _ I quickly gave up on daintily piping the icing from the bag and began frantically spooning it in thick globs to cement the building together. Finally, it stabilized, and we were able to add the roof and begin decorating. </P> "	"nyt_eng_200212.gz"

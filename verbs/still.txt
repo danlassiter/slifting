@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"641"	"it"	"still"	" But if the new world with which Clinton now must deal no longer poses the threat of a superpower showdown with the Russians, it still, as he has found, remains unstable and dangerous. </P> "	"nyt_eng_199407.gz"
+"4832"	"they"	"still"	" Not really, said the Manganos. Though embarrassed by what happened with their licensee on Third Avenue, they still, they said, stand ready to fight it out in court to claim the right to Ray when it comes to pizza. </P> "	"nyt_eng_199409.gz"

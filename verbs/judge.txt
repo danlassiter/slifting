@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29100"	"I"	"judge"	" I'm sitting in a booth. Just to my left is a table at which three men and three women _ each, I judge, in their 60s or 70s _ are sitting and talking. </P> "	"nyt_eng_199507.gz"

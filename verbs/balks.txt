@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"62793"	"she"	"balks"	" At other times, she balks, unable to think of anything to give to her. Still, Ms. Brown has choreographed a dozen dances for Ms. Madden, including her 1995 work ``M.O.,'' with music by Bach. </P> "	"nyt_eng_199606.gz"
+"62845"	"she"	"balks"	" At other times, she balks, unable to think of anything to give to her. Still, Ms. Brown has choreographed a dozen dances for Ms. Madden, including her 1995 work ``M.O.,'' with music by Bach. </P> "	"nyt_eng_199606.gz"
+"63221"	"she"	"balks"	" At other times, she balks, unable to think of anything to give to her. Still, Ms. Brown has choreographed a dozen dances for Ms. Madden, including her 1995 work ``M.O.,'' with music by Bach. </P> "	"nyt_eng_199606.gz"
+"173671"	"she"	"balks"	" But that's where their agreement ends. Van Dien suggests that, befitting Oxenberg's lineage she was a princess in the former Yugoslavia she ride in a Cinderella-style pumpkin, she balks, laughing and replies, You can ride in a bloody pumpkin. </P> "	"nyt_eng_200611.gz"

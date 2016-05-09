@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91193"	"you"	"drool"	" ``Sitting there watching somebody throw it up there 97-98 mph, you drool,'' Oates said. </P> "	"nyt_eng_200104.gz"

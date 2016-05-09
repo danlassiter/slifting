@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"122883"	"he"	"reminisced"	" Time and again, he reminisced, and time and again, he ruminated on the passage of time, making repeated references to the 23 years that had gone by since his first visit to Poland as pope. That was in 1979, when it was still under communist rule. </P> "	"nyt_eng_200208.gz"

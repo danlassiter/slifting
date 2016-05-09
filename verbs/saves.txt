@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"37155"	"it"	"saves"	" Mr. Chairman, long-term programs must be fair for all generations. I'm proud to author this bill not just as a member of Congress but as a Medicare beneficiary myself and as a parent and a grandparent. What we do today is historic, it is wise, it is just, and most importantly, it saves, preserves and protects Medicare. </P> "	"nyt_eng_199510.gz"

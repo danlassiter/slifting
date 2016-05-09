@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"29859"	"they"	"copied"	" One week, they copied, collated and bound 150 program books for a Christian convention. Another week, they ripped labels from 72 counterfeit Reebok warm-up suits, which had been confiscated by Reebok, then donated by the company to Chambers' church. The church was free to give away the suits only if all traces of the logo were removed by hand. </P> "	"nyt_eng_199508.gz"
+"55330"	"they"	"copied"	" Working through phony research institutes and dummy corporations, they copied, bought or stole so many components that soon Western suppliers were coming to them. </P> "	"nyt_eng_199604.gz"
+"55383"	"they"	"copied"	" Working through phony research institutes and dummy corporations, they copied, bought or stole so many components that soon Western suppliers were coming to them. </P> "	"nyt_eng_199604.gz"

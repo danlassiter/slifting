@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"80146"	"she"	"floats"	" ``She has tremendous athletic ability,'' the coach said. ``She has quickness, the hops, she floats, she hangs, she anticipates well. If she allows us to mold that talent into team talent she will blossom in this environment. But she's got to adjust.'' </P> "	"nyt_eng_199612.gz"
+"144771"	"he"	"floats"	" To start, he floats, belly-down, his feet pointed toward the boat and his face submerged. He springs onto his feet as the boat surges forward, then starts hamming it up: bouncing onto his knees, his seat, his back. He twirls; he looks like he's on glass. On his feet again, he grabs the tow handle like a baseball bat, then leaps in the air to execute a flip, landing on his feet. </P> "	"nyt_eng_200410.gz"

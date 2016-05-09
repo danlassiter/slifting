@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"32147"	"they"	"dressed"	" Morning practice over, they dressed, as if for church. Suits and ties. </P> "	"nyt_eng_199508.gz"

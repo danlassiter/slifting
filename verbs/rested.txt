@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"43921"	"he"	"rested"	" Mario had come up empty on his first five pulls at Neptune's Treasure. On the sixth try, he rested, while people around him congratulated him on his $47,449.22 jackpot. Well, except for one woman. </P> "	"nyt_eng_199512.gz"

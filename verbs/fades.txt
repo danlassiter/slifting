@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"125591"	"it"	"fades"	" ``It's a wait-and-see thing,'' Modano said. ``They crack down the first couple of months, it fades, then they talk about it at the first of the year and in the playoffs. Who knows how consistent the referees will be with it.'' </P> "	"nyt_eng_200209.gz"

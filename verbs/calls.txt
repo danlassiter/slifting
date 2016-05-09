@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"90877"	"she"	"calls"	" But literature _ and classics _ inform her. She refers to friends by noting their specialty in either Latin or Greek. The Rev. Joseph A. O'Hare, president of Fordham University and chairman of the Campaign Finance Board, she calls, with evident approval, ``a great Latinist.'' She says a judge she clerked for, Harold R. Medina, was ``a lover of Horace's odes.'' </P> "	"nyt_eng_200104.gz"
+"152400"	"she"	"calls"	" Line by line, name by name, Zachery, Zachgo, Zachman, she calls, about 125 names per column, two and a half pages of souls a day. They're my congregation, she said, tapping the 2004 edition of the Greater Kansas City White Pages. </P> "	"nyt_eng_200505.gz"

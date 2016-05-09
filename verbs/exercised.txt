@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"170193"	"they"	"exercised"	" When they went back on the street, Pearce was jumpy for a while, reacting more quickly and with more intensity, always looking for someone on edge. It took him a long time to relax, to settle back into the rhythm. Outside of work, they exercised, hung out, carpooled. They found reasons to be together whenever they could. Ripatti began to feel conflicted and talked to her sister about it. I think I want to kiss my partner, she told her. </P> "	"nyt_eng_200608.gz"

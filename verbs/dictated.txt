@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"37592"	"she"	"dictated"	" Vreeland was glamorous and imperious. She was also greedy, grotesque, keen-witted and utterly self-centered. She didn't talk, she dictated, exhorted and exclaimed. All of which makes her a fabulous creature for the theater. </P> "	"nyt_eng_199510.gz"

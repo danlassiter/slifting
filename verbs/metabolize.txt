@@ -1,0 +1,7 @@
+"pronoun"	"verb"	"context"	"filename"
+"135022"	"they"	"metabolize"	" ``Senescent cells are not dead,'' she says, ``they're perfectly alive, they metabolize, but what they can never, ever do again is divide. And if you can't divide, you can't form a tumor. ... </P> "	"nyt_eng_200212.gz"
+"135030"	"they"	"metabolize"	" ``Senescent cells are not dead,'' she says, ``they're perfectly alive, they metabolize, but what they can never, ever do again is divide. And if you can't divide, you can't form a tumor. ... </P> "	"nyt_eng_200212.gz"
+"135036"	"they"	"metabolize"	" ``Senescent cells are not dead,'' she says, ``they're perfectly alive, they metabolize, but what they can never, ever do again is divide. And if you can't divide, you can't form a tumor. ... </P> "	"nyt_eng_200212.gz"
+"135207"	"they"	"metabolize"	" ``Senescent cells are not dead,'' she says, ``they're perfectly alive, they metabolize, but what they can never, ever do again is divide. And if you can't divide, you can't form a tumor. ... </P> "	"nyt_eng_200212.gz"
+"135213"	"they"	"metabolize"	" ``Senescent cells are not dead,'' she says, ``they're perfectly alive, they metabolize, but what they can never, ever do again is divide. And if you can't divide, you can't form a tumor. ... </P> "	"nyt_eng_200212.gz"
+"135221"	"they"	"metabolize"	" ``Senescent cells are not dead,'' she says, ``they're perfectly alive, they metabolize, but what they can never, ever do again is divide. And if you can't divide, you can't form a tumor. ... </P> "	"nyt_eng_200212.gz"

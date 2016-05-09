@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"78990"	"she"	"wailed"	" As the family moved slowly through a mass of about 50 pushing, shouting reporters, Peterson's mother clung tightly to his arm. She sobbed as someone yelled, ``Baby killer!'' As they arrived at the courthouse, she wailed, ``I want to go with him!'' </P> "	"nyt_eng_199611.gz"
+"79148"	"she"	"wailed"	" As the family moved slowly through a mass of about 50 pushing, shouting reporters, Peterson's mother clung tightly to his arm. She sobbed as someone yelled, ``Baby killer!'' As they arrived at the courthouse, she wailed, ``I want to go with him!'' </P> "	"nyt_eng_199611.gz"
+"79814"	"she"	"wailed"	" As the family moved slowly through a mass of about 50 pushing, shouting reporters, Peterson's mother clung tightly to his arm. She sobbed as someone yelled, ``Baby killer!'' As they arrived at the courthouse, she wailed, ``I want to go with him!'' </P> "	"nyt_eng_199612.gz"

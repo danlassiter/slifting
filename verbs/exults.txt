@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"5976"	"he"	"exults"	" There's plenty of seashore to gawk at in ``Only You'' -- as well as Venetian canals, Roman fountains, and sun-browned Tuscan hills. Jewison shot the film in Italy, where he found, he exults, ``the best locations of my life.'' </P> "	"nyt_eng_199410.gz"

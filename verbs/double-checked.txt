@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"104523"	"I"	"double-checked"	" Far be it from me to doubt a retired music teacher on such things, but just to avoid another gaffe, I double-checked, and your story checks out. </P> "	"nyt_eng_200201.gz"

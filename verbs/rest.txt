@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"153003"	"you"	"rest"	" With physical fatigue, you rest and it gets better, Johnson said. But with chemotherapy fatigue, you rest, and it does not get any better. It's very distressing. </P> "	"nyt_eng_200505.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"130532"	"he"	"dissented"	" Michael K. Powell, chairman of the commission, did not comment on the decision Friday. But when the rules passed, he dissented, saying they went beyond the reach of the commission's statutory provisions. </P> "	"nyt_eng_200211.gz"

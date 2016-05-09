@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29724"	"they"	"lose'"	" ``Today it's hard to see what is the American interest in getting involved in some remote place. In the Cold War, we could say, `If we don't, the Soviets will. ... We gain, they lose','' said former diplomat Helmut Sonnenfeldt, now a Brookings scholar. </P> "	"nyt_eng_199508.gz"

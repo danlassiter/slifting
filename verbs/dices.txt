@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"169283"	"he"	"dices"	" He slices, he dices, he really, really works! The inventor of the Veg-O-Matic, the Pocket Fisherman, and that spray paint for bald spots is profiled on Biography: Ron Popeil (10 p.m. Tuesday, Biography Channel). </P> "	"nyt_eng_200608.gz"

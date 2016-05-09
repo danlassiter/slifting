@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"66633"	"they"	"snaff"	" Certain words jump off the page. ``Humdudgeon,'' for example, a word that means ``an imaginary pain or illness.'' ``Groak'' is another word that all but begs to be used. It means ``to stare silently at a person who is eating in the hope of being given some of the food.'' Dogs groak, cats too. And when groaking doesn't get them what they want, they snaff, or beg for part of what you're eating. </P> "	"nyt_eng_199608.gz"

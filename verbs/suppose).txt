@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"40509"	"I"	"suppose)"	" Rrstrang(at)sonetis.com: ``Also, I'm sick and tired of clothes where a ``large'' is teeny weeny. I'm 5'2'' and 118 lbs (an average size, I suppose), and I can't figure out why clothes are all made for 12 year olds.'' </P> "	"nyt_eng_199511.gz"
+"41258"	"I"	"suppose)"	" Rrstrang(at)sonetis.com: ``Also, I'm sick and tired of clothes where a ``large'' is teeny weeny. I'm 5'2'' and 118 lbs (an average size, I suppose), and I can't figure out why clothes are all made for 12 year olds.'' </P> "	"nyt_eng_199511.gz"

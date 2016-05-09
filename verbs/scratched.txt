@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"11438"	"we"	"scratched"	" ``We fought, we scratched, we weren't good enough today,'' he said. ``That doesn't damn the people in that locker room.'' </P> "	"nyt_eng_199412.gz"

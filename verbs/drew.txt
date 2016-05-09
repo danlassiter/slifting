@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"173177"	"he"	"drew"	" Taking out a little card, he drew, from left to right, three progressively larger circles connected by horizontal lines. They represented three stages of his life, he explained: Bordeaux, where he was born; Paris, where he moved in the '50s; and New York, where he realized a lifelong dream in the late '70s, when he began to publish in The New Yorker, which continues to feature his covers and drawings. </P> "	"nyt_eng_200611.gz"

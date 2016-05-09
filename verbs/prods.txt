@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"42250"	"he"	"prods"	" Indeed, he's eerily human for a TV star. He does his homework. On the road, he hangs around with lowly print reporters and White House advance staff. He picks up bar tabs for tables of 20. He's so funny, reporters think he should succeed Jay Leno, not Tom Brokaw. And he's courteous to fans _ when they can't quite remember his name, he prods, ``Oprah Winfrey.'' </P> "	"nyt_eng_199512.gz"

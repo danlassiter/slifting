@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"154949"	"I"	"oversee"	" Anything that you can complain about, I oversee, he said. </P> "	"nyt_eng_200507.gz"

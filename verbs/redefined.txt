@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"8977"	"she"	"redefined"	" Statistics didn't give Rudolph an extended shelf life. It was style. Tall, graceful, flowing, she redefined, or at least extended, the concept of femininity in athletics. A woman, she signaled to us, could be tall and lithe with the good looks associated with fashion and still run with a vengeance. </P> "	"nyt_eng_199411.gz"

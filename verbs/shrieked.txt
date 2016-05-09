@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"65283"	"she"	"shrieked"	" When Levar's mother was told that her son had died, she shrieked, ``My baby's gone! My baby's gone!'' and fainted. From outside the building, neighbors could be heard wailing, ``Oh Lord, no!'' </P> "	"nyt_eng_199607.gz"

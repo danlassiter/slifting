@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"30497"	"he"	"hopped"	" In his first attempt in the triple jump final of the 5th IAAF championships of Track and Field, he hopped, stepped and then jumped ... landing past the 18-meter marking board and sending the crowd into the frenzy that can only signify one thing: world record. </P> "	"nyt_eng_199508.gz"

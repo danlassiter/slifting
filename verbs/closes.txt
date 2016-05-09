@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"114696"	"he"	"closes"	" Asmussen is actually leaning more toward putting another of his horses, Easyfromthegitgo, in the Preakness. ``He didn't run in the Derby, he's fresh, he closes,'' Asmussen said. </P> "	"nyt_eng_200205.gz"

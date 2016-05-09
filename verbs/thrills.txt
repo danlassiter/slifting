@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"120236"	"he"	"thrills"	" Which is why I have this urge to visit Fenway right now. Teddy Ballgame speaks to Red Sox fans -- to baseball fans -- with the eloquence of a great orator, without saying a word. He is mentor, teammate and friend. I never met the man, and I feel I've known him all my life. He inspires, he thrills, he makes baseball something special. </P> "	"nyt_eng_200207.gz"

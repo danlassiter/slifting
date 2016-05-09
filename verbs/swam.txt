@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"68175"	"I"	"swam"	" ``It's definitely affected me, coming to the beach,'' Ms. Landaburu said. ``The ocean has always seemed mysterious to me, and now it's even more mysterious. I mean, I swam, I enjoyed the beach, but when I think that all those lives were lost in this same ocean, so close by, and we still don't know what happened. . . .'' </P> "	"nyt_eng_199608.gz"

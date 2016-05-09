@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"75957"	"you"	"moron"	" It was only when a trombone player shouted back, ``It ain't us, you moron, it's Sawyer Brown'' that the dignitaries discovered the mix-up, and ``The Star-Spangled Banner'' was duly sung. </P> "	"nyt_eng_199610.gz"

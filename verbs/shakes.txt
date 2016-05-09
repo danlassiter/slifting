@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"6768"	"it"	"shakes"	" One top Democratic consultant, speaking on condition that he not be identified, said ruefully of the advertising uses of the Capitol: ``It rattles, it shakes, it opens up, money is poured into it; it's clear that it's become demonized.'' </P> "	"nyt_eng_199410.gz"
+"6844"	"it"	"shakes"	" One top Democratic consultant, speaking on condition that he not be identified, said ruefully of the advertising uses of the Capitol: ``It rattles, it shakes, it opens up, money is poured into it; it's clear that it's become demonized.'' </P> "	"nyt_eng_199410.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"55016"	"he"	"chirped"	" When 1979 winner Fuzzy Zoeller was asked to give advice to the 19 Masters rookies, he chirped, ``Get a local caddie who knows the ropes. I had one.'' </P> "	"nyt_eng_199604.gz"

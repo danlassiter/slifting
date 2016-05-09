@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"121181"	"they"	"educate"	" ``Films do three things if they're really great,'' Gibson says. ``They entertain, they educate, and they take you to a higher plane of existence or a spirituality, reaching outside your own realm. I think Night has pulled off the hat trick with this one.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_20020726.0090 type=story > <HEADLINE> GREEN FOUNDATIONS </HEADLINE> <DATELINE> 07-26-02 13:08:00EDT (BC-ECO-CEMENT-NEW-SCIENT) </DATELINE> <TEXT> "	"nyt_eng_200207.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"99034"	"we"	"here"	" For the moment at least, we here, away from the capitals of government and commerce, feel the relief _ and the guilt _ of watching a war that so far is happening to someone else. </P> "	"nyt_eng_200110.gz"

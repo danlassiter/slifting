@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"38577"	"it"	"leaks"	" Talk about noisy neighbors. Roundabout Theater officials discovered that the strains of ``Company,'' on their main stage, could be heard in their new second stage, the Laura Pels Theater, where Harold Pinter's ``Moonlight'' is the attraction. ``When the full orchestra is playing and the full cast is singing, it leaks,'' said Todd Haimes, the Roundabout's artistic director. </P> "	"nyt_eng_199511.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"109049"	"I"	"suggested)"	" Two friends from Washington state were about to visit me and asked what they should bring for their week in the Big Apple. In addition to comfortable shoes and lots of layers (black, I suggested), I advised plenty of change for the phone. Neither of them had a cell phone, I didn't have one to lend them, and I knew they would always be in search of a phone and change. What I forgot was how hard it is to find a phone that works. </P> "	"nyt_eng_200203.gz"

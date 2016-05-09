@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"1854"	"it"	"poured"	" Here, the skies had been ominous all weekend. Saturday afternoon, it poured, and there was a short drizzle early Sunday morning. When first post rolled around at 1 o'clock, the rain had stopped but the Monmouth strip was nevertheless labeled muddy, before being upgraded to good before the second race and fast for the Haskell. </P> "	"nyt_eng_199407.gz"

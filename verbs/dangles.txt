@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137009"	"he"	"dangles"	" Republicans say they have the votes to confirm Estrada, but not enough to shut down the Senate filibuster stalling the nomination. So, he dangles, and while he's dangling like a pinata, he is Exhibit A on how cockeyed this ``gotcha'' system of judicial selection has gotten. It's gotten so cockeyed that both Republicans and Democrats are determined to show they care about Hispanics and are willing to abuse as many as it takes to prove it. </P> "	"nyt_eng_200302.gz"

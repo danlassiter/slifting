@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"96049"	"he"	"chided"	" Leading his five pleasantly scruffy mates through a Wednesday show at Irving Plaza, Crowe expressed the obligatory indignation at his fame, cursing anyone who would want him to take his shirt off. This is a band, he chided, not a Tinseltown peep show. </P> "	"nyt_eng_200108.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"42101"	"we"	"perceived"	" ``Without a doubt, the HBO special, we perceived, would have been a very big boost to sales right the way through to Christmas,'' said Alan McDonald, vice president of marketing for the HMV Records chain. </P> "	"nyt_eng_199512.gz"

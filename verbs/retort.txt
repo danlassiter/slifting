@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91042"	"they"	"retort"	" In a desire to move from ``teacher-centered'' to ``student-centered'' classrooms, to satisfy multiple intelligences and foster self-esteem, these parents say, most schools have moved so far away from the fundamentals that their children come home knowing about the Holocaust but not World War II, about Babylonian math but not about fractions. Children cannot think critically, they retort, if they do not have the basic content to think about. </P> "	"nyt_eng_200104.gz"

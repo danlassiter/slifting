@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"115811"	"he"	"rebelled"	" Tranmer was 12 when his parents divorced. Two years later, he rebelled, leaving home for Florida to pick oranges for a living. There, he says, he became hooked on marijuana, cocaine and alcohol. </P> "	"nyt_eng_200205.gz"
+"141440"	"he"	"rebelled"	" In his teens, he rebelled, eventually playing guitar and singing background vocals with the hard rock band Dangerous Toys, which shot to success with a gold album on Columbia Records, a No. 1 video on MTV and a </P> "	"nyt_eng_200408.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"125135"	"we"	"welcomed"	" Asked about the e-mails, Victoria Harmon, a spokeswoman for Credit Suisse said: ``Early on, we welcomed, fully endorsed and have been implementing the Spitzer initiative to make systemic changes to strengthen analyst independence. We are now working closely with the regulators and government officials on these matters.'' The firm declined to make McCarthy available for comment. Rogers has left the firm and could not be reached. </P> "	"nyt_eng_200209.gz"

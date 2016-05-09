@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"87334"	"they"	"fly"	" ``If they fly, they fly,'' he said. </P> "	"nyt_eng_199702.gz"
+"139801"	"they"	"fly"	" There are several types of pine bark beetles, and all have a similar life history. For two weeks or so in July, they fly, looking to lay their eggs under the bark of a tree. After the larvae hatch, they devour a sugar-rich layer under the bark, depriving the tree of nutrients -- in effect, strangling it. </P> "	"nyt_eng_200407.gz"

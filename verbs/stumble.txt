@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"24065"	"I"	"stumble"	" It's true that I drink, I take medicine, I stumble, I pass out. But I know how to use what seems like the democratic process to maintain my power. </P> "	"nyt_eng_199506.gz"

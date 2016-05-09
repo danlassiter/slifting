@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"10309"	"I"	"venture"	" How many computer games have you built from scratch? Not many, I venture, considering that you have trouble resetting the date on your digital watch. </P> "	"nyt_eng_199412.gz"
+"103109"	"I"	"venture"	" Speaking of heaven, I venture, what does Ali think of the notion that 72 virgins are waiting in heaven for Islamic martyrs? </P> "	"nyt_eng_200112.gz"

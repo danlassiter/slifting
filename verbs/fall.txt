@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"162904"	"we"	"fall"	" If humans waddle too much, we fall, but penguins somehow overcome this. They may have an elegant movement strategy for stability that we're unaware of. This research may aid in developing ways to teach people to make adjustments to their walking patterns that mimic the penguins so that they can walk with the same kind of stability as the penguin. </P> "	"nyt_eng_200602.gz"

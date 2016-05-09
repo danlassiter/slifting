@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"38327"	"I"	"stripped"	" I also soaked in sulfurous hot spring water in a rock pool on the premises. Overcoming my American inhibitions, I stripped, washed at a counter and carefully slipped into the vaporous pool with several elderly Japanese women. Men have separate facilities. </P> "	"nyt_eng_199510.gz"

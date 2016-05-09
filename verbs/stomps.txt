@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"50933"	"he"	"stomps"	" On the bare stage, against a backdrop of sky blue and white, 14-year-old Armand Pretlow is doing an intricate solo to wailing klezmer music. Dressed in an elegantly ragtag costume that includes a shirt with only one sleeve, mismatched slippers (green and yellow) and a red headband, he stomps, flops, somersaults and mimes. Then, from a kneeling position, he launches into a series of rolling, sideways flips that are punctuated with a foot pointed skyward. </P> "	"nyt_eng_199603.gz"

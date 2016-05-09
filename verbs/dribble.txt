@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44831"	"you"	"dribble"	" ``In soccer, you get the ball, you dribble,'' said Oduok. ``Now, I play center, I can't dribble up the floor. I have to limit myself. Growing up that way and having to switch to basketball, I want to do something with the ball, let my instincts take over. Instead, I have to give the ball to some little guy. </P> "	"nyt_eng_199601.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"18128"	"you"	"(expletive)"	" ``He can curse you out and then put his arm around you later,'' said Eruzione, now a BU assistant. ``He is a friend to the players, but he also provides the discipline. Somebody has to tell them and he does. If something is wrong and you want it sugarcoated, don't go to Jack. I could go up to him right now with a situation and he will say what he thinks. If he thinks, `Mike, you (expletive),' he'll say it.'' </P> "	"nyt_eng_199503.gz"

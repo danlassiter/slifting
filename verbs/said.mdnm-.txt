@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92970"	"they"	"said.mdnm-"	" I.MDNM/n the 16-page court document, McVeigh's attorneys do not say that he is not guilty. But, they said.MDNM/, ``we do not want our silence on this matter to become an impediment to justice. It is premature to comment specifically upon this matter prior to (the) revelation of all the facts being suppressed by the government.'' </P> "	"nyt_eng_200106.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"161450"	"they"	"rip"	" Menefee said top-of-the-line luggage sets like those made by Hartman, Tumi, and Swiss Army are very good bags, very good warranties - and very expensive. Of course, it's a better-looking bag. It's got a better frame. The workmanship is a little better. Whatever they can't repair, they replace. But she said of the costliest luggage sets: They tear, they rip, just like Wal-Mart bags. </P> "	"nyt_eng_200601.gz"

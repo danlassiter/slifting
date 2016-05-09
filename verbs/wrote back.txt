@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"163238"	"she"	"wrote back"	" When Rashid, a nurse, heard that Yow's cancer had returned, she wrote back, offering wisdom, courage and thanks. </P> "	"nyt_eng_200602.gz"

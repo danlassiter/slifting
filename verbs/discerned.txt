@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"121231"	"she"	"discerned"	" Sandberg's infant-raising friends proved to be invaluable resources, and she was often able to put her newfound expertise to good practical use. When one friend complained that her baby's diaper was soaked to the point of disintegration every morning, Sandberg correctly diagnosed the problem. It was not the diaper at all, she discerned, but the three bottles of liquified oatmeal, a Swedish infant treat, the baby was guzzling each night. </P> "	"nyt_eng_200207.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"21259"	"you"	"bastards"	" They have two daughters, both of whom have always just stepped out whenever the stage lights come up. Kate is the one who urinated into the ice-cube tray. At school she seems to have leaped onto a desk and shouted, ``Wake up, you bastards, the bomb's coming!'' </P> "	"nyt_eng_199505.gz"

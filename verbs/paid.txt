@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"84157"	"they"	"paid"	" Meanwhile, the DeAngelos look, somewhat uncertainly, toward their future, after the hard work of modifying their diet, exercising and using drug therapy. In addition, they paid, out of pocket, more than $100 monthly for the drug combination, because the agents are not covered by their insurance. Redux will cost Karen $65 monthly. </P> "	"nyt_eng_199701.gz"

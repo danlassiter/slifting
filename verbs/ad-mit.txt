@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"62041"	"I"	"ad-mit"	" Ball sings ``Thinkin' Problem'' in a pained, sinewy drawl. The song is wound so tightly it nearly explodes: ``Yes, I ad-mit, I got a thinkin' problem/ She's always on my mind/ Her memory goes 'round and 'round/ I've tried to quit a thousand times.'' </P> "	"nyt_eng_199606.gz"
+"62133"	"I"	"ad-mit"	" Ball sings ``Thinkin' Problem'' in a pained, sinewy drawl. The song is wound so tightly it nearly explodes: ``Yes, I ad-mit, I got a thinkin' problem/ She's always on my mind/ Her memory goes 'round and 'round/ I've tried to quit a thousand times.'' </P> "	"nyt_eng_199606.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"10727"	"I"	"push"	" Rule changes: The Cowboys and most other teams believe the new anti-defense rules governing pass coverage have been applied inconsistently by officials. ``Sometimes, I push, and it gets called. The next week, they push me, and it doesn't get called,'' Brown said. ``It's tough to know what call is coming.'' </P> "	"nyt_eng_199412.gz"

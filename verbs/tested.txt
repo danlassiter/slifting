@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"62300"	"we"	"tested"	" ``As soon as we got word from the EPA that there were levels of dioxins (at the Cahill home), we tested,'' said Fagan. </P> "	"nyt_eng_199606.gz"

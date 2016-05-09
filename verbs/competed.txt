@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"65933"	"we"	"competed"	" ``(This time), we competed, we played the best we could, we did everything we could.'' </P> "	"nyt_eng_199607.gz"
+"66934"	"they"	"competed"	" And through it all there were the athletes. From the high-profile world-wide images of Hakeem Olajuwon, Shaquille O'Neal, Charles Barkley of the USA Dream Team to a skinny 5,000-meter runner by the name of Venuste Niyongabo from Burundi, an African country where mass graves are filling up with the victims of a civil war, they competed, they overcame and they entertained. </P> "	"nyt_eng_199608.gz"
+"117977"	"we"	"competed"	" ``We did a pretty damn good job. We played aggressive ball down the stretch,'' Kittles said. ``We played hard, we competed, it was hard fought. But they won the game. What can I say?'' </P> "	"nyt_eng_200206.gz"

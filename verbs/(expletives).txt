@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"143848"	"you"	"(expletives)"	" The FCC ... has stopped me from doing business, Stern said. Clear Channel, you (expletives), I will bury you. </P> "	"nyt_eng_200410.gz"

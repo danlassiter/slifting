@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92092"	"he"	"elevated"	" Bryant's points came on a variety of athletic drives, outside shots, spins and dunks. He hung in the air, he elevated, he all but mystified, once again bringing out the comparisons to You Know Who. </P> "	"nyt_eng_200105.gz"

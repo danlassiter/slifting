@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138388"	"he"	"decrees"	" Beneath a Hashemite coat of arms in the ex-headquarters of Iraq's intelligence agency, the chairman of the Royal Democratic Alliance, one of Iraq's new parties, calls for the restoration of the country's former Hashemite monarchy, and for federation with Jordan. King Abdullah of Jordan, he decrees, should be the federation's king. This week, he is leading a mission to Amman to appeal to the king. </P> "	"nyt_eng_200310.gz"

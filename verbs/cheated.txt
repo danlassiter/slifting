@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"141316"	"they"	"cheated"	" The judges, they cheated, Wilson said. </P> "	"nyt_eng_200408.gz"

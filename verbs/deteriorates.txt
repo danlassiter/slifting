@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"16352"	"it"	"deteriorates"	" The techniques for the two instruments are very difficult, and, to make the transition, he had to abandon the button accordion. ``If you don't play an accordion, it deteriorates,'' he says. ``And rather than see it get ruined through lack of use, I sold it.'' </P> "	"nyt_eng_199503.gz"
+"110539"	"it"	"deteriorates"	" Theater operators take the reels of film and splice them together into one long reel. As the film gets handled, exposed to dust, and run through a projector countless times, it deteriorates, which shows up on the screen in the form of scratches and dust marks. </P> "	"nyt_eng_200203.gz"

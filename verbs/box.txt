@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"149840"	"we"	"box"	" Of course I have fun! she chirps. Some people don't find th time, but I do. I love being home, honestly. I have two sisters and two little dogs, nd I like doing normal things. I like working out, we box, and we play around a lot. My est friend is a guy, and we like to go to the movies and stuff around the area. </P> "	"nyt_eng_200502.gz"
+"149842"	"we"	"box"	" Of course I have fun! she chirps. Some people don't find the time, but I do. I love being home, honestly. I have two sisters and two little dogs, and I like doing normal things. I like working out, we box, and we play around a lot. My best friend is a guy, and we like to go to the movies and stuff around the area. </P> "	"nyt_eng_200502.gz"

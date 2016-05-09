@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"37035"	"they"	"chatted"	" They agreed on everything. They laughed, they chatted, then laughed some more. She told him about her son, a first-grader. She and his father are divorced, she said. </P> "	"nyt_eng_199510.gz"

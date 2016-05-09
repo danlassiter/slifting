@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"45158"	"you"	"lead"	" If you're a Dolphin, you lead, follow or get out of the way. And it wouldn't hurt to do all three, either. </P> "	"nyt_eng_199601.gz"

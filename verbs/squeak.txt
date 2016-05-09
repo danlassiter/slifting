@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"32104"	"they"	"squeak"	" As to why the squeaks occur, that's easy, too. Box springs have wood frames, and while they are sturdy enough, eventually the wood dries out and shrinks, loosening the joints. When the wood joints move ever so slightly against each other, they squeak, just like the squeaks made turning a wood bird whistle. </P> "	"nyt_eng_199508.gz"

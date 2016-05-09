@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"119043"	"they"	"bumped"	" As Harvick pressed Robby Gordon from behind, Stewart passed Jeff Gordon. When Harvick dived inside of Robby Gordon in Turn 7 on Lap 102, they bumped, with the contact knocking Gordon out of the groove. That allowed Stewart to ride the outside lane into the lead for good. </P> "	"nyt_eng_200206.gz"

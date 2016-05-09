@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"70905"	"it"	"(stunk)"	" ``When I got to Boston, it (stunk), everything about it (stunk),'' he said. </P> "	"nyt_eng_199609.gz"

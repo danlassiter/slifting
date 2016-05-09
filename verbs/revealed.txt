@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"130705"	"he"	"revealed"	" At 38, my patient Michael had reached the top of his profession but was having a lot of trouble getting along with his colleagues. They were, he revealed, afraid of his angry outbursts, which could be provoked by the faintest of criticism from them. </P> "	"nyt_eng_200211.gz"

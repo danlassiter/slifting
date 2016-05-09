@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"156581"	"he"	"teased"	" If less religious, Alei Sinai's residents were no less grief-stricken. The local rabbi, Yishai Barkhen, told the weeping crowd they had accomplished centuries' worth of good deeds even though, he teased, he could rarely fill the synagogue. We're all crying, boiling, burning, as if we'd put our eyes in the Dead Sea, he said. </P> "	"nyt_eng_200508.gz"

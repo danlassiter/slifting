@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"52356"	"you"	"ain't...uh"	" Amy rises to face him down. ``Yeah? Well, you ain't...uh, sorry Ms. Schuett, aren't either one. You're just a dude with his underwear hanging out and I think it's pretty funny.'' She starts to sit but jumps up to add: ``Whatta' ya' mean my underwear's hanging out?'' </P> "	"nyt_eng_199603.gz"

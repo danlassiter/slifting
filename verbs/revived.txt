@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"19406"	"we"	"revived"	" We walked back to the Holiday Inn, passing up the afternoon tea and Western-style cake in the lobby. Whenever we do one museum, one lunch, one movie in Manhattan, I predictably say, ``I just need a quick nap.'' This day I could indulge. Around 8 p.m., we revived, eager to get started again. SoHo and a Movie </P> "	"nyt_eng_199504.gz"

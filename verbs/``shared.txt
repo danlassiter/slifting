@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"36886"	"I"	"``shared"	" ``You don't even know me!'' I spluttered, surprised at my own vehemence. But they did know me. Then, finally, I ``shared,'' to use the 12-step term for telling true feelings. I'm not sure whether it was peer pressure, my distaste for playing class clown, or the epiphany that I would never lick this vice for good unless I asked for help. </P> "	"nyt_eng_199510.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"11565"	"they"	"itch"	" ``They're constricting, they itch,'' she said. ``I wear control tops but they're tighter around the waist. They're hot too.'' </P> "	"nyt_eng_199501.gz"

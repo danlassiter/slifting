@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"68267"	"they"	"were)"	" Attribute them to the anti-Cartesians (they noted, therefore, they were), who seemed to argue that sourcing, not reasoning alone, was knowledge. </P> "	"nyt_eng_199608.gz"

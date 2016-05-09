@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"114558"	"we"	"fully"	" ``When an issue is under discussion or under review, we fully, fully expect people to speak out forcefully, to speak out smartly, to make their case,'' Clarke said at a news conference. ``But when the decision has been reached, the expectations are that you will support that.'' </P> "	"nyt_eng_200205.gz"

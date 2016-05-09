@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44152"	"it"	"will)"	" This thoracic surgeon's name is in almost all the dictionaries now, like the liveryman Thomas Hobson of Hobson's choice (no choice at all), the engineer Edward Murphy of Murphy's law (if anything can go wrong, it will), and the astronomer Edmund Halley of Halley's comet. (Lexicographers are still unsure about Werner Heisenberg of Heisenberg's uncertainty principle.) </P> "	"nyt_eng_199601.gz"

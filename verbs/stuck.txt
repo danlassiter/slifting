@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"154594"	"it"	"stuck"	" Early on, Kramer, a founder of Gay Men's Health Crisis, the HIV-AIDS counseling service, and Act Up, the protest group, gained a reputation for being a public scold about homophobia as well as gay promiscuity. Some reporter called me 'the angriest gay man in the world' or some such, Kramer said. Well, it stuck, but I realized it was very useful for his career as an activist. </P> "	"nyt_eng_200507.gz"

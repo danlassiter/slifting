@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"17065"	"we"	"soak"	" ``You suck, we soak,'' Dre confirms. </P> "	"nyt_eng_199503.gz"

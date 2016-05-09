@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"145423"	"you"	"dope"	" Pass the ball more, you dope, that same fan suggested a week later. </P> "	"nyt_eng_200411.gz"

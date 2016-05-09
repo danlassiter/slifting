@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"41980"	"they"	"blinked"	" ``Finally, they blinked,'' Brecken said. </P> "	"nyt_eng_199512.gz"

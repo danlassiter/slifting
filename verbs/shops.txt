@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"119643"	"she"	"shops"	" When Wagner is not volunteering in the Orthotics Prosthetics Pedorthics Lab at the Institute, she shops, does crafts, joins friends for lunch and attends monthly Amputee Support Group meetings, where she shares her personal experiences with the other members. </P> "	"nyt_eng_200206.gz"

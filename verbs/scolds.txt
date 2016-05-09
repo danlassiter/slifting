@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"81448"	"she"	"scolds"	" Arlene, the anti-abortion protester played by Ms. Reed, is a gloss on Gail Stoney. When her children squabble at the breakfast table on Good Friday, she scolds, ``I won't allow fighting in this house; now turn the other cheek.'' </P> "	"nyt_eng_199612.gz"

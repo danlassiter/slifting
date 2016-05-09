@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"12820"	"it"	"endures"	" ``We'll soon start to make more great memories,'' Fregosi wrote in the letter. ``The game goes on, it endures, and I hope you'll continue to be a part of it.'' </P> "	"nyt_eng_199501.gz"
+"44767"	"it"	"endures"	" Still, there was the beauty. Like the Republic, it endures, let us hope. The beginning of a new year is a time of hope, isn't it? </P> "	"nyt_eng_199601.gz"

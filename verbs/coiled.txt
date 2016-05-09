@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"49043"	"you"	"coiled"	" And those are students who hoped the snake would abandon his vile ways once he saw all the good they've done. Instead, you coiled, hissed, bared your fangs and called them fools. </P> </TEXT> </DOC> <DOC id=NYT_ENG_19960216.0325 type=story > <HEADLINE> NIGERIA TAUNTS THE WORLD WITH ANTI-HUMAN RIGHTS ACTIVITY </HEADLINE> <DATELINE>  (BC-JACKSON-COLUMN-BOS) </DATELINE> <TEXT> "	"nyt_eng_199602.gz"

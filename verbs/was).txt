@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"111797"	"I"	"was)"	" Oh, I clearly remember the plays at church in which my mom always made sure I had a role. As I was a very quiet kid, (really, I was), I usually ended up with a nonspeaking part. I played several animal parts over the years. Of course, there was my shining moment as the star of the East, but that's as close as I ever got to earning an Oscar. </P> "	"nyt_eng_200204.gz"

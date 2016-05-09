@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"82155"	"he"	"buys"	" When he sees a market with promise dip, he buys, expecting to hold on for at least five years. ``I don't think most people understand emerging markets,'' Spano said. </P> "	"nyt_eng_199612.gz"
+"82178"	"he"	"buys"	" When he sees a market with promise dip, he buys, expecting to hold on for at least five years. ``I don't think most people understand emerging markets,'' Spano said. </P> "	"nyt_eng_199612.gz"

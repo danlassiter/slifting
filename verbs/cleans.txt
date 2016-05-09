@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"164491"	"he"	"cleans"	" He cooks, he cleans, he scores! </P> "	"nyt_eng_200603.gz"

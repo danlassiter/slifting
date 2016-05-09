@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"160171"	"you"	"overreact"	" When you try to do too much, you overplay things, you overreact, Khabibulin said. Instead of letting the puck touch you, you try to do something that's not even there. Then pucks start to get through little holes that aren't supposed to be there. </P> "	"nyt_eng_200512.gz"

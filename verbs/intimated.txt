@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138524"	"he"	"intimated"	" The flaw in that plan was that it let Arafat cast a genuine and worthy Palestinian demand for reform as an American-Israeli plot to unseat him. This, he intimated, was but the first step to impose a leadership that would give up Palestinians' aspirations to self-determination, national sovereignty and a right of refugees' return. Given how bitterly Palestinians view America's support for Israel, Arafat's tactic has worked well. </P> "	"nyt_eng_200310.gz"

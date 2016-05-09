@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"159404"	"they"	"score"	" You turn the ball over, they score, it tips the balance, they're more likely to rush the passer, he said. </P> "	"nyt_eng_200511.gz"

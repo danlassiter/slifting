@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"81891"	"he"	"connected"	" Yet he didn't seem consumed with the need to break out. He missed nine straight shots against Idaho, yet played within the game and didn't force the 10th. When he took it, he connected, and it was a key hoop that helped point the Huskies to a victory. </P> "	"nyt_eng_199612.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"30293"	"it"	"signals"	" Certainly the word ``pro-family'' has become a term of art for social conservatives. To those who speak the language of the right, it signals, among other things, a strong opposition to abortion and gay rights as well as support for school vouchers and religious education. </P> "	"nyt_eng_199508.gz"
+"146378"	"it"	"signals"	" Put more generically, and festively, it signals, You're outta here in 90 minutes or less, baby! </P> "	"nyt_eng_200411.gz"

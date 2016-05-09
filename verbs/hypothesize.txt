@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"107634"	"they"	"hypothesize"	" It is a phenomenon that confounds specialists. Maybe, they hypothesize, it's cultural, with families deciding who in their clan most needs calorie-dense foods. That could be a function of gender, birth order or who earns the family's keep. </P> "	"nyt_eng_200202.gz"

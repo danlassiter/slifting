@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"125807"	"she"	"twirled"	" And when young fans approach her, as they did when she entered the lobby of MTV to do a taping earlier in the day, she outdid them in her enthusiasm. Her eyes rolling with delight, she twirled, waved her arms and danced. In her bright yellow shirt and head-wrap, she was a sight to see. ``Be sure not to tell everybody I'm so silly,'' she playfully warned at one point. ``I'm supposed to be deep.'' Then she laughed and shouted, ``Destroy the misconception!'' </P> "	"nyt_eng_200209.gz"

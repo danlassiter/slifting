@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"15161"	"you"	"cheat"	" Said Foreman: ``Listen, you cheat, you're not fighting.'' But Sir Cheeseburger also reminded us that he's still an unpolished announcer. During Round 12 action, he exclaimed: ``That's why I say watch HBO. You're going to see some stuff.'' </P> "	"nyt_eng_199502.gz"

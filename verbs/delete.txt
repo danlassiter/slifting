@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"160673"	"you"	"delete"	" First, you toss it, or in the case of e-mails, you delete, she explains. These are things that can get pitched without question. </P> "	"nyt_eng_200512.gz"

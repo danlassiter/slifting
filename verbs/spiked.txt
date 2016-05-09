@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"81719"	"they"	"spiked"	" ``It used to be that prices started the season low and when it got cold, they spiked, but now prices are starting out high and going even higher,'' said Richard M. Kessel, director of a consumer energy program at Five Towns College in Dix Hills, N.Y. </P> "	"nyt_eng_199612.gz"
+"81791"	"they"	"spiked"	" ``It used to be that prices started the season low and when it got cold, they spiked, but now prices are starting out high and going even higher,'' said Richard M. Kessel, director of a consumer energy program at Five Towns College in Dix Hills, N.Y. </P> "	"nyt_eng_199612.gz"

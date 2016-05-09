@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"178"	"it"	"migrates"	" Such deposits and sediments collect in ocean basins today, replicating the conditions under which oil was formed in the past. Once oil is formed, it migrates, sometimes long distances, and may form pools that are accessible to drillers. </P> "	"nyt_eng_199407.gz"

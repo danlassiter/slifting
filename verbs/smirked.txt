@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"24570"	"they"	"smirked"	" Mickey Mantle, 63, was about to die, and yet people were outraged. Mantle, they smirked, has the money to pay whatever Baylor charged him. Saving Mickey Mantle's life, they sneered, would make a nice line on the Baylor letterhead. </P> "	"nyt_eng_199506.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"83242"	"you"	"rock"	" ``Jacksonville, you rock,'' talk-show host Rosie O'Donnell said on her television program Monday, praising the team in a plug that made local newscasts. </P> "	"nyt_eng_199701.gz"

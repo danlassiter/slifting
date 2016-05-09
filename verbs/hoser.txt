@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"131082"	"you"	"hoser"	" No, you hoser, it is not the U.S. court system. It's a Canadian hockey rink. </P> "	"nyt_eng_200211.gz"

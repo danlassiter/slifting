@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"139052"	"it"	"collapses"	" ``It's so sad,'' said Arlington resident Marianne Comeau as she stood gazing at the ice, still glistening under pink spotlights. ``To work so hard for something, to dream of doing this for so many years, and then, boom, it collapses, just like that.'' </P> "	"nyt_eng_200312.gz"

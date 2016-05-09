@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"61740"	"he"	"reciprocated"	" Word of the allegations reached then-Gov. Jim Hunt's inner circle. Hathaway had contributed more than $50,000 to Hunt's winning race for governor in 1986. After Hunt took office, he reciprocated, backing Hathaway's efforts to serve as whip of the state GOP's delegation to the Republican National Convention in 1988. </P> "	"nyt_eng_199606.gz"

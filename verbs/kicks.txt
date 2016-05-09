@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"164616"	"he"	"kicks"	" In the throes of mania, he kicks, punches, bites and tears things apart. Still, I'm not afraid of him, Glover-Strom says. When he's rapid cycling, he's like a demon. I hate to say that word because they don't understand why they're doing what they're doing. When he's not rapid cycling, he's a very loving child. </P> "	"nyt_eng_200603.gz"

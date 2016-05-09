@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"79965"	"they"	"swore"	" And they did this, they swore, without first consuming the beer. </P> "	"nyt_eng_199612.gz"
+"161415"	"she"	"swore"	" Pushing a plowlike shovel with both hands, Kuwahara was busy clearing the fresh powder to a recessed pile several feet away under which, she swore, lay a pond with carp. Her husband, Naoji, also 80 years old, had climbed a ladder onto the roof, where he deftly plied his shovel to send chunks tumbling down. </P> "	"nyt_eng_200601.gz"
+"161419"	"she"	"swore"	" Pushing a plowlike shovel with both hands, Kuwahara was busy clearing the fresh powder to a recessed pile several feet away under which, she swore, lay a pond with carp. </P> "	"nyt_eng_200601.gz"

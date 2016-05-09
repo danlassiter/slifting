@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"33588"	"it"	"looks"	" The Dutchman's ship _ which encounters this Norwegian vessel while both are huddled in a Norwegian inlet during a storm _ is a black canoe with gaping holes. Borne across the stage on its crew's shoulders, it looks, appropriately enough, like a coffin. When tilted upward, the Dutchman _ baritone Franz Grundheber, in pasty-white makeup and long black tresses _ is revealed inside. </P> "	"nyt_eng_199509.gz"
+"72412"	"she"	"looks"	" For a beautiful girl, she looks, uh, toxic. </P> "	"nyt_eng_199609.gz"
+"72416"	"she"	"looks"	" For a beautiful girl, she looks, uh, toxic. </P> "	"nyt_eng_199609.gz"
+"101893"	"he"	"looks"	" ``Affirmative, we have him, uh, he looks, uh, about 20, yeah, about  29, 28,000 (feet),'' a pilot responded, according to the transcript from  air traffic control. </P> "	"nyt_eng_200111.gz"
+"154577"	"she"	"looks"	" At that point, she looks, walks and quacks like an overt agency employee, said Fred Rustmann, a CIA officer from 1966 to 1990, who supervised Ms. Wilson early in her career and calls her one of the best, an excellent officer. </P> "	"nyt_eng_200507.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"274"	"it"	"taps"	" -- The Panasonic Shiatsu Massage Lounger -- Yes, it does cost $2,795, but isn't your aching back worth it? A deceptively ordinary looking recliner, this chair comes with a remote control that lets you localize the massaging motion to any part of your back and legs. It kneads, it taps, it hums. The personal geisha of shiatsu massagers, it does just about everything except bring you a glass of plum wine. Available at Brookstone. </P> "	"nyt_eng_199407.gz"

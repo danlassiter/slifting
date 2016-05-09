@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"64938"	"I"	"resettled"	" What might have been a column's worth later, I resettled, regrouped, and restarted. And that's when the squirrels decided to pitch a heated disagreement on the rooftop outside my open office window. The cats didn't want to miss that. </P> "	"nyt_eng_199607.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"147557"	"we"	"decline"	" From time to time, we are asked to use the power of our advertising dollars to intervene in the editorial policies of the media, Knuth said. Each time, we decline, explaining that viewers and listeners are the arbiters, not advertisers. </P> "	"nyt_eng_200501.gz"

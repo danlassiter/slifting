@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"39962"	"she"	"chirps"	" She is so smitten with the holiday spirit, she chirps, that she is about to have a ``euphoria attack.'' </P> "	"nyt_eng_199511.gz"

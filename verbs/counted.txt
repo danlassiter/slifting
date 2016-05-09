@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"6109"	"it"	"counted"	" Tucker, Stanford's recruiting coordinator, was ecstatic over the youngster's dunk, but she tried to stay calm. ``Yes, it counted,'' she said. ``Try it again.'' </P> "	"nyt_eng_199410.gz"
+"138675"	"they"	"counted"	" ``I guess everything he threw, they counted,'' Tarver bemoaned. ``Look at who pressed the fight. I pressed the fight. I don't feel like a loser tonight.'' </P> "	"nyt_eng_200311.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"119549"	"I"	"rollerskate"	" With minocycline, Marsala said, Gloria's transformation was ``incredible.'' As Gloria said: ``Before, not many people liked to play with me because I couldn't do the things they wanted to do. Now, I ride my bike, I rollerskate, I can jump, I can even climb a little.'' And Trentham said she is growing again, catching up to her classmates, without any medication side effects. </P> "	"nyt_eng_200206.gz"

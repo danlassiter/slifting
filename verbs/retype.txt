@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"108864"	"I"	"retype"	" B: It's inflated. The texture of it grew. I retyped ``The Fireman'' and as I went I added texture, line by line, character by character, idea by idea. It was a process I often go through with a poem. I don't revise, I retype, and as I'm going through, retyping the lines, things come to me, and my brain suggests, 'Not that word, this one. Not that line, another line.' It's an interior process growing outward through the words. </P> "	"nyt_eng_200203.gz"

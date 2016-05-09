@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"17234"	"it"	"rustles"	" Sometimes bamboo whispers softly like a gentle spring breeze speaking peace and love and renewal. In a gale, it rustles, hoarse, dry, crackling like a fire or a rattler, signalling trouble ahead. Often it simply stands, offering mute testimony to the power of silence. And to the power of simple beauty. </P> "	"nyt_eng_199503.gz"

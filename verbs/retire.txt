@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"115996"	"they"	"retire"	" ``Especially with their lavish retirement benefits, the county takes care of its own this way,'' Frates said. ``For many of these people, they retire, draw a handsome pension and this is a way to augment that.'' </P> "	"nyt_eng_200205.gz"
+"130719"	"I"	"retire"	" ``If I got to go away from here, I retire,'' he said. ``I don't be a barber no more. </P> </TEXT> </DOC> <DOC id=NYT_ENG_20021111.0246 type=story > <HEADLINE> VIDEO COLUMN: 'STAR WARS: EPISODE II,' LORD OF THE RINGS' AND MORE </HEADLINE> <DATELINE> 11-11-02 18:53:00EST (BC-VIDEO-COLUMN-LADN) </DATELINE> <TEXT> "	"nyt_eng_200211.gz"
+"145512"	"I"	"retire"	" If I don't win this fight, I retire, Golota promised this week. I'm getting too old to train this hard for this many weeks for nothing. </P> "	"nyt_eng_200411.gz"

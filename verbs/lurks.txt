@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"136402"	"he"	"lurks"	" In public, Coutts is low-key, deferential, gallant. Dickson is taut, perpetually uncomfortable. In conversation, he lurks, ready to strike, like a snapping turtle. Onboard, he has been known to bite off a few heads. </P> "	"nyt_eng_200301.gz"

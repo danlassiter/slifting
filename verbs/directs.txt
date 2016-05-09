@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"155990"	"he"	"directs"	" Lapidus continues, We chose Roger because he filled so many of those criteria. He's a Renaissance man: He acts, he directs, he writes, he teaches, he has a good sense of how to run a theater, (and) he's passionate about a theater's role in society. </P> "	"nyt_eng_200507.gz"

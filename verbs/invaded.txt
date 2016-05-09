@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165661"	"they"	"invaded"	" Donahoe's soldiers soon discovered wires from roadside bombs snaking back to the island. On Jan. 10, they invaded, blowing up homes and unearthing an enormous weapons cache, though the insurgents apparently caught wind of the operation because by the time the tanks rumbled ashore, they had vanished. The bomb attacks continued, and in February, soldiers in a Bradley fighting vehicle fired on two suspects who they said tried to blow up a convoy and took off running, right past a house. </P> "	"nyt_eng_200604.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"17276"	"I"	"stretch"	" ``Before I go play tennis, I stretch,'' she tells the woman. ``Get my drift?'' </P> "	"nyt_eng_199503.gz"

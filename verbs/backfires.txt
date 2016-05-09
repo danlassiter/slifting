@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"22945"	"it"	"backfires"	" ``We've been praying for a higher dollar, but now that we have one, it backfires,'' said Philippe Huber, assistant director of yen equity trading at UBS Securities. </P> "	"nyt_eng_199505.gz"
+"139936"	"it"	"backfires"	" Interesting, though, that Francona didn't bother to set his rotation so that Martinez would face the Yankees next weekend in Boston. Martinez is scheduled to pitch here Saturday, which means his next start will be next Thursday in Boston against the Orioles, a day before the Yankees arrive. I just know that any time you try to set up your rotation so that a certain guy faces a certain team, it backfires, Schilling said. </P> "	"nyt_eng_200407.gz"

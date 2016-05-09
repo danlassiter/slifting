@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"124139"	"I"	"recorded"	" ``All the games of Michael Jordan, I recorded,'' he said. </P> "	"nyt_eng_200209.gz"

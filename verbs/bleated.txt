@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"124903"	"I"	"bleated"	" As we circled, I bleated, ``110 to 495! Did you see that?'' </P> "	"nyt_eng_200209.gz"

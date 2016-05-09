@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"58959"	"he"	"chuckles"	" As we confess driving across the country, he chuckles, ``Why, you're ....'' </P> "	"nyt_eng_199605.gz"
+"59053"	"he"	"chuckles"	" As we confess driving across the country, he chuckles, ``Why, you're ....'' </P> "	"nyt_eng_199605.gz"
+"160617"	"he"	"chuckles"	" Basilio agrees that he probably should have tumbled, but, he chuckles, I ew I'd have to knock Tony out to win. You know how things were in Boston. But here's what I always say - keep your hands up high and your ass off the floor. So he did until Gene Fullmer knocked out his fading self in 1959 and 1960. </P> "	"nyt_eng_200512.gz"

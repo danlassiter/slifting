@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"50952"	"they"	"bluster"	" Government, they bluster, should leave business alone. The Republicans are right, too _ but only up to a point. In a totally free market economy where our only concern would be how to ease the conduct of commerce, business would be utterly free of taxes and regulation. Monopolies would be legal. </P> "	"nyt_eng_199603.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26590"	"he"	"probed"	" The accepted precepts of teaching were tossed out the window of Shure's studio. To make his points, he probed, dissected, cajoled, bullied, sang in his basso profundo, fumed. Above all, he played, with illuminating clarity and visceral power. </P> "	"nyt_eng_199506.gz"

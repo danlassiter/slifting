@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"105621"	"we"	"sacrifice"	" That's a lot to hope for. Over the course of more than four hours of dense, nonrepeating dialogue, the compulsive reader at ``War and Peace'' will be scanning some 1,000 captions, each conveying a potentially vital piece of information. For each, we sacrifice, say, two seconds' attention to the stage, which adds up through the evening to a whopping 33 minutes. How to sort out the costs and benefits of these constant illuminations and distractions? </P> "	"nyt_eng_200202.gz"

@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"55217"	"it"	"listed"	" Siegel conceded that before 1986, Sotheby's was more ``listings driven'' than ``transaction driven''; that is, it listed, or signed up, more houses than it sold. </P> "	"nyt_eng_199604.gz"
+"55391"	"it"	"listed"	" Siegel conceded that before 1986, Sotheby's was more ``listings driven'' than ``transaction driven''; that is, it listed, or signed up, more houses than it sold. </P> "	"nyt_eng_199604.gz"
+"165625"	"he"	"listed"	" In a resume, he listed, almost as an afterthought, For a number of years, simultaneously with his other activities, Kellogg was on special assignment with the Central Intelligence Agency. </P> "	"nyt_eng_200604.gz"

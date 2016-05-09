@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137343"	"he"	"bleeds"	" ``Collison is consistent,'' Jayhawks guard Michael Lee said. ``He sweats, he bleeds, he does whatever it takes.'' </P> "	"nyt_eng_200303.gz"

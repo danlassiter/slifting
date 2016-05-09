@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"105725"	"you"	"reappear"	" Almost 40 years ago, he had sung: ``You lose yourself, you reappear, you suddenly find you got nothing to fear.'' </P> "	"nyt_eng_200202.gz"

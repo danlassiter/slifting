@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"7447"	"he"	"drives"	" He takes walks, he drives, he spends time outdoors and, three weeks ago, he started riding a bike. </P> "	"nyt_eng_199410.gz"
+"173718"	"he"	"drives"	" Today, he drives, does the crossword, follows sports and politics, reads like a maniac, handles all his finances, does his own grocery shopping and errands, and mails out the family birthday cards with precision timing, a crisp $50 bill inside each one. </P> "	"nyt_eng_200611.gz"

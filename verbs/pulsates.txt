@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"6436"	"it"	"pulsates"	" Every time Franz is on screen, it pulsates, leaving little doubt that the right man won the Emmy Award for Outstanding Dramatic Lead Actor. As usual, his very presence makes ``NYPD Blue'' a very special show. </P> "	"nyt_eng_199410.gz"

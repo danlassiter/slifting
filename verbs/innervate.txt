@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"68757"	"they"	"innervate"	" The theory is that the cold substance causes constriction of facial blood vessels. As they constrict, they innervate, or notify, the dura, the thin membrane that covers the brain. The dura is full of pain fibers, and these could create the headache associated with a severe brainfreeze. (The brain itself doesn't have pain sensors, and so the term ``brainfreeze'' is a little misleading.) </P> "	"nyt_eng_199608.gz"

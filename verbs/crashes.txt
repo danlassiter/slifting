@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"55500"	"it"	"crashes"	" The bankers said, ``But you start talking `options' and they'll say, `Well, it may not be ready but it's ready ENOUGH!' Consumers are used to the fact that none of it works right, it crashes, it's jerky. They want NEW and they want BETTER. You write NEW! and BETTER! on the box and just start shipping!'' </P> "	"nyt_eng_199604.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"54665"	"you"	"diligently"	" Meanwhile, you diligently, happily work your current assignment, never admitting you crave the other job. </P> "	"nyt_eng_199604.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"53509"	"it"	"pales"	" For awhile. Then, it pales, although one doesn't recognize the descent immediately because the production bristles with such vivid acting and stylish conceits. </P> "	"nyt_eng_199603.gz"

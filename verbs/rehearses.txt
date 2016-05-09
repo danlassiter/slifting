@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67070"	"he"	"rehearses"	" A somber Nye walks off mumbling lines to himself, a study in concentration. Take after take, he rehearses, perfecting the lines' pitch, pace and nuance for a segment on computers. </P> "	"nyt_eng_199608.gz"

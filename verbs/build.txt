@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"43129"	"you"	"build"	" In WarCraft, you build, equip and maintain a colorful little army of cartoon warriors. Send them to explore an unknown land and conquer the enemy. You can play either orc or human. </P> "	"nyt_eng_199512.gz"
+"43214"	"you"	"build"	" In WarCraft, you build, equip and maintain a colorful little army of cartoon warriors. Send them to explore an unknown land and conquer the enemy. You can play either orc or human. </P> "	"nyt_eng_199512.gz"

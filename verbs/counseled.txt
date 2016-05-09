@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"125772"	"they"	"counseled"	" The police arrived in less than eight minutes, responding to the alarm set off by the broken window, but the trail was cold. The only way to recover the painting, they counseled, was to offer a hefty reward and to publicize the theft so extensively that the work would be identified as stolen as soon as it surfaced on the market. </P> "	"nyt_eng_200209.gz"

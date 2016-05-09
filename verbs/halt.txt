@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"55874"	"they"	"halt"	" In mid-sentence, they halt, then bend or crouch down and bury their noses in the clusters of blossoms. They inhale deeply, as if their very lives depended on that one breath. </P> "	"nyt_eng_199604.gz"

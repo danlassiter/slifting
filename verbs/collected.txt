@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106477"	"we"	"collected"	" But scientists say the most important mission is rebuilding stockpiles of seed. A leader of the team, Dr. Nasrat Wassimi, a plant geneticist who is a native of Jalalabad, left Afghanistan in 2000 after training local teams to collect samples of native nuts, grains, fruits and vegetables. ``Whatever we could get our hands on, we collected,'' he said. </P> "	"nyt_eng_200202.gz"

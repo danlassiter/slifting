@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"20839"	"they"	"pursued"	" In succession, they pursued, and then lost, Alvin Harper, Andre Rison and Carl Pickens during the free-agent signing period. </P> "	"nyt_eng_199504.gz"

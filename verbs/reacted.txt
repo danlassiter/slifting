@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"21395"	"they"	"reacted"	" ``Baseball's biggest mistake is when they stopped playing the games. The fans were let down. Then they got angry. When the players returned, they reacted, throwing things at them, running out on the field and throwing dollar bills around, carrying signs about greed. The strike triggered the lunatic fringe in some cities.'' </P> "	"nyt_eng_199505.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"47946"	"they"	"happen"	" ``If they (albums) happen, they happen,'' he says. ``It needs to be kind of a natural thing for me. Not so much, `Let's crank it out' or even `Let's do one,' I'd rather just be, `Oh yeah! This is happening!' </P> "	"nyt_eng_199602.gz"

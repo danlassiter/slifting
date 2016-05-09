@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"37679"	"he"	"forecast"	" By 1997, he forecast, the company will be ready to begin investing again on the order of 600 million to 900 million guilders annually. </P> "	"nyt_eng_199510.gz"
+"45039"	"they"	"forecast"	" Employment, they forecast, would fall by about 42,000 jobs. </P> "	"nyt_eng_199601.gz"
+"45069"	"they"	"forecast"	" Employment, they forecast, would fall by about 42,000 jobs. </P> "	"nyt_eng_199601.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"143493"	"we"	"slap"	" Everything we do in the play, we do it for real. If we wash our hands, we wash our hands. If we fight, we slap, continues Manker. We do not sleep with each other, but the audience sometimes does. I know a couple in Vienna. They have a child who is now 6 years old, and I know exactly where that child was (conceived). </P> "	"nyt_eng_200410.gz"

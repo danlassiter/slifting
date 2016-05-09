@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"118577"	"it"	"ebbed"	" The collapse of Enron triggered a wave of condemnation from Congress, but just as quickly as it rose, it ebbed, and it remains unclear if Saturday's conviction of Arthur Andersen LLP will renew the momentum for reform legislation. </P> "	"nyt_eng_200206.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"172469"	"he"	"hisses"	" And for all the messy sexual betrayals and lurid assassination plots, there is an underlying Anglo-Saxon stolidity to the script. When Louis discovers that his mother's boyfriend is actually his father, whom he had long thought dead, he hisses, As far as I'm concerned, you are still dead. His younger brother, Alex, demurs, saying, That's a little harsh, isn't it? </P> "	"nyt_eng_200610.gz"

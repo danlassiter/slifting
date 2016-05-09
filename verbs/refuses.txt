@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"35711"	"she"	"refuses"	" Although the hotel's management has repeatedly offered to give her a larger room, she refuses, choosing to remain in her small digs on the ninth floor. The standard-size bedroom with attached bath is filled with books, photographs and other mementos from her 55 years at the hotel. Becker spends a lot of time reading there. She also visits with friends, dines out and tends to her voluminous correspondence. </P> "	"nyt_eng_199510.gz"
+"44036"	"it"	"refuses"	" He says he especially likes its fierce independence: even though it relies on him for food, it refuses, unlike a dog or cat, to show him any affection. </P> "	"nyt_eng_199512.gz"

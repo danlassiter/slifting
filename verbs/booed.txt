@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"149866"	"they"	"booed"	" When I told them the kids at Springfield College preferred to have the money in the stock market, they booed, said Neal. </P> "	"nyt_eng_200502.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"94029"	"he"	"scribbled"	" Who knows? Richard might come to Wimbledon holding signs, as he did last year in proclamation of Venus' victory. That, he scribbled, was a party to which nobody else was invited. </P> "	"nyt_eng_200106.gz"

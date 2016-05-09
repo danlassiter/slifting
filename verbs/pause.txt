@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"143728"	"we"	"pause"	" Five miles north, on the Richard Russell Parkway, we stop at Hogpen Gap, a parking area where the Appalachian Trail crosses the highway. Scrambling up the AT for a steep 15-minute hike, we pause, breathless, at the Whitley Gap sign pointing left. </P> "	"nyt_eng_200410.gz"

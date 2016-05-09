@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"3752"	"they"	"fume"	" In addition, some revisionists are redefining what that original course of health care reform was. The total bill for health care will be more after reform than it was before, they fume, then go to the back room and produce still another coalition decopage. Or another group insists insurance reforms will take care of all our problems. Let the marketplace work, hisses another group, by keeping government out of the stew and forcing individuals to be responsible. </P> "	"nyt_eng_199408.gz"

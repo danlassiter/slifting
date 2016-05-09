@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"97658"	"they"	"risk"	" The central strategic conundrum is this: The more the United States presses moderate, often autocratic leaders in the Middle East to help in its campaign, the more it jeopardizes them. If they go too far, they risk, at best, being labeled American stooges, and at worst, losing power to Islamic militants in their own societies. </P> "	"nyt_eng_200110.gz"

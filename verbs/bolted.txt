@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"28666"	"he"	"bolted"	" In a minute, he began to flush, and tears slid down his face. When he gave up, the steer knew it; breaking away from the rest, he bolted, heading down the bleachers and toward the midway. </P> "	"nyt_eng_199507.gz"

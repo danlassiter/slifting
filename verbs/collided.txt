@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"49460"	"they"	"collided"	" Zavala said that when he tried to get out of the way of another car that was trying to pass along the snowbound street, they collided, causing minor damage to both cars. Two men in street clothes got out of the second car, identified themselves as detectives and began asking questions. Although Zavala does not speak English, he said he indicated that he did not have a driver's license. </P> "	"nyt_eng_199602.gz"

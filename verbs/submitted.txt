@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"130717"	"he"	"submitted"	" When hygiene codes demanded that he use disposable razors, he submitted, but he still has his straight-edge and his worn leather strop dangling from the arm of a chair, just in case. Alone in the shop, he has never seen a need to have a telephone, so customers cannot call him to make appointments. </P> "	"nyt_eng_200211.gz"

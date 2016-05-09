@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106984"	"he"	"hazards"	" The miles are inside him now, and with a hint of reconciliation he flies back to his life. The challenge, he hazards, is to yearn forward, ``to be homesick for somewhere you had not yet seen, nostalgic for things that had not yet happened.'' </P> "	"nyt_eng_200202.gz"

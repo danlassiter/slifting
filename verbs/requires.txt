@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"99442"	"it"	"requires"	" ``When you find something that appears good, it requires, if you're a small company, that you be exceptionally focused,'' said Robert Hefner, chief executive at Seven Seas. </P> "	"nyt_eng_200110.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"465"	"I"	"deadhead"	" Every few weeks, I wield pruning shears to chop back all the danglers before they look straggly. In between, I deadhead, or snap off, spent blossoms and remove withered leaves. Contained plants must be watered daily if rain isn't forthcoming. An overhang on the porch keeps my plants from being swamped in a downpour, but quantities of water could pose a problem if the containers are exposed. A plastic tablecloth can be thrown over them in a deluge. </P> "	"nyt_eng_199407.gz"

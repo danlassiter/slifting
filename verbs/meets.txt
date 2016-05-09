@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"121984"	"he"	"meets"	" Sure enough, he meets, falls in love with, and marries an actress. And before long, he's more wacko than the remaining 9,999. </P> "	"nyt_eng_200208.gz"

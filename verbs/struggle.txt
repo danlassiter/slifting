@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"115143"	"you"	"struggle"	" ``Kidd is their leader and when your leader goes down, you struggle,'' Silas said. Translation: Now the Nets know what it's like. </P> "	"nyt_eng_200205.gz"
+"143638"	"we"	"struggle"	" If I play great, we win games. If I play good, we win games. If I play bad, we struggle, Plummer said last week, his analysis as simple and straightforward as a matter-of-fact shrug. </P> "	"nyt_eng_200410.gz"

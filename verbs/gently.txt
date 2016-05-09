@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"96871"	"they"	"gently"	" They are un-obituaries, free of the dry statistics and bureaucracy of death. In two or three paragraphs, they gently, briefly restore breath to the lives halted by bin Laden and his box-cutters. </P> "	"nyt_eng_200109.gz"

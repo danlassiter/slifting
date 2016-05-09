@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"141632"	"they"	"hack"	" Most guys, on 3-and-1, they hack, Rodriguez said. On 3-2, you can throw anything you feel like. </P> "	"nyt_eng_200408.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"19744"	"I"	"ballyhooed"	" ``You know, once you become heavyweight champion of the world -- and I talked, I ballyhooed, did everything I could to get that shot,'' Foreman said Monday, cutting himself off before expounding on the demands of his situation. </P> "	"nyt_eng_199504.gz"

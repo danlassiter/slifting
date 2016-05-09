@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"60711"	"she"	"graduated"	" Biggs looks over a list of Olympic hopefuls, checking them off with a chorus of ``She's not in school, she's not in school, she graduated, she's not in school.'' </P> "	"nyt_eng_199605.gz"

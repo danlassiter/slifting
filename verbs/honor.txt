@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"30597"	"you"	"honor"	" ``No, you honor,'' Reasoner said. There is no exact number for choosing diversity, he said. But there needs to be enough minorities enrolled so that ``they don't feel isolated and mere tokened.'' </P> "	"nyt_eng_199508.gz"

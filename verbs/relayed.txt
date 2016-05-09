@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"36417"	"he"	"relayed"	" ``Seattle ought to stick to grunge, man. That's grunge town. We're the baseball town,'' sniffed Harry Netherton, whose father, he relayed, took him to Game 1 of 1954 World Series when Harry was 6 years old. </P> "	"nyt_eng_199510.gz"

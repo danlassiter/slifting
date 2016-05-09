@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"117469"	"I"	"descended"	" About a third of the way around the lake, I descended, Aeneas-like, into the fern-cloaked grotto. Here, amid the cool gloom and the gentle burbling of a spring, I found two striking statues _ a dramatically sculpted river god (by Henry Cheere) and a reclining nymph, before whose bed was etched a few lines of a Latin poem as translated by Alexander Pope: ``Nymph of the Grot, these sacred springs I keep/ And to the Murmur of these waters sleep ...'' </P> "	"nyt_eng_200206.gz"

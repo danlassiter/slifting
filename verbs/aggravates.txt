@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"61971"	"he"	"aggravates"	" But he almost never fights. He agitates, he aggravates, but he never loses it with another player. He hasn't won two championship rings and four rebounding titles at 6-foot-8 without knowing something about human nature. </P> "	"nyt_eng_199606.gz"

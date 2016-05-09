@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"4760"	"he"	"succumbed"	" North, late for his next event, flashed his temper when a press aide tried to get him do a short interview. Finally, he succumbed, barking at a reporter, ``Fire!'' </P> "	"nyt_eng_199409.gz"
+"128912"	"I"	"succumbed"	" Just, whose restaurant has been in business since 1797, sized me up and suggested a fourth, ``to round things off.'' With only the feeblest protest, I succumbed, and she brought over a little number with the subtlety of a sledgehammer: slices of strong, mature cheese, reminiscent of Limburger, arrayed with onion rings and a strip of beef aspic on a slice of sourdough bread spread with pork dripping. A tot of rum had been poured over the ensemble. </P> "	"nyt_eng_200210.gz"

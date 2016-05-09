@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"116127"	"he"	"coldly"	" Genius though he was, Jefferson was fully a white man of his times. In his writings, he coldly, pseudoscientifically assessed the intellect and temperament of African Americans and found them wanting. He argued in letters that the nation's slaves should be freed, but he never made it a public cause. </P> "	"nyt_eng_200205.gz"

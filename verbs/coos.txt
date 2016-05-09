@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"67394"	"he"	"coos"	" Gilchrist, an aspiring actor and model, might have been perfect for the cast, with his wit and mesmerizing androgyny. Beckoning a visitor closer, he coos, ``I won't bite.'' </P> "	"nyt_eng_199608.gz"
+"67426"	"he"	"coos"	" Gilchrist, an aspiring actor and model, might have been perfect for the cast, with his wit and mesmerizing androgyny. Beckoning a visitor closer, he coos, ``I won't bite.'' </P> "	"nyt_eng_199608.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"22037"	"you"	"serve"	" ``If you believe everyone charged with a crime has a right to a lawyer, as I do, you understand that when you're appointed, you serve,'' Tigar said. ``If you have any humanity, you may believe Mr. Nichols should not be the 168th victim of the Oklahoma City bombing.'' </P> "	"nyt_eng_199505.gz"
+"145119"	"they"	"serve"	" Because the campaign has little need to sway these people's views, they serve, in effect, as a backdrop. The real target in these carefully choreographed events is the news media which, the campaign hopes, will carry Cheney's message along with the enthusiastic reactions of the audience. </P> "	"nyt_eng_200410.gz"

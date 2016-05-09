@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"95789"	"he"	"parried"	" Reflecting further, he parried, ``Are you trying to find some daylight between Colin and me?'' </P> "	"nyt_eng_200107.gz"

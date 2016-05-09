@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"27355"	"we"	"sprinted"	" This time, the Connecticut connection was clear. The University of Connecticut women's basketball team, led by Rebecca Lobo, had just finished an undefeated season to take the national championship. Donna, a freckled little dynamo, put us through our paces as if we were in training to go up against them. We dribbled, we sprinted, we shot imaginary balls. Her enthusiasm didn't leave room for embarrassment. We whooped through the workout like a group of junior high school girls. </P> "	"nyt_eng_199507.gz"

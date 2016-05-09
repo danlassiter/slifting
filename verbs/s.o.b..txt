@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138778"	"you"	"s.o.b."	" ``I remember Jack leaving a party in Boston with a young woman on each arm,'' says Manchester. ``He said, 'Some of us have us have got it, Manchester, and some don't. You haven't got it.' I said, 'Jack, you s.o.b., if I had your father's money, I'd have it, too.'' </P> "	"nyt_eng_200311.gz"

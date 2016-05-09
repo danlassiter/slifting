@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"70343"	"it"	"regressed"	" This whirlwind has done nothing for the health of her own ankle _ ``She was on her feet so much after the Olympics, it regressed,'' her mother, Melanie, said _ but, on the other hand, at least she has learned how to wear makeup. </P> "	"nyt_eng_199609.gz"
+"70410"	"it"	"regressed"	" This whirlwind has done nothing for the health of her own ankle _ ``She was on her feet so much after the Olympics, it regressed,'' her mother, Melanie, said _ but, on the other hand, at least she has learned how to wear makeup. </P> "	"nyt_eng_199609.gz"

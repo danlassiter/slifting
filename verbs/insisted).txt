@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"171706"	"he"	"insisted)"	" As much as he has defined baseball in Los Angeles, he seems to miss -- at least a little -- what he left behind 59 years ago. On Tuesday, he walked from his hotel with his old Dodgers' pal, Billy DeLury, to St. Patrick's Cathedral for a prayer (not for a Dodgers' win, he insisted), then to the Lamb's Theater on 44th Street where, in its earlier incarnation as a fraternal club for actors, Scully had his bachelor party before his first marriage. </P> "	"nyt_eng_200610.gz"

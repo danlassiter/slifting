@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"69211"	"we"	"lugged"	" There were diamonds under the soles of our shoes, and it was driving us mad. We dug, we lugged, we sifted and screened. We walked around the ancient volcano crater bent like half-closed pocket knives and gazed at the ground until our eyes crossed. </P> "	"nyt_eng_199608.gz"
+"69246"	"we"	"lugged"	" There were diamonds under the soles of our shoes, and it was driving us mad. We dug, we lugged, we sifted and screened. We walked around the ancient volcano crater bent like half-closed pocket knives and gazed at the ground until our eyes crossed. </P> "	"nyt_eng_199608.gz"

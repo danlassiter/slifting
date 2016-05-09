@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"21273"	"she"	"blurts"	" Later, when the woman returns with flowers to visit whatever's left of the guy she dumped, she's greeted at the door by the son, who is now caring for his father. After a brief, awkward conversation, she blurts, ``I didn't think you'd be like this'' and stumbles tearfully back outside. </P> "	"nyt_eng_199505.gz"

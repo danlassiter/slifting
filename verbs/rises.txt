@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"68747"	"he"	"rises"	" Alas, although he poses the right questions, Schnabel doesn't quite come to grips with them. The result is a rather aimless film with no powerful dramatic focus or impact. Basquiat wanders, he rises, he falls. All the art world's players and poseurs, all its little hypocrisies, are beautifully presented, but not deeply explored. </P> "	"nyt_eng_199608.gz"

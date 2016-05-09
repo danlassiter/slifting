@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"4542"	"he"	"thieved"	" Garza started getting into trouble early. By the time he was 18 he had been arrested 10 times and spent a term at a correctional ranch. From that point on, addicted to heroin, he thieved, burgled and sold drugs to support his habit. He often bungled his crimes. One time he stole a leather jacket from a department store and got caught only because, tags dangling, he courteously held the door for a security guard. </P> "	"nyt_eng_199409.gz"

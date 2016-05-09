@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"34125"	"he"	"buttonhooked"	" Just before the first half, the fans and the Patriots discovered that Young and Jerry Rice have built a snooze-alarm system that would awe the most sophisticated chipmeisters in Silicon Valley. Rice slanted, he went flat-out, he buttonhooked, he pirouetted, he ran, he blocked, he scored. </P> "	"nyt_eng_199509.gz"

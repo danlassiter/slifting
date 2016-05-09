@@ -1,0 +1,7 @@
+"pronoun"	"verb"	"context"	"filename"
+"14962"	"he"	"hit"	" Friday morning, Jefferson, an outfielder, pulled on No. 43 and walked onto the New York Mets' practice fields with 48 minor leaguers and 24 other replacement players like him. He ran, he hit, he participated in a variety of drills. Then he toweled off in the locker room and did his best to explain just why he is here. </P> "	"nyt_eng_199502.gz"
+"80488"	"they"	"hit"	" ``Thank god, they hit,'' he recalled. </P> "	"nyt_eng_199612.gz"
+"80518"	"they"	"hit"	" ``Thank god, they hit,'' he recalled. </P> "	"nyt_eng_199612.gz"
+"80523"	"they"	"hit"	" ``Thank god, they hit,'' he recalled. </P> "	"nyt_eng_199612.gz"
+"109225"	"he"	"hit"	" ``Ron had Gold Gloves, he hit, he had impact on the game,'' Robinson said. ``But the Cubbies never won. I guess the writers figured that three guys off that team were enough _ Ernie Banks, Billy Williams, Fergie Jenkins _ but that's not a valid reason. If a guy belongs, he belongs.'' </P> "	"nyt_eng_200203.gz"
+"127822"	"we"	"hit"	" ``The pitches we needed to hit tonight, we hit,'' Erstad said. ``In the first game, we didn't do that.'' </P> "	"nyt_eng_200210.gz"

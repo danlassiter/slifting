@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"102235"	"they"	"hiss"	" If anyone other than Raid comes near, they hiss, sounding like steam being let out of a pipe. </P> "	"nyt_eng_200112.gz"

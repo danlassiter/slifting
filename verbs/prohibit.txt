@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"78893"	"we"	"prohibit"	" ``We take our lead from our Holy Prophet, Peace Be Upon Him, and whatever it (Islam) prohibits, we prohibit,'' Mullah Hassan said. </P> "	"nyt_eng_199611.gz"
+"78975"	"we"	"prohibit"	" ``We take our lead from our Holy Prophet, Peace Be Upon Him, and whatever it (Islam) prohibits, we prohibit,'' Mullah Hassan said. </P> "	"nyt_eng_199611.gz"
+"79057"	"we"	"prohibit"	" ``We take our lead from our Holy Prophet, Peace Be Upon Him, and whatever it (Islam) prohibits, we prohibit,'' Mullah Hassan said. </P> "	"nyt_eng_199611.gz"

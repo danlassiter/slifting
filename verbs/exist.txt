@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"826"	"we"	"exist"	" ``I am here to tell you we exist, we exist, we exist,'' said Kawahine Kamakea-ohelo of Waimanalo, Hawaii, who dates her family's history on the islands to 1778. ``We want to be recognized as native Hawaiians, native people, indigenous people to the land.'' </P> "	"nyt_eng_199407.gz"
+"51435"	"they"	"exist"	" ``In school districts where superintendents and principals really want to have a school library program, they exist,'' said Sandra Bright Kennedy, director of the board's office of library services. </P> "	"nyt_eng_199603.gz"
+"168254"	"they"	"exist"	" Al-Masri said in an interview: They do exist. It's tangible, they exist, we recognize the fact they exist. What we don't recognize is the legitimacy of the occupation. </P> "	"nyt_eng_200606.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"100234"	"I"	"perceive"	" Literary heroes also ventured to Afghanistan, including Ian Fleming's hero, James Bond, and Dr. John Watson, the stalwart partner of Sherlock Holmes. Upon meeting Watson, Holmes states baldly, ``You have been in Afghanistan, I perceive,'' and proceeds to demonstrate his powers of deduction by laying out the reasons. </P> "	"nyt_eng_200111.gz"
+"100243"	"I"	"perceive"	" Literary heroes also ventured to Afghanistan, including Ian Fleming's hero, James Bond, and Dr. John Watson, the stalwart partner of Sherlock Holmes. Upon meeting Watson, Holmes states baldly, ``You have been in Afghanistan, I perceive,'' and proceeds to demonstrate his powers of deduction by laying out the reasons. </P> "	"nyt_eng_200111.gz"

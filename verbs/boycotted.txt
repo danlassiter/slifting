@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151921"	"he"	"boycotted"	" Like other Chicano leaders, he boycotted, picketed, marched, organized and exhorted his people to master their fears and seize their destinies. </P> "	"nyt_eng_200504.gz"

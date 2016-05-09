@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"25503"	"we"	"bite"	" ``It's the fear of that which makes people show up,'' said Lyle E. Lauterbach, an IRS problem resolution officer supervising the Newark operation Friday and Saturday. ``We are a big dog, we bite, but we are willing to help out.'' </P> "	"nyt_eng_199506.gz"

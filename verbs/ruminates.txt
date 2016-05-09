@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"62903"	"he"	"ruminates"	" Dole, who does not seem to be particularly interested in the conversation, observes mildly that it seems to him that what the tobacco industry is doing is legal. As for the touchy question of addiction, he ruminates, ``I guess it's addictive to some and not to others.'' </P> "	"nyt_eng_199606.gz"

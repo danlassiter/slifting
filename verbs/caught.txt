@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"32029"	"I"	"caught"	" My very first day on the water, I caught, among many lesser models, two 20-inch and one big fat 23-inch trout, a remarkable initiation into the world of fly-fishing, and all this fun cost was my entire retirement fund. </P> "	"nyt_eng_199508.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"57865"	"we"	"erupted"	" ``When they hit the wire, we erupted,'' said Lukas, who watched the race from a box seat with Grindstone owner William T. Young. ``They it hit me right between the eyes: Maybe we didn't win it.'' </P> "	"nyt_eng_199605.gz"
+"162200"	"they"	"erupted"	" Detroit's woes began after World War II, when G.I.'s came home from fighting Germans with the dream of a house-with-garage in the suburbs. By the '60s, racial tensions were simmering. In 1967, they erupted, in the internationally televised race riots, images that seared into the Midwest psyche. Crime, drugs but mostly fear drove one of the nation's most significant white flights to the 'burbs, some of which are now 90 percent white. </P> "	"nyt_eng_200601.gz"

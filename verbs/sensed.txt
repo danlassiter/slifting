@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"39455"	"he"	"sensed"	" ``Resting against the mound of rice was like lying in a big cradle,'' Su writes as Five Dragons spends a night in the shop's storeroom. ``Rice must be the best sleeping potion in the world, he sensed, certainly more effective than a woman's body. And it was right there beneath him.'' </P> "	"nyt_eng_199511.gz"

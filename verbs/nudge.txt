@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"39127"	"they"	"nudge"	" What's interesting is a parent's reaction when his or her little girl turns into a tomboy. Mom and Dad wink, they nudge, they tell the relatives with a sort of chuckling pride that little Melanie likes to hit softballs better than play with dolls. But if little Johnny starts to show decidedly feminine characteristics, they don't wink so much perhaps. </P> "	"nyt_eng_199511.gz"

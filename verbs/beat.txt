@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"58494"	"they"	"beat"	" On Jan. 8, 1975, as a jury would later conclude, Kallinger and his son Michael, then 13, gained entrance to a house in Leonia, N.J., by posing as salesmen. For several hours, they beat, robbed and terrorized eight people inside. </P> "	"nyt_eng_199605.gz"

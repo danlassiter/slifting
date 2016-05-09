@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"62194"	"they"	"scraped"	" They were a different team Saturday night than they were in Game 2. They were determined, they were focused, they scraped, clawed and fought. But in the end, the Florida Panthers still lost. The more talented Avalanche rode a pair of second-period goals to a 3-2 victory in Game 3 of the Stanley Cup finals Saturday night at Miami Arena. The enthusiasm of the home crowd and all the rats in the world couldn't lift the Panthers back into this series. </P> "	"nyt_eng_199606.gz"
+"72736"	"I"	"scraped"	" It took forever to plot a route off that rock. I stacked rocks and brush at places to mark my descent. Finally, I scraped, crunched and inched my way down off that rock. </P> "	"nyt_eng_199609.gz"

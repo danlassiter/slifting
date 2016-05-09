@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44065"	"you"	"lunatic"	" Saturday's slaughter was an ugly end to a season of great expectations and not-so-great expectorations (hello, Bryan Cox, you lunatic, you). Huizenga spent big dough to bring back a veteran team that was touted to be the class of the conference. The winningest coach and greatest passer in NFL history were going all the way. </P> "	"nyt_eng_199512.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"85645"	"we"	"follow"	" ``Where the government goes, we follow,'' said Amin Shah Omar Shah, chairman of PSC Industries Bhd., which agreed to buy control of the Tema shipyard from the Ghanaian government. </P> "	"nyt_eng_199701.gz"
+"85651"	"we"	"follow"	" ``Where the government goes, we follow,'' said Amin Shah Omar Shah, chairman of PSC Industries Bhd., which agreed to buy control of the Tema shipyard from the Ghanaian government. </P> "	"nyt_eng_199701.gz"

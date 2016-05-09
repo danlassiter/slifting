@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"65107"	"he"	"(sprewell"	" Oh, he (Sprewell, not Seuss) could go to Dallas and be the shooting guard there as soon as the Mavericks accede to Jason Kidd's wishes and trade Jim Jackson. Or he could head to Minnesota, as soon as the Timberwolves trade Isaiah Rider, to insure a lucrative career outside the playoffs. </P> "	"nyt_eng_199607.gz"

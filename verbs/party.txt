@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"105510"	"we"	"party"	" ``The extremists are a select group of bad people,'' Khaled said through a translator. ``We are not what Americans have seen of these extremists who are covered from head to toe and who preach this completely monastic life. We drink, we party, we live, just like everybody else.'' </P> "	"nyt_eng_200202.gz"

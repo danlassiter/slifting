@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"18006"	"they"	"rebound"	" ``There are a lot of guys in the sports world that play very hard,'' he said. ``They may not score 25 points, but they go out and do other things. They play great defense, they rebound, they do the things that help their team win. But the media basically looks at points. Yet, if you score 25 points and you took 25 shots, I don't think that's a very good percentage.'' </P> "	"nyt_eng_199503.gz"

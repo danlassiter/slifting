@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"46935"	"we"	"focused"	" ``We prepared well, we focused, we partied hard, no one gave us credit for practicing hard,'' said the 350-pound offensive lineman. ``At fourth-and-one (for the Steelers, in the third quarter, down 20-7, going for it, stopped), people was counting us out. </P> "	"nyt_eng_199601.gz"

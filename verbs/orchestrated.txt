@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"109907"	"he"	"orchestrated"	" Most recently, he orchestrated, before press cameras, the invasion of the Spanish Embassy in Beijing by 25 North Korean refugees seeking asylum. After Vollertsen gave nonstop sidewalk interviews about the imprisonment and torture that the refugees would face at home, the Chinese government put the group on a plane to the Philippines. </P> "	"nyt_eng_200203.gz"

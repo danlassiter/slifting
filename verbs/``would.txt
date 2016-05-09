@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"22760"	"it"	"``would"	" If the House wording is chosen for the Senate bill, Levitt wrote, it ``would, for example, protect companies and individuals from private lawsuits even where the information was purposefully fraudulent.'' </P> "	"nyt_eng_199505.gz"

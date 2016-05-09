@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"80167"	"they"	"tampered"	" When the Panthers decided on a coach, they tampered, got caught and sacrificed a $150,000 fine and second- and sixth-round draft choices to acquire Dom Capers. A small investment, really. They already have the highly developed sense of larceny that, as the Dallas Cowboys will attest, is important in constructing a tradition of NFL excellence. </P> "	"nyt_eng_199612.gz"

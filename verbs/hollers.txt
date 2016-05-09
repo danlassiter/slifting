@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"75522"	"he"	"hollers"	" This distinct style of newspaper-reading was inherited from my father, who reads a paper cover to cover. When he comes across a fascinating fact, perhaps a dispelled myth about Grover Cleveland or how many tons of mustard Burger King uses in a given year, he hollers, ``Gerre, listen to this...,'' and relays the information to my mother. The difference between father and daughter is that my dad is content simply to share these bits of trivia with my mom, while I feel compelled to hold onto the evidence. </P> "	"nyt_eng_199610.gz"
+"89236"	"he"	"hollers"	" At 3 a.m., he hollers, ``Villa Tunari.'' In six hours, we've covered barely 100 miles. </P> "	"nyt_eng_200102.gz"
+"89237"	"he"	"hollers"	" At 3 a.m., he hollers, ``Villa Tunari.'' In six hours, we've covered barely 100 miles. </P> "	"nyt_eng_200102.gz"

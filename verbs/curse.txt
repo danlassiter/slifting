@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"93524"	"they"	"curse"	" Still, fans find ways to be rowdy. They wave flags and blow plastic horns. They throw paper airplanes or anything else they can get their hands on. They yell, they curse, they'll even insult a player's mother. </P> "	"nyt_eng_200106.gz"
+"93525"	"they"	"curse"	" Still, fans find ways to be rowdy. They wave flags and blow plastic horns. They throw paper airplanes or anything else they can get their hands on. They yell, they curse, they'll even insult a player's mother. </P> "	"nyt_eng_200106.gz"

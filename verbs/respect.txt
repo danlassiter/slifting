@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"139080"	"we"	"respect"	" ``We celebrate on the 25th. We honor, we respect, we participate in the Dec. 25 celebrations and festivities,'' Aznikian said. ``On the other hand, we keep our own national traditions that go back 2,000 years and our identity.'' </P> "	"nyt_eng_200401.gz"
+"139081"	"we"	"respect"	" ``We celebrate on the 25th. We honor, we respect, we participate in the Dec. 25 celebrations and festivities,'' Aznikian said. ``On the other hand, we keep our own national traditions that go back 2,000 years and our identity.'' </P> "	"nyt_eng_200401.gz"
+"139082"	"we"	"respect"	" ``We celebrate on the 25th. We honor, we respect, we participate in the Dec. 25 celebrations and festivities,'' Aznikian said. ``On the other hand, we keep our own national traditions that go back 2,000 years and our identity.'' </P> "	"nyt_eng_200401.gz"

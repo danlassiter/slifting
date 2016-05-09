@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"136661"	"you"	"roll"	" Across the parking lot, a group of young Danes is the first to set off. By 10, you roll, too, but only in to town, for coffee and a croissant. </P> "	"nyt_eng_200301.gz"

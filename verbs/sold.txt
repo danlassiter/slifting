@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"75801"	"it"	"sold"	" Of course, not every winner is guaranteed a windfall. In 1994, James Kelman's ``How Late It Was, How Late,'' did ``not very well,'' said Harland, in part because of adverse publicity stemming from Kelman's heavy Glaswegian dialect and use of obscenities. ``Again, it sold, but his was the worst of recent years.'' </P> "	"nyt_eng_199610.gz"

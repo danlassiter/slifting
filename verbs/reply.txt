@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"9204"	"they"	"reply"	" Here is a book that explores a variation on the old joke about the man and woman in their 80s who finally decide to divorce, and when the judge asks why they are bothering so late in life, they reply, ``We wanted to wait until the children were dead.'' </P> "	"nyt_eng_199411.gz"

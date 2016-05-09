@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"42022"	"they"	"reveal"	" At the same time as the discoveries are creating a buzz among researchers, they reveal, once again, the intense rivalries in this difficult field and the extraordinary complexity of AIDS research. </P> "	"nyt_eng_199512.gz"

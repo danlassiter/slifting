@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"108881"	"it"	"intensifies"	" Then, on the wind, comes a deep moan _ undifferentiated, unidentifiable, but somehow primordial. As you move down the dirt track, it intensifies, grows lower, louder. Nothing in sight, but something is out there. </P> "	"nyt_eng_200203.gz"

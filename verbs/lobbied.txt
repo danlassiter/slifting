@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"46062"	"he"	"lobbied"	" Dobler was brave enough to stand up to the NFL and demand that the league pay for the knee-replacement surgery he underwent not that long ago. He petitioned, he lobbied, he fought _ and he lost. </P> "	"nyt_eng_199601.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"115615"	"we"	"quarreled"	" ``We screamed, we quarreled, we had a real falling out,'' said Lyee, now 17. ``We all needed the Internet to do our homework, and Davis just took that away from us. We would have done anything to get back online.'' </P> "	"nyt_eng_200205.gz"

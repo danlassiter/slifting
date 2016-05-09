@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"71787"	"you"	"cover"	" ``If you make a mistake, you cover,'' said Duncan. ``The biggest mistake is not to cover.'' </P> "	"nyt_eng_199609.gz"

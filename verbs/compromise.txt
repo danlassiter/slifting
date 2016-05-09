@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"147579"	"they"	"compromise"	" There have been many instances where, because the insured acted fraudulently, the carrier says, 'I'll defend, but when you lose, you get zero.' That's why, in this situation, they compromise, he said. </P> "	"nyt_eng_200501.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"52116"	"he"	"spun"	" Top shot:He dribbled, he spun, he heaved. And with time expiring, Cameron Dollar beat Washington with a 46-footer _ the first game-winning shot of his career and his only basket of the game. </P> "	"nyt_eng_199603.gz"

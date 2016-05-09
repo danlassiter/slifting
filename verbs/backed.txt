@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"23573"	"she"	"backed"	" ``I'm driving,'' she said like that was something to argue about with a seven-year-old. ``Don't slam the door and watch for the fig tree.'' Grandmother's ``going ahead'' was a lot better than her ``backing up.'' I watched, she backed, we hit the tree and kept going. </P> "	"nyt_eng_199505.gz"

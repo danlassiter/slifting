@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"159517"	"she"	"defends"	" Auriemma, whose recent stars have included Diana Taurasi, Sue Bird and Swin Cash, said of Houston: She blocks shots, she defends, she slashes, she rebounds. There's nothing she can't do. But when you're the best player, you have to come out and think that way every day. I don't think she understands that. I talk a lot to her. I don't know how much she listens, but I get an idea she understands. </P> "	"nyt_eng_200511.gz"

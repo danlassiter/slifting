@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"31644"	"they"	"dawdle"	" About those dining habits. Because midtown Manhattan is her bailiwick, where people stuff their faces at noon, then bolt back to their desks, she did not realize that many New Yorkers actually have lunch. They sit, they dawdle, they chat, they seem to have all the time in the world. </P> "	"nyt_eng_199508.gz"

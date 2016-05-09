@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"16641"	"they"	"remind"	" Naturalists are defense attorneys when it comes to snakes. They say serpents have been victims of bad public relations since Genesis, and the dawn of civilization. People fear snakes because of their lack of knowledge about the reptiles. Snakes, they remind, are God's creatures, too. </P> "	"nyt_eng_199503.gz"
+"38881"	"they"	"remind"	" They want to wait. They remember the TCU game in 1992 and the Rice game last year. The 'Horns, they remind, have four games to play. </P> "	"nyt_eng_199511.gz"
+"160986"	"they"	"remind"	" This, they remind, is a time for human healing and community reconstruction -- not plans for defection. </P> "	"nyt_eng_200512.gz"

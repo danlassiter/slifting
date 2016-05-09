@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"38409"	"you"	"fool"	" She's irresistible, you fool, </P> "	"nyt_eng_199511.gz"

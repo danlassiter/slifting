@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"141997"	"he"	"brightened"	" Mohammad Alami, Al-Jazeera's jovial Washington correspondent who is reporting on the tribunals, took a tour of the prison compound known as Camp Delta, which holds 585 men, mostly of Middle Eastern heritage. He was saddened by what he saw, he said. But as he left, he brightened, describing it as a place where many Mohammeds go in, but -- pointing to himself -- only one Mohammed comes out. </P> "	"nyt_eng_200408.gz"

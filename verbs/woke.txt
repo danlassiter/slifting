@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"132091"	"he"	"woke"	" After a visit home this weekend, Fails returned to College Station on Sunday night. Monday morning, he woke, dressed for breakfast and then told roommate Patrick Fleming he felt ill. Fails collapsed to the floor about 7:45 a.m., was rushed to St. Joseph Regional Health Center in Bryan. He was pronounced dead at 9:03 a.m. </P> "	"nyt_eng_200211.gz"

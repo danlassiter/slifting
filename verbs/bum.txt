@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"36377"	"you"	"bum"	" Wouldn't it be wonderful if O.J. Simpson called a media outlet and said he wanted to talk _ and the reporter at the other end of the line said, ``No thanks, you bum,'' and hung up? </P> "	"nyt_eng_199510.gz"

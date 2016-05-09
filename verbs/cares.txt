@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"8404"	"he"	"cares"	" ``The bottom line is that all this about him being an empty suit, that's all nonsense,'' said Vincent S. Vesce, an old friend who ran on the Pataki slate for Peekskill city council 13 years ago. ``This guy is down-to-earth, he cares, he has a vision.'' </P> "	"nyt_eng_199411.gz"

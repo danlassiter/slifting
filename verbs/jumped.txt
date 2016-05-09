@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"56153"	"I"	"jumped"	" With my father's permission, I made my way to the floor in the moments before the final buzzer. When it went off, I sprinted across the court, I jumped, I ran, I hugged strange people _ things I would never do under any other circumstances. </P> "	"nyt_eng_199604.gz"
+"86209"	"we"	"jumped"	" ``As soon as we heard about Casey's troubles, we jumped,'' Pamela Farmer, a 35-year-old inmate, said in an interview. ``The question wasn't can we do this, but how soon.'' </P> "	"nyt_eng_199702.gz"

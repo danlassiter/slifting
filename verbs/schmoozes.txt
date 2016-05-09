@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"55700"	"he"	"schmoozes"	" William Klein may live in Paris, but he's really at home in your face. Unlike photographers long on lens and short on creativity, he schmoozes, cajoles and shoots. </P> "	"nyt_eng_199604.gz"

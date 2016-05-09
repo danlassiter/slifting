@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"142261"	"she"	"steers"	" Some of the best tales come first. Early on, Greenlaw sails smack into bad weather, as the Hanna Boden battles rogue waves and 100-knot winds, she steers, tossed about like Raggedy Ann on a possessed trampoline. </P> "	"nyt_eng_200409.gz"

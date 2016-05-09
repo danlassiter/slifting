@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"80876"	"he"	"diversified"	" In his early tenure, he diversified, buying Columbia Pictures. Then he sold that for a $1 billion profit, as well as Big Red's wine and food businesses, and concentrated on beverages. Goizueta pushed the 1982 introduction of Diet Coke, now the No. 3 soft drink. Competitor Pepsico Inc.'s profits and sales, by contrast, suffered during this decade because of poor results at its nondrink businesses. </P> "	"nyt_eng_199612.gz"

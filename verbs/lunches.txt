@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26731"	"she"	"lunches"	" As we get to know Carol, whom the delicate-featured Moore portrays with great sympathy, we come to realize that there's not a whole lot there. She shops, she lunches, she aerobicizes and gardens. Her pleasantry-sprinkled conversations, even the passionate ones, have all the depth of the radio sound bites that often fill the large, antiseptic-looking interiors of her home. </P> "	"nyt_eng_199506.gz"

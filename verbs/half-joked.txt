@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"140266"	"he"	"half-joked"	" Asked if it were fans from Germany, he half-joked, I don't want to generalize against the Germans. Just the pink (T-Mobile's color) hand waving in my face might have given it away. </P> "	"nyt_eng_200407.gz"

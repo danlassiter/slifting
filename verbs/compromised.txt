@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"102867"	"they"	"compromised"	" In the end, they compromised, becoming The Arc of Palm Beach County (formerly Association for Retarded Citizens). The reminder has since been dropped in favor of Serving people with development disabilities for 43 years. </P> "	"nyt_eng_200112.gz"
+"102868"	"they"	"compromised"	" In the end, they compromised, becoming The Arc of Palm Beach County (formerly Association for Retarded Citizens). The reminder has since been dropped in favor of Serving people with development disabilities for 43 years. </P> "	"nyt_eng_200112.gz"
+"161720"	"she"	"compromised"	" Bulgaria has turned out three exceptionals - the retired Maleeva sisters (Manuela, Katarina, Magdalena) - and Pironkova may make four. An offspring of champions, an oarsman and a swimmer, she compromised, with their blessings, choosing tennis. </P> "	"nyt_eng_200601.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"126029"	"they"	"delay"	" Campbell, for one, is certainly cautious. He is waiting until he gets a clearer sense of demand from customers before investing in new cranes, computer software and other equipment. And right now, the mining companies that pay up to $400,000 for his locomotives remain reluctant to spend and are paying off previous purchases more slowly. ``If people can delay, they delay,'' Campbell said. ``There's a lot of caution, a lot of pessimism.'' </P> "	"nyt_eng_200209.gz"

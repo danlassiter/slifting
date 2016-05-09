@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"59822"	"it"	"gleans"	" ``A good name is like a golden crown _ it glows, it gleans, it gives off a radiance,'' the rabbi continued. ``And no matter what some may say, no one can tarnish the crown of the good name that Mike Boorda fashioned in his lifetime.'' </P> "	"nyt_eng_199605.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"48011"	"they"	"slashed"	" Then came the metamorphosis. To meet customer demand for lower prices, companies began questioning their methods, their products, the size of their work forces _ even their very reason to exist. To grow, they slashed, re-engineered, and bought and sold assets. </P> "	"nyt_eng_199602.gz"

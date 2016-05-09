@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"75745"	"she"	"chants"	" We first meet the very professional Hortense (Marianne Jean-Baptiste) conducting an eye examination in her optometrist shop. Sliding different lenses in front of the patient's eyes, she chants, ``Better with... or without?'' </P> "	"nyt_eng_199610.gz"

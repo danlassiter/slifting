@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"107914"	"I"	"sent"	" Advani said he had dispatched paramilitary forces on Wednesday. ``Whatever I could spare, I sent,'' he said, predicting the violence would be brought under control ``in a couple of days.'' </P> "	"nyt_eng_200202.gz"
+"139124"	"he"	"sent"	" His offersbof help are rarely solicited or expected. Out of the blue last year, he sent, via personal messenger, bandannas and whiskey to the quorum-busting Democrats in Oklahoma. The accompanying note said, ``Stand your ground.'' </P> "	"nyt_eng_200401.gz"

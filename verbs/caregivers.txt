@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"148591"	"we"	"caregivers"	" For most of us, there is a point at which we feel we're dying too, we caregivers, said Schacht, who gave up her longtime counseling practice when her husband became critically ill in 1997. And the thoughts that go through our minds are very difficult to deal with. We don't want to share them. We don't want to think them. The reality is, you're human. </P> "	"nyt_eng_200501.gz"

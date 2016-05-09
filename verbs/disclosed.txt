@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"128978"	"she"	"disclosed"	" An accompanying article by the gossip columnist Cindy Adams quoted a distraught Grubman as saying she planned to include Danielle Steel novels among the five paperback books she is allowed. Her Yorkshire terriers, Peanut and Crunch, she disclosed, will remain in her Manhhatan apartment, in the care of a house-sitting friend. </P> "	"nyt_eng_200210.gz"

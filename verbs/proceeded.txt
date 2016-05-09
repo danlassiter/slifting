@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"45873"	"he"	"proceeded"	" Elected on a wave of resentment at regulation, rancid government and the spoils system of the old order, he proceeded, as prime minister, to pack Italy's institutions with his supporters and thumbed his nose at all considerations of conflict of interest, independent media control and the concentration of economic power. </P> "	"nyt_eng_199601.gz"

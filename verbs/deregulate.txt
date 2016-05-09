@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26099"	"they"	"deregulate"	" So I would say the auctions are a very powerful idea. They simplify government, they deregulate, they give businesses very quick jump starts, and they would be a horrible idea if it was just one company doing the buying. The key is, it has to be competitive. </P> "	"nyt_eng_199506.gz"

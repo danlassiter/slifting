@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"163515"	"he"	"assessed"	" Others, like Drake Mosier of Half Moon Bay, Calif., stood atop a balcony and watched the madness with a mixture of amusement and hope. A veteran Mardi Gras tourist, Mosier, 39, said the crowds were slightly thinner than in years past. But, he assessed, The city is going to be okay. </P> "	"nyt_eng_200602.gz"

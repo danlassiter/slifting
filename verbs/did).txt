@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"20837"	"it"	"did)"	" Think of it. Here is a nationally televised sporting event on a major network and no backup generator exists if a lightning bolt strikes (which, apparently, it did), or if power lines fall after too many fat birds sit on them. </P> "	"nyt_eng_199504.gz"
+"75175"	"he"	"did)"	" Though it seemed at the time as if he might not need it (as it turned out, he did), Richter was given a little margin for error at 17 minutes 50 seconds of the period. </P> "	"nyt_eng_199610.gz"
+"112806"	"he"	"did)"	" If George predeceased Edward VIII (as, of course, he did), his daughter Elizabeth would have succeeded as queen, unless (continuing in the realm of the hypothetical) she had by that time acquired a brother. </P> "	"nyt_eng_200204.gz"
+"112807"	"he"	"did)"	" If George predeceased Edward VIII (as, of course, he did), his daughter Elizabeth would have succeeded as queen, unless (continuing in the realm of the hypothetical) she had by that time acquired a brother. </P> "	"nyt_eng_200204.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"40801"	"I"	"bike"	" ``This past year, I have pretty much worked out four and five days a week,'' he said. ``That's really been my job. I run, I bike, I play racquetball, go hiking, whatever.'' </P> "	"nyt_eng_199511.gz"

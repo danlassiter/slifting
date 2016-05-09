@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"50045"	"he"	"shoots"	" It is the only way he, and the team, can make a name for themselves. So, he shoots, even from dead spots. </P> "	"nyt_eng_199602.gz"
+"100360"	"he"	"shoots"	" ``I was doubling for a guy who was trying to kill Erik with a bulldozer,'' Martinez recalled. ``Erik throws a gasoline container under the tracks, he shoots, sparks fly, and then everything goes up in flames, including me.'' </P> "	"nyt_eng_200111.gz"
+"159019"	"she"	"shoots"	" I loved May for her truthfulness and her youth, and I loved Janine for wanting to have it all (a career and a family) and getting it, she said. I loved Marie's courage and what Molly went through at Abu Ghraib and became the story, which wasn't good. And Mary does something that no one else does -- she carries that big camera, she shoots, she edits and gets lost in the soul of the people. </P> "	"nyt_eng_200510.gz"

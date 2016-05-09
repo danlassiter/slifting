@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"171707"	"they"	"tease"	" They banter, they tease, they shed a tear. They flirt, they date, they stare mournfully at the swimming pool. </P> "	"nyt_eng_200610.gz"

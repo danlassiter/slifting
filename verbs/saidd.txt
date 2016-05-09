@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"123266"	"he"	"saidd"	" Italiano said he had lost $1,000 in the casino of the ship, the Regal Empress, more than twice the cost of the two-day cruise. But that morning, he did not seem to mind. He was still giddy from the endless meals and the obsequious staff, he saidd, as women in straw hats and men in baseball caps shuffled past.  </P> "	"nyt_eng_200208.gz"

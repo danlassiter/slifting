@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"43816"	"he"	"rules"	" Now, with Malkovich ready to plunge into the studio's ersatz swamp, the director has still not made up his mind. Instead of simply shooting the film's 167th and final scene, he rules, there will be two scenes, numbered 167/1 and 167/2. In the first, Malkovich struggles through the swamp and emerges on the other side. In the second, he disappears beneath the water. </P> "	"nyt_eng_199512.gz"

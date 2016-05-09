@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"108961"	"you"	"relax"	" ``What struck me is that we have been in front of the NCAA in every decade since the 1950s,'' Todd said on Friday. ``What tends to happen is that they catch you doing one thing, you tighten up for a while, but you relax back into the culture; you get caught again, you tighten up, you relax, you get caught again. It's my intent to break the culture.'' </P> "	"nyt_eng_200203.gz"
+"173664"	"they"	"relax"	" They're greeted, in fact, by Teresa White, a slim blonde who looks like a young Dolly Parton. Once I tell them I lost 200 pounds after surgery, they relax, she says with a smile. </P> "	"nyt_eng_200611.gz"

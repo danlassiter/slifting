@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"40606"	"it"	"largest"	" The rejection is unusual for the Machinists union. It's the first time the union's Seattle lodge, it largest, has rejected a contract that was recommended by the union leadership, union leaders said. </P> "	"nyt_eng_199511.gz"

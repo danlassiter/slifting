@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"173487"	"he"	"arrives"	" But my gravy rescues are nothing compared with those of my childhood buddy Barry Kauffman. Each Thanksgiving, he has a sign-up list for cooks. They tell him how many will be at their table and when they want to sit down to dinner. Following their schedules, he arrives, has a glass of wine, catches up with the gossip, and then he makes their gravy. </P> "	"nyt_eng_200611.gz"

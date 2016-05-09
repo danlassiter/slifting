@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"130079"	"we"	"rage"	" We talk back to the characters on the screen, or shush the people behind us who are doing it; we walk out in disgust, or come back the next night. We weep, we rage, we snore, we aspirate our popcorn in bursts of helpless laughter. </P> "	"nyt_eng_200211.gz"
+"130080"	"we"	"rage"	" We talk back to the characters on the screen, or shush the people behind us who are doing it; we walk out in disgust, or come back the next night. We weep, we rage, we snore, we aspirate our popcorn in bursts of helpless laughter. </P> "	"nyt_eng_200211.gz"
+"130671"	"we"	"rage"	" We talk back to the characters on the screen, or shush the people behind us who are doing it; we walk out in disgust, or come back the next night. We weep, we rage, we snore, we aspirate our popcorn in bursts of helpless laughter. </P> "	"nyt_eng_200211.gz"
+"130679"	"we"	"rage"	" We talk back to the characters on the screen, or shush the people behind us who are doing it; we walk out in disgust, or come back the next night. We weep, we rage, we snore, we aspirate our popcorn in bursts of helpless laughter. </P> "	"nyt_eng_200211.gz"

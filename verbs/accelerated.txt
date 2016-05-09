@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"15658"	"he"	"accelerated"	" Puccio's spokesman, Howard Rubenstein, said Matthew lost control of the station wagon and drove into a clump of bushes on the edge of the embankment. ``Instead of hitting the brake, he accelerated,'' Rubenstein said. </P> "	"nyt_eng_199502.gz"

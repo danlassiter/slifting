@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"37558"	"I"	"gulp"	" I'm dying to meet my neighbors. When King and Walker appear, I gulp, ``Could I have your autographs?'' </P> "	"nyt_eng_199510.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"133664"	"he"	"(actually"	" If the Bruins were to get Neuheisel, he (actually, UCLA boosters) would have to pay the UW more than $2 million in penalties, in addition to paying Toledo's $153,000 annual base salary for five years. And that's before dealing with Neuheisel's salary, which would have to be around $1.5 million annually or he would be viewed among his peers as a primo chump. </P> "	"nyt_eng_200212.gz"

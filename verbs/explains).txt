@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67870"	"he"	"explains)"	" Bigler recommends Anne Klein II's navy wool maxi coat, $539 (navy is a basic neutral that looks good on everybody, he explains), Vertigo's black polyester single-breasted, self-belted, elongated jacket, $345, with matching boot-cut flat-front trouser, $125; and Via Spiga's black polished calf square-toed midcalf boot, $240. </P> "	"nyt_eng_199608.gz"

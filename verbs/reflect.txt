@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"16853"	"I"	"reflect"	" There's a diorama of a soldier's life told from a boy's point of view -- not so unusual, I reflect, since boys not yet teen-agers often joined the military in those days. </P> "	"nyt_eng_199503.gz"

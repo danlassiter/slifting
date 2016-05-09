@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"11745"	"she"	"hates"	" My wife and I have this love-hate relationship about houses. Any house I love, she hates, and vice versa. </P> "	"nyt_eng_199501.gz"

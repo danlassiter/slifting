@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"100397"	"it"	"flourished"	" As the city's only mosque for nearly a decade, it flourished, attracting immigrants representing every corner of the Muslim world: North Africa, the Middle East, India and Asia. Services are conducted in Arabic, and Islamic education is available for all age groups. </P> "	"nyt_eng_200111.gz"

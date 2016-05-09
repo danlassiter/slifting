@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"16232"	"I"	"teach"	" ``When I'm in town, I teach,'' he said. ``It's a thrilling experience -- it's about as thrilling an experience as I have. Acting is fine, but this is fantastic ... </P> "	"nyt_eng_199503.gz"
+"96612"	"they"	"teach"	" So while Pakistan's Islamic schools don't appear to directly teach young Muslim men to go out and kill infidels, they clearly promote an ironclad adherence to their reading of Islam, allowing no room for dissent. Islam is God's unquestionable truth, they teach, a position that leads to inevitable conflict with people who believe otherwise. </P> "	"nyt_eng_200109.gz"

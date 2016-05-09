@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"10483"	"I"	"object"	" ``Your honor, I object,'' Ferguson said. ``This is not my signature.'' </P> "	"nyt_eng_199412.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"71963"	"she"	"practices"	" The visibly pregnant Lo, for example, refuses to acknowledge that the swelling in her stomach is anything more than a bit of excess weight. She concentrates on her highly unrealistic goal of becoming an airline flight attendant. Each night, after they've broken into yet another ghastly pastel suburban home, she practices, carrying a tray of drinks through simulated turbulent conditions. </P> "	"nyt_eng_199609.gz"

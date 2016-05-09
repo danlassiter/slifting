@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"116067"	"it"	"faces"	" Since then, the Met has added more than three million works of art, with about 64,000 on display at any one time for its five million annual visitors. Although the scope of the collection and the size of its funding make the Met one of the world's premier institutions, it faces, as do all museums, a common challenge: simply keeping track of the works and information about them. </P> "	"nyt_eng_200205.gz"

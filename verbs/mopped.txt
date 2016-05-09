@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"76216"	"I"	"mopped"	" ``I folded sheets, ironed sheets, washed sheets,'' she said. Then, she went on to housekeeping. ``I cleaned rooms, I mopped, swept, dusted, did beds,'' she said. ``It's awful work.'' </P> "	"nyt_eng_199610.gz"

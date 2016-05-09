@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"35445"	"I"	"daresay"	" Paul McLaughlin, I daresay, would have been the first to agree. </P> "	"nyt_eng_199510.gz"
+"45075"	"I"	"daresay"	" ``Cezanne is, I daresay, the star that guides us,'' he told a French magazine recently. </P> "	"nyt_eng_199601.gz"
+"45880"	"I"	"daresay"	" ``Cezanne is, I daresay, the star that guides us,'' he told a French magazine recently. </P> "	"nyt_eng_199601.gz"

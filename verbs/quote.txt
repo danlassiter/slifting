@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"134635"	"I"	"quote"	" ``On the nuclear weapons, there's one and a half lines,'' he said. ``It says, I quote, `The declaration ignores efforts to procure uranium from Niger. Why is the Iraqi regime hiding their uranium procurement?''' </P> "	"nyt_eng_200212.gz"
+"171097"	"I"	"quote"	" He said, I quote, 'Show me just what Muhammad brought that was new, and there you will find things only evil and inhuman, such as his command to spread by the sword the faith he preached,' the pope said. </P> "	"nyt_eng_200609.gz"

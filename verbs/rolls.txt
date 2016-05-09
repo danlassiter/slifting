@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"164031"	"it"	"rolls"	" It rattles, it rolls, said Bartholomew, 62, a retired crew boat captain, whose trailer sits between the Mississippi River and the slab where his home once stood. It is like telling you to get out. </P> "	"nyt_eng_200603.gz"
+"164045"	"it"	"rolls"	" It rattles, it rolls, said Bartholomew, 62, a retired crew boat captain, whose trailer sits between the Mississippi River and the slab where his home once stood. It is like telling you to get out. </P> "	"nyt_eng_200603.gz"

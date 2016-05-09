@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"9003"	"it"	"weakened"	" In 10 days of existence, the storm has proved as fickle in intensity as its zigzag course. As a tropical storm, it killed hundreds of people when it hit Cuba and Haiti early this week. On Wednesday, it weakened, but nevertheless cut a swath across Florida that caused $200 million in damage. </P> "	"nyt_eng_199411.gz"
+"146786"	"he"	"weakened"	" The artisan who made it did so for the family of a man sickened by the rancid flood waters. His fever peaked, he weakened, he passed. At 35, he was gone. His name was Vernio Faustin. </P> "	"nyt_eng_200412.gz"

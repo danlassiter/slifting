@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"150775"	"we"	"farm"	" For God's sake, we farm, she said. We know what manure smells like. But our air is so bad we can't breathe. </P> "	"nyt_eng_200503.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"83162"	"you"	"shaved"	" This latest test was virtually pain-free; having gone through my shaves before, Lyn was practically blase. ``Oh, you shaved,'' she said calmly as we dressed for a holiday party. </P> "	"nyt_eng_199701.gz"
+"83163"	"I"	"shaved"	" After three decades of hair, my hairless mug seemed foreign. I learned again what I have discovered on each previous test shave: Mine still is a face not craggy enough to go beardless. Not enough grooves mark life's wear. Somehow, a gray beard does. And so, just as I have in the past, I shaved, I looked, I shaved no more. The hair is coming back. </P> "	"nyt_eng_199701.gz"

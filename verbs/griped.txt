@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"150048"	"they"	"griped"	" Thousands of irate liberals called Salazar's office, accusing him of betrayal. Why, they griped, he was voting ... like a moderate Hispanic lawman! </P> "	"nyt_eng_200503.gz"

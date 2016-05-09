@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"24075"	"he"	"fantasizes"	" In one song on 2Pac's current top-10 album, ``Me Against the World,'' the rapper (whose real name is Tupac Shakur) muses, ``Two childhood friends just died/I couldn't cry, a damned shame/When will we ever change?/And what remains from a 12-gauge to the brain?'' But elsewhere on the same album, he fantasizes, ``Body bags are adversaries that I had to bury ... My only thought is, `Open fire, hit the district attorney.' '' </P> "	"nyt_eng_199506.gz"

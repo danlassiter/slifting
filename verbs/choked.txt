@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"157811"	"I"	"choked"	" The trip to northern Minnesota was supposed to be one of the high adventures that Scout troops embark on every three years. Troop 212 was camped on Little Saganaga Lake on Aug. 17, 2004, when Jedamus developed a painful sore throat. By midnight when I tried to take a sip of water, I choked, she said. When dawn came, I said I needed to get out. </P> "	"nyt_eng_200509.gz"

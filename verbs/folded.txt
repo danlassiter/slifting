@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"6925"	"they"	"folded"	" ``I was in their camp and everything was going well, but then a week before our first scrimmage, they folded,'' he said. ``So that was another blow. But the good thing I got out of that was I found out what I really had to do to make it. It exposed me to the pressures of performing each and every day, with the possibility of getting cut. If you look at it that way, you've got to give it your all every day.'' </P> "	"nyt_eng_199410.gz"

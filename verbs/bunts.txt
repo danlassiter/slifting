@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"127601"	"he"	"bunts"	" ``Eckstein, he's just a pain,'' Mays said. ``That's what he does, he hits and runs, he bunts, he puts the ball in play. He'll take one in the arm or ribs, it doesn't matter. He gets on base, that's the type of guy he is. He's one of those scrappy players.'' </P> "	"nyt_eng_200210.gz"

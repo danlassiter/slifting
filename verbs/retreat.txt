@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"76454"	"they"	"retreat"	" Whether this translates into a declaration of independence is another question. ``Scots quite like the idea of putting independence forward as an idea, but when confronted with the reality of it, they retreat,'' said Magnus Linklater, a former editor of The Scotsman. Devolution, though, is something else. </P> "	"nyt_eng_199610.gz"

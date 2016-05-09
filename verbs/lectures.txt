@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106570"	"she"	"lectures"	" Now she tries to teach her college students to approach literature with that same voracious appetite. You'll never be a great writer, she lectures, if you're not a great reader. </P> "	"nyt_eng_200202.gz"

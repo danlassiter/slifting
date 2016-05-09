@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"113872"	"they"	"paint"	" ``They play, they paint, they do sports,'' said Battah, who coordinates the project on the Palestinian side. ``As soon as they get together, they forget about the political situation.'' </P> "	"nyt_eng_200204.gz"
+"169341"	"they"	"paint"	" They draw pictures, they paint, they sing songs, they sculpt. Of course, they hear a lot about the Bible. Some children are older teens, some are too young for school. If the child can walk, he can dance, Richardson says. If he can color with a crayon, he can paint. </P> "	"nyt_eng_200608.gz"

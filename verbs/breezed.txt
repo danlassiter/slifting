@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"123166"	"he"	"breezed"	" ``In my mind, to a certain extent, he breezed,'' Dodgers manager Jim Tracy said of Thursday's performance. ``The only time he got damaged was when he fell behind 3-0 to Derek Lee, threw a strike, then threw another strike that was hit out of the ballpark. Other than that, his control never wavered the rest of the way and he pitched ahead in the count. </P> "	"nyt_eng_200208.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"102604"	"he"	"dreamed"	" With the children no longer babies, the couple were planning a more luxurious future. When he retired, he dreamed, they would ride motorcycles across the country. ``He wasn't sentimental; I was the sentimental one,'' said Mrs. Rogan. ``He always said if he won the Lotto, he would sell the house in a second and move upstate.'' </P> "	"nyt_eng_200112.gz"

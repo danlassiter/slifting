@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"73535"	"it"	"blows"	" ``I mean, he'll go to the post (finish the game if asked). But you never know. If it blows, it blows, and then we don't have him.'' </P> "	"nyt_eng_199610.gz"

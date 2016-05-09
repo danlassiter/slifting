@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"65090"	"I"	"agonized"	" Where, I agonized, is my place? </P> "	"nyt_eng_199607.gz"
+"65213"	"I"	"agonized"	" Where, I agonized, is my place? </P> "	"nyt_eng_199607.gz"

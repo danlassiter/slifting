@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"13501"	"I"	"fancied"	" No Republican worth the name can hear the word ``revolution'' without at least an interior shudder of revulsion. This, I fancied, accounted for that ever so brief pause by the elegant Mrs. Whitman when she was asked to acknowledge that she was in league with Robespierre. </P> "	"nyt_eng_199501.gz"

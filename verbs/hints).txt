@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"78595"	"he"	"hints)"	" Because they did not have children (he was made impotent and sterile by a war wound, the author speculates; she was averse to sex, he hints), they filled their empty private lives with flatterers and hangers-on, and thereby made it easy to be exploited by the many people who apparently stole from them and made their old age miserable. </P> "	"nyt_eng_199611.gz"

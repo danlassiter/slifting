@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"3305"	"he"	"plays"	" ``It's not there's a brochure saying after this many days, he plays,'' Irvine Coach Rod Baker said. ``The knee and the hand he can rehab, but what kind of rehab can you do for the mind? You can't do pushups and situps for your head.'' </P> "	"nyt_eng_199408.gz"
+"129287"	"it"	"plays"	" Like a digital Swiss Army Knife, it plays, stores and records DVDs, CDs, MP3s and digital photos. It shows TV programs and home video. It has a TiVo-style digital video recorder and electronic programming guide. </P> "	"nyt_eng_200210.gz"

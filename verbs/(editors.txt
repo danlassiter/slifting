@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26951"	"he"	"(editors"	" Arizona regulators haven't received a heavy volume of complaints on any particular type of mutual fund or fund risk, he (EDITORS, he IS CORRECT) said. </P> "	"nyt_eng_199507.gz"

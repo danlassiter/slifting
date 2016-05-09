@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"93151"	"he"	"nods"	" In a short called ``Moonshine,'' Arbuckle breaks character to acknowledge flaws in the script; in another short, he starts to undress, then notices the camera and tells it to pan up. After the camera obediently moves upward, he nods, smiles, and proceeds to take his pants off. </P> "	"nyt_eng_200106.gz"
+"98684"	"he"	"nods"	" ``It's not where his head is,'' said a senior official from another country who sat in on meetings here. ``We talk trade, he nods, then steers things back to terrorism.'' </P> "	"nyt_eng_200110.gz"
+"119018"	"she"	"nods"	" From the end of the hallway, a woman walks in and smiles at him. She's a regular, Zheng says. She passes, she nods, she drops a dollar in his case. </P> "	"nyt_eng_200206.gz"
+"119020"	"she"	"nods"	" From the end of the hallway, a woman walks in and smiles at him. She's a regular, Zheng says. She passes, she nods, she drops a dollar in his case. </P> "	"nyt_eng_200206.gz"
+"161849"	"he"	"nods"	" Being involved in a project that could be equally influential as any from NASA's glory days doesn't seem to faze Gilman, however. When asked a relatively straightforward question about how it feels to have his hands mixed into history, he nods, thinks for a moment and responds. </P> "	"nyt_eng_200601.gz"

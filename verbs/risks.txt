@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"49334"	"she"	"risks"	" Yes, of course, she risks, in contemporary parlance, overexposure. The diary has sold 25 million copies in 55 languages; it has been published in a definitive scholarly edition and last year was again republished in English in a new translation with added material. </P> "	"nyt_eng_199602.gz"

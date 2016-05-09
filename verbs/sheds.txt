@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"42637"	"it"	"sheds"	" However, this tactic alone does not suffice for survival. As the host lobster grows, it sheds, or molts, its entire skin, mouthparts and all, and the symbiont would end up getting shed into oblivion were it not for stage two. </P> "	"nyt_eng_199512.gz"
+"42678"	"it"	"sheds"	" However, this tactic alone does not suffice for survival. As the host lobster grows, it sheds, or molts, its entire skin, mouthparts and all, and the symbiont would end up getting shed into oblivion were it not for stage two. </P> "	"nyt_eng_199512.gz"

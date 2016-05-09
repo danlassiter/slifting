@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"128101"	"he"	"boisterous"	" He's loud, he boisterous, he's sometimes overwhelming and he makes his own rules as he attacks life -- and he doesn't care what anyone thinks of him. </P> "	"nyt_eng_200210.gz"

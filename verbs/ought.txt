@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"35328"	"it"	"ought"	" After a decade or more in which its economy has grown at a cracking pace, South Korea reckons it is ready to join the OECD. If so, it ought, in its own interests as well as those of trade diplomacy, to act more like a member of the industrial countries' club. </P> "	"nyt_eng_199509.gz"
+"35329"	"it"	"ought"	" After a decade or more in which its economy has grown at a cracking pace, South Korea reckons it is ready to join the OECD. If so, it ought, in its own interests as well as those of trade diplomacy, to act more like a member of the industrial countries' club. </P> "	"nyt_eng_199509.gz"

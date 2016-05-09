@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"143341"	"he"	"punches"	" Like Burnout 3, Omega is a maniacal exercise in wanton violence. As Astro is beset by such colorful creatures as flying piranha, gigantic bees and trench-coat-wearing villains, he punches, kicks, fires a laser beam, blasts a machine gun in all directions or curls himself into a ball and batters his way through giant robots like a jackhammer. Battles are exciting and chaotic. </P> "	"nyt_eng_200409.gz"

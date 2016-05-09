@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92784"	"he"	"e-mailed"	" Just as I was about to tap him on the shoulder to get to my question, he e-mailed, ``OK, the definition already.'' It is ``nonsequential writing with free user movement.'' </P> "	"nyt_eng_200106.gz"

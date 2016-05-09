@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"13144"	"they"	"hugged"	" At the end, like champion prizefighters after 15 brilliant rounds, they hugged, rejoicing in what the two of them had done and shared. They wowed viewers across the globe, and that pleases professionals. It's what they get paid for, giving us visual and visceral thrills. But it's their baby, belonging really only to them. </P> "	"nyt_eng_199501.gz"
+"102029"	"they"	"hugged"	" When Ghulam Sarvar and his brother Hanon met at their parents house for the first time in three years, they hugged, they wept, they laughed and made up. </P> "	"nyt_eng_200111.gz"
+"102055"	"they"	"hugged"	" When Ghulam Sarvar and his brother Hanon met at their parents' house for the first time in three years, they hugged, they wept, they laughed and made up. </P> "	"nyt_eng_200111.gz"
+"113302"	"they"	"hugged"	" His fans were ecstatic. As the surveys of voters leaving the polls began giving him second place, they hugged, hopping up and down. </P> "	"nyt_eng_200204.gz"

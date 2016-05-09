@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"3237"	"she"	"salivated"	" The mosquito's flesh-sawing proboscis quickly drilled into a surface capillary and she began filling her belly with blood. As the mosquito fed, she salivated, injecting an anesthetic and anticoagulant into Moon's hand to help insure an uninterrupted meal. A long minute or two later, the satiated mosquito, her abdomen red and swollen, drifted off, almost too heavy to fly, to a sanctuary where she could concentrate the protein in the blood and disgorge the watery remains. </P> "	"nyt_eng_199408.gz"

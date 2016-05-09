@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"63548"	"you"	"nits"	" ``What are yiz, freakin' stupid? You morons are gonna get yourselves popped, and then where'll you be? In jail, you nits, that's where.'' </P> "	"nyt_eng_199607.gz"

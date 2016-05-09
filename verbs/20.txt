@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"6270"	"she"	"20"	" The biggest ``up'' of all was Bacall's marriage to Bogart in 1945. He was 46, she 20, and their 12{ years together -- before his death from throat cancer -- were the best of her life. </P> "	"nyt_eng_199410.gz"

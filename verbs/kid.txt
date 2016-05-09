@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"88849"	"they"	"kid"	" All in good fun. ``They joke, they kid, but nobody has any hard feelings,'' York said. </P> "	"nyt_eng_199703.gz"

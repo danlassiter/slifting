@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"58230"	"it"	"swings"	" ``New Jersey is a bellwether state, it swings, you can't count it in either column and it is always hotly contested,'' said Ed Gillespie, communications director for the Republican National Committee. ``We have a few seats there to pick up.'' </P> "	"nyt_eng_199605.gz"

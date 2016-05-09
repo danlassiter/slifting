@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"93237"	"you"	"buy"	" ``When it's high, you buy,'' he said. ``Buy anything, stocks, options _ just buy.'' . </P> "	"nyt_eng_200106.gz"
+"145848"	"I"	"buy"	" I want, I buy, I get -- even if it means going into debt, she says. We live in a disposable society where if something breaks, it ceases to function. We think, 'Oh, it's OK. We'll just get a new one.'  </P> "	"nyt_eng_200411.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"68822"	"she"	"auditioned"	" Ms. Clark, whose original name was Autilia Ventimiglia, was born in Scranton, Pa. She studied at the Juilliard School, intending to become a classical pianist. But when one of the Clark Sisters left that popular singing group in the 1940s, she auditioned, got the job and changed her name. </P> "	"nyt_eng_199608.gz"

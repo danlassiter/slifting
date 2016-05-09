@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"36716"	"it"	"sucks"	" ``It's just the damn system in this case doesn't work. To be honest, it sucks,'' he said. </P> "	"nyt_eng_199510.gz"
+"161963"	"it"	"sucks"	" Poole is philosophical. Even when I do get low it's just for 5 or 10 minutes, he said. I'm just a happy guy. I mean, like, it sucks, basically, but it happened to me and I'm still alive. </P> "	"nyt_eng_200601.gz"

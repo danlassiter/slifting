@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"149818"	"she"	"snipes"	" He's baffled by Indian culture, anxious to get back to the big city. She interprets this as snobbery. Accompanying him to an exclusive resort hotel he's thinking of buying, she snipes, You want people to come to India without having to deal with Indians. </P> "	"nyt_eng_200502.gz"

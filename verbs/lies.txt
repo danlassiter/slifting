@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"2421"	"it"	"lies"	" Researchers call the virus ``Type O,'' because it is an outlier, that is, it lies, or exists, outside the expected range of the human immunodeficiency virus type-1, or HIV-1, family, of which it is part. </P> "	"nyt_eng_199408.gz"
+"21873"	"he"	"lies"	" ``Oh, he lies,'' Robinson began. </P> "	"nyt_eng_199505.gz"
+"29446"	"she"	"lies"	" When one of her clients, with whom she does business by e-mail, FedEx and phone, asks her out for dinner, she lies, implying she has a boyfriend. Then she orders pizza for one _ via computer. </P> "	"nyt_eng_199507.gz"
+"63507"	"he"	"lies"	" But in the end, both Russia's past and future (though equally unpredictable) define character. The horror of the tale is that even a fairly decent guy like Max (yes, he lies, cheats and steals, but much less so than others in his position) finds himself evolving into a killer, in order to the rise to the top of the heap. </P> "	"nyt_eng_199607.gz"
+"63572"	"he"	"lies"	" But in the end, both Russia's past and future (though equally unpredictable) define character. The horror of the tale is that even a fairly decent guy like Max (yes, he lies, cheats and steals, but much less so than others in his position) finds himself evolving into a killer, in order to the rise to the top of the heap. </P> "	"nyt_eng_199607.gz"

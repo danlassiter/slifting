@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"5723"	"they"	"bombed"	" The Dolphins, 3-0 at the time, fell behind, 28-0, to the Vikings in the Metrodome. Ignoring the thunderous noise, the Dolphins also ignored the urge to cry uncle. Instead, they bombed, blitzed and barged their way back to 28-all in the fourth period . . . but lost. </P> "	"nyt_eng_199409.gz"
+"5728"	"they"	"bombed"	" The Dolphins, 3-0 at the time, fell behind, 28-0, to the Vikings in the Metrodome. Ignoring the thunderous noise, the Dolphins also ignored the urge to cry uncle. Instead, they bombed, blitzed and barged their way back to 28-all in the fourth period . . . but lost. </P> "	"nyt_eng_199409.gz"

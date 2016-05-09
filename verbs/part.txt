@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"85703"	"they"	"part"	" The most significant addition, and the longest, is a scene in which Jabba the Hutt, discussed in all three films but not seen until ``Return of the Jedi,'' catches up with Han Solo near the Millennium Falcon. After a chat, they part, still on speaking terms. </P> "	"nyt_eng_199701.gz"

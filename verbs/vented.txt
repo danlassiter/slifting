@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138090"	"they"	"vented"	" At their news conference, they vented, with the desperate idealism of young officers who find themselves in a corrupt and inefficient system. </P> "	"nyt_eng_200307.gz"

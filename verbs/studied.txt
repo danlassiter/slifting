@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"75105"	"he"	"studied"	" Freedom in music has also been important in Rollins' life, and twice he retired from the business to free himself from its confines. During those times, he studied, practiced and returned, revitalized. </P> "	"nyt_eng_199610.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"2130"	"he"	"fumes"	" While Orkney Vas goes off to earn some extra money for his son's wedding and honeymoon, his wife takes up with Botho August. Fabian reacts much the way Hamlet initially reacts to his mother's affair with his uncle: he sulks, he fumes, he agonizes. </P> "	"nyt_eng_199408.gz"

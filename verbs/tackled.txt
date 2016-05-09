@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"148293"	"they"	"tackled"	" They covered, they tackled, they played hard, Belichick said. They gave a tremendous effort. </P> "	"nyt_eng_200501.gz"

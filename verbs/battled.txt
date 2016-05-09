@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"57005"	"they"	"battled"	" They worked, they battled, they tried. In the end, it wasn't enough. What caught up to the Bruins Saturday, as they bowed out of the the playoffs in the first round for the third time in four years, was what plagued them all year: too much reliance on their good players (which drove them to exhaustion), not enough depth and not enough talent. </P> "	"nyt_eng_199604.gz"
+"70138"	"we"	"battled"	" ``Hey, we battled,'' Greenwell said. ``We battled again tonight, but we just came up short in the end.'' </P> "	"nyt_eng_199609.gz"
+"155689"	"I"	"battled"	" S---, man, I battled, Bronson said into the phone. When I started warming up in the bullpen, the ball felt like a f---ing shot put. Literally. </P> "	"nyt_eng_200507.gz"

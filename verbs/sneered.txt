@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"26171"	"they"	"sneered"	" Of course, opponents of his plan called it ``politics.'' Talking tough on crime, they sneered, makes for good campaign rhetoric. </P> "	"nyt_eng_199506.gz"
+"117484"	"he"	"sneered"	" McKinley growled that Lewis had a lot of woman in him and repeatedly called Lewis a coward, adding, ``It takes guts to get in the ring, but it takes heart to stay there.'' And when McKinley was asked if Tyson was on any medication, he sneered, ``Go ask him, and we'll pick you up off the floor.'' </P> "	"nyt_eng_200206.gz"
+"173619"	"he"	"sneered"	" The boatman did not know anything about the poet's version of the isle with its bee-loud glade. To locals, he sneered, the place was known as Rat Island. </P> "	"nyt_eng_200611.gz"

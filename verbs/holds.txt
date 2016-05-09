@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"22445"	"he"	"holds"	" Archer, 67, is from the River Oaks section of Houston and represents one of the most affluent congressional districts in the country. He has spent a quarter-century in the House fighting for tax breaks for oil and gas producers, banks, timber companies and other industries. These tax advantages, he holds, are essential to keep the industries profitable and the economy strong. </P> "	"nyt_eng_199505.gz"

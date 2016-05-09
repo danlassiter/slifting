@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"85102"	"we"	"floated"	" For a day and a half, we floated, paddled and waded along the Rio Grande, sunned like turtles, crossed from Texas into Mexico and back again a good two dozen times, slept under an impossibly starry sky, ate outrageously good camp food, and saw no human beings other than two friendly guides from Far Flung Adventures, the rafting company we had chosen to help arrange our trip. </P> "	"nyt_eng_199701.gz"

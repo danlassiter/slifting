@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"105945"	"she"	"glided"	" It was a significant practice for Kwan, the young woman favored to win the women's figure skating event. Dressed in a simple outfit of black, her face locked in concentration, she glided, leapt and spun across the ice, elegantly and flawlessly. </P> "	"nyt_eng_200202.gz"
+"105984"	"she"	"glided"	" It was a significant practice for Kwan, the young woman favored to win the women's figure skating event. Dressed in a simple outfit of black, her face locked in concentration, she glided, leapt and spun across the ice, elegantly and flawlessly. </P> "	"nyt_eng_200202.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"88233"	"I"	"approached"	" Assured by my driver that it was, I approached, rang a bell and was admitted. </P> "	"nyt_eng_199702.gz"

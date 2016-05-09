@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"71524"	"she"	"reappeared"	" Still, on Aug. 29, Parker burst into Ms. DiMedici's apartment with a hammer and an Uzi submachine gun and abducted her. Two days later, she reappeared, apparently unharmed. An unsuccessful police hunt for Parker began, and police guards were posted outside her home around the clock on Aug. 31, protection cut to irregular spot checks by patrol cars last Friday. </P> "	"nyt_eng_199609.gz"
+"105146"	"it"	"reappeared"	" It was not until 1998, when he was coaching at Tulane, that Smith had the erroneous information removed. And when he returned to Kentucky last year, it reappeared, picked up from his earlier bio there. </P> "	"nyt_eng_200202.gz"

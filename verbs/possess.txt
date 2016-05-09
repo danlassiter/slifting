@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"63413"	"I"	"possess"	" Like most Americans, I possess, or am possessed by, about 10 identifying code words or numbers. Social Security, passport, and the personal identification number (PIN) to open my account at the nighttime window at the bank have all been nicely learned by rote, along with my Army serial number, which I no longer need but cannot delete from the program in my brain. After those comes trouble. </P> "	"nyt_eng_199607.gz"

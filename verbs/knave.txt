@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"120201"	"you"	"knave"	" ``Vaclav,'' he screams immediately. ``Do you not see, you knave, I am bleeding to death?'' Successively then, in the rhythm of the clockwork figures that circle atop one of Prague's Old Town towers, Rudolph's doctor, courtiers and guards troop in, followed by the clergy, heads of guilds, leading citizens and Maisel, the emperor's wealthy court Jew. </P> "	"nyt_eng_200207.gz"

@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"50979"	"she"	"struggles"	" Asked to explain just what it is she does now, she struggles, settling finally on a label she invented: a mind, body, spirit healing facilitator. </P> "	"nyt_eng_199603.gz"
+"51063"	"she"	"struggles"	" Asked to explain just what it is she does now, she struggles, settling finally on a label she invented: a mind, body, spirit healing facilitator. </P> "	"nyt_eng_199603.gz"
+"79438"	"he"	"struggles"	" He likened his travails to the National Football League's greatest receiver, the 49ers' Jerry Rice. ``When he doesn't get involved early, he struggles,'' said Johnson. ``You have to get the great ones in the flow.'' </P> "	"nyt_eng_199611.gz"
+"152091"	"he"	"struggles"	" When it gets away from him, he struggles, Scioscia said. You have to have a game plan and the tools to stay away from the big inning. </P> "	"nyt_eng_200504.gz"
+"155171"	"he"	"struggles"	" So at 8:30 a.m. on a Wednesday, he sits in a community-college classroom between a Russian woman and a Mexican man. And when English teacher Linda Yazdani asks him to compose a sentence containing a promise, he struggles, then says: </P> "	"nyt_eng_200507.gz"

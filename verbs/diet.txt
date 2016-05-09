@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7418"	"I"	"diet"	" ``It's not something that you can bury yourself in the sand over and say, `It's never going to affect me,''' Reeves said. ``I've heard people say, `I exercise, I diet, I watch my weight.' But it can happen to them, too. Breast cancer is very indiscriminate, and that's the frightening thing.'' </P> "	"nyt_eng_199410.gz"

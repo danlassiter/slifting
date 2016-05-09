@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"32400"	"it"	"freezes"	" Several readers wrote to point out that there is another, more common reason for the streaks: Airplane engines emit condensed water vapor. As soon as that mist hits frigid, high-altitude air, it freezes, creating streaks, says Alex Spencer of the Smithsonian's National Air and Space Museum. </P> "	"nyt_eng_199508.gz"
+"50955"	"it"	"freezes"	" ``Yes, it freezes,'' she said. ``And we have to chop the ice away so the animals can drink. It's hard work. But, there is no stress out here. I mean things like sirens blaring all of the time.'' </P> "	"nyt_eng_199603.gz"
+"51011"	"it"	"freezes"	" ``Yes, it freezes,'' she said. ``And we have to chop the ice away so the animals can drink. It's hard work. But, there is no stress out here. I mean things like sirens blaring all of the time.'' </P> "	"nyt_eng_199603.gz"
+"51040"	"it"	"freezes"	" ``Yes, it freezes,'' she said. ``And we have to chop the ice away so the animals can drink. It's hard work. But, there is no stress out here. I mean things like sirens blaring all of the time.'' </P> "	"nyt_eng_199603.gz"
+"113553"	"he"	"freezes"	" At that, he freezes, mouth agape. Now both boys are doing their rendition of Spin the Statue and I'm it. </P> "	"nyt_eng_200204.gz"

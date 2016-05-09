@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"39635"	"they"	"observe"	" When pressed, however, the lumber people note that it takes 17 times as much energy to produce a ton of steel as a ton of lumber. They also point to the unsightly damage caused by open-pit mines and deplore the depletion of resources. By contrast, they observe, trees grow back. </P> </TEXT> </DOC> <DOC id=NYT_ENG_19951113.0683 type=story > <HEADLINE> UAL DECIDES IT WON'T MAKE BID FOR USAIR </HEADLINE> <DATELINE>  (BC-UNITED-USAIR-350&AMP;ADD-NYT) </DATELINE> <TEXT> "	"nyt_eng_199511.gz"

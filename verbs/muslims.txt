@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"99465"	"we"	"muslims"	" ``We Hausa, we Muslims, our people have been here for 200 years,'' said Ado M. Ibrahim, a Hausa leader in Jos and the owner of a primary school. ``We tell them we have the same rights. But they are always trying to portray us as outsiders.'' </P> "	"nyt_eng_200110.gz"
+"99491"	"we"	"muslims"	" ``We Hausa, we Muslims, our people have been here for 200 years,'' said Ado M. Ibrahim, a Hausa leader in Jos and the owner of a primary school. ``We tell them we have the same rights. But they are always trying to portray us as outsiders.'' </P> "	"nyt_eng_200110.gz"

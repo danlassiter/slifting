@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"76236"	"they"	"allow"	" Even at companies doing well in the cities, some executives say there is more money to be made in the suburbs. But earnings, they allow, are not everything. </P> "	"nyt_eng_199610.gz"

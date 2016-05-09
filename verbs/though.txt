@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92367"	"I"	"though"	" ``There was time to come back, Cameron said. ``When it got to 8-7, I though, `Oh, yeah.' </P> "	"nyt_eng_200105.gz"

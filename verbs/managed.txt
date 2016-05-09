@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"140662"	"they"	"managed"	" I am absolutely sure however, that my little sisters will be rollicking enough for the four of us. After all, they managed, very cleverly, to be born after me. </P> "	"nyt_eng_200408.gz"
+"143855"	"he"	"managed"	" Cute is not a word that anyone would use to describe Lagerfeld Gallery. Karl Lagerfeld is too experienced to play with pyrotechnics. With a Chanel show on Friday that will have 99 models, and a dinner at his home that evening for Nicole Kidman and Baz Luhrmann, he managed, with his usual dexterity, to produce a smart Gallery collection. </P> "	"nyt_eng_200410.gz"

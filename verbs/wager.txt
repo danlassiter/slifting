@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"13667"	"I"	"wager"	" Napoleon napped before, after and during battles. Thomas Edison napped incessantly, although his great brainstorm -- the cursed light bulb -- has bedeviled snoozers everywhere. Winston Churchill once said: ``You must sleep sometime between lunch and dinner ... Take off your clothes and get into bed.'' He practiced what he preached, even in wartime. Churchill also tippled. It is no accident, I wager, that the well-rested and well-oiled Prime Minister bested his wartime nemesis, the teetotaling midnight rambler Adolf Hitler. </P> "	"nyt_eng_199502.gz"
+"78360"	"I"	"wager"	" ``Great, I wager, must be the frustration such a raven doth cause thee,'' quoth the ancient traveler. </P> "	"nyt_eng_199611.gz"

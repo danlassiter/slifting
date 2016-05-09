@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"30885"	"we"	"japanese"	" ``But we Japanese are the same: we swing from one extreme to the other. As peoples, we Japanese, like the Germans, have strong collective discipline. When our energies are channeled in the right direction, this is fine, but when they are misused, terrible things happen.'' </P> "	"nyt_eng_199508.gz"
+"30886"	"we"	"japanese"	" ``But we Japanese are the same: we swing from one extreme to the other. As peoples, we Japanese, like the Germans, have strong collective discipline. When our energies are channeled in the right direction, this is fine, but when they are misused, terrible things happen.'' </P> "	"nyt_eng_199508.gz"

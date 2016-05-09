@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"146919"	"she"	"triumphs"	" John's apology is not enough for Flor, who struggles to find just the right word to describe the moral failing that so enrages her. After some head shaking and hand wringing, she triumphs, and Cristina also succeeds in finding the English equivalent. The problem with John, both mother and daughter declare, is that he's smug. </P> "	"nyt_eng_200412.gz"

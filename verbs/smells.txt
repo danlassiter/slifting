@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"152572"	"it"	"smells"	" When you scratch the pine tree on the front of Detwiler's funny Christmas card, it smells, to me, like a urinal mint Season's greetings, it says on the tree. On the back of the box the cards come in, it says: </P> "	"nyt_eng_200505.gz"

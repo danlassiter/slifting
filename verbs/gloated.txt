@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106727"	"she"	"gloated"	" ``You feel sorry for me,'' she once wrote to a patron, ``because a woman's name raises doubts until her work is seen.'' To another, she gloated, ``I have seen myself honored by all the kings and rulers of Europe to whom I have sent my works.'' </P> "	"nyt_eng_200202.gz"

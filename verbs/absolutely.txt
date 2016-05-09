@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106541"	"you"	"absolutely"	" And at this point it becomes clear to me what is so special about Lyon: The food doesn't strike a single false note. If you want French food with soul, you absolutely, positively have to put Lyon on your itinerary. </P> "	"nyt_eng_200202.gz"

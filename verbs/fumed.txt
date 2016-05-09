@@ -1,0 +1,7 @@
+"pronoun"	"verb"	"context"	"filename"
+"25164"	"he"	"fumed"	" Clyde is a likeable guy, and a lot of otherwise-objective observers are rooting for him to get a ring, now or soon. But Drexler has grown weary of any line of questioning regarding his titleless career. When I asked him yesterday about the high school thing, he fumed, ``That's not a Game 4 question.'' </P> "	"nyt_eng_199506.gz"
+"30122"	"he"	"fumed"	" The charges against his company were, he fumed, ``complete fabrications''; they were ``untrue, irresponsible and self-serving.'' </P> "	"nyt_eng_199508.gz"
+"30125"	"he"	"fumed"	" The charges against his company were, he fumed, ``complete fabrications''; they were ``untrue, irresponsible and self-serving.'' </P> "	"nyt_eng_199508.gz"
+"30128"	"he"	"fumed"	" The charges against his company were, he fumed, ``complete fabrications''; they were ``untrue, irresponsible and self-serving.'' </P> "	"nyt_eng_199508.gz"
+"30131"	"he"	"fumed"	" The charges against his company were, he fumed, ``complete fabrications''; they were ``untrue, irresponsible and self-serving.'' </P> "	"nyt_eng_199508.gz"
+"30414"	"he"	"fumed"	" The charges against his company were, he fumed, ``complete fabrications''; they were ``untrue, irresponsible and self-serving.'' </P> "	"nyt_eng_199508.gz"

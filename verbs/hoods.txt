@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"36383"	"you"	"hoods"	" Nobody said, ``Listen, you hoods, put down your guns, stop threatening and shooting at cops, obey the legitimate orders of the police and then maybe you won't be so terribly frightened and upset, darlings.'' </P> "	"nyt_eng_199510.gz"

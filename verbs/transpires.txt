@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"111443"	"it"	"transpires"	" The pimps still want her, it transpires, because Malika has squirreled away a small fortune to help her escape from prostitution. While the movie then becomes a thriller, it is most noteworthy for its depiction of the harsh life of North African immigrant families in housing projects in the suburbs, or ``banlieues,'' that surround Paris. In these families, the movie suggests, wives and daughters are constantly hounded by husbands and brothers. </P> "	"nyt_eng_200204.gz"

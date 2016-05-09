@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"69571"	"I"	"resign"	" ``While I served, I sought to avoid the limelight because I did not want to become the message,'' Morris said in a statement issued by the Clinton campaign. ``Now, I resign, so I will not become the issue.'' </P> "	"nyt_eng_199608.gz"

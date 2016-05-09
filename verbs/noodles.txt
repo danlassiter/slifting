@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"167630"	"he"	"noodles"	" Still the purest of dancers, he noodles, darts and spins with deceptive casualness, teasingly shrugging off the gifted student who looms over the stage in Years later in a film of himself in training, part of a video by Olivier Simola. The choreography Millepied and Barton have given him could not be performed in the same way, and so affectingly, by a lesser artist. On the other hand, it reveals a relaxed performer and his great gift for subtle but whole-bodied shifts in dynamics. </P> "	"nyt_eng_200606.gz"

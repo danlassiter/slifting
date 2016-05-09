@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"144393"	"I"	"game"	" Yeah, I game, said Ginger Inskeep, 33, a paralegal from Superior, as her friends squealed with laughter. </P> "	"nyt_eng_200410.gz"

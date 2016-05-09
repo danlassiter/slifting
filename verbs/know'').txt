@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"114447"	"you"	"know'')"	" For another, the story takes place in A.D. 211, with a Roman as the arrogant aristocrat. He is a rich senator (``I've just bought Hertfordshire, you know''), and his child bride is the daughter of a poor shopkeeper who made his struggling way from Khartoum to the empire's opposite end. </P> "	"nyt_eng_200205.gz"

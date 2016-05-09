@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"84330"	"they"	"rob"	" Just as the child-model had to be a girl, Beavis is the archetype of teenage boyhood. He and Butthead, his companion, think of nothing but scoring with girls; when girls do not cooperate, they rob, guzzle pills, cause traffic accidents and enjoy it. </P> "	"nyt_eng_199701.gz"
+"84331"	"they"	"rob"	" Just as the child-model had to be a girl, Beavis is the archetype of teenage boyhood. He and Butthead, his companion, think of nothing but scoring with girls; when girls do not cooperate, they rob, guzzle pills, cause traffic accidents and enjoy it. </P> "	"nyt_eng_199701.gz"
+"84731"	"they"	"rob"	" Just as the child-model had to be a girl, Beavis is the archetype of teenage boyhood. He and Butthead, his companion, think of nothing but scoring with girls; when girls do not cooperate, they rob, guzzle pills, cause traffic accidents and enjoy it. </P> "	"nyt_eng_199701.gz"

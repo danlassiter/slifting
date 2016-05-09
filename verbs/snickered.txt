@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7937"	"I"	"snickered"	" Well, I snickered, too, when I whizzed past the first of several signs that said ``winery'' along U.S. 69/75 just south of Atoka. </P> "	"nyt_eng_199411.gz"

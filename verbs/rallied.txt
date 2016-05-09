@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"102165"	"they"	"rallied"	" Against a team that beat them four times last season, the Lakers should have come apart shortly thereafter. Instead, they rallied, and behind a 30-point effort from Kobe Bryant, bumped their franchise-best start to 14-1. </P> "	"nyt_eng_200112.gz"

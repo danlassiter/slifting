@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"41410"	"we"	"learned)"	" We got a big welcome from Jim and his wife, Joanne (the gifted decorator, we learned), who introduced us to two visiting families from North Carolina and Maryland with whose children Sophie had instantly bonded. We were summarily waved to the breakfast table and, with the spontaneous intimacy of strangers at an inn, shared a feast of baked oatmeal with fruit topping, egg souffle, bagels and cinnamon-raisin bread with jam and honey butter. </P> "	"nyt_eng_199511.gz"

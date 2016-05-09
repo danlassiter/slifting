@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7293"	"he"	"threatens"	" He also demands that Stilwell's Burma divisions turn their attention to relieving Japanese pressure against the Chinese in Yunnan Province. If this is not done within one week, he threatens, he will take his substantial forces in East B urma across the Salween River into China. </P> "	"nyt_eng_199410.gz"

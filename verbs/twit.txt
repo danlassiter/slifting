@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"111157"	"you"	"twit"	" Uh, she used to watch his four kids, you twit, not him. </P> "	"nyt_eng_200203.gz"

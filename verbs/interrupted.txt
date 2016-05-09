@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"160392"	"he"	"interrupted"	" When Clark heard that, he interrupted, saying: Your Honor, they had Tony here. I can't put him on the stand. He'll tell you I didn't do nothing but drive the car two weeks later. Y'all got him right here. </P> "	"nyt_eng_200512.gz"

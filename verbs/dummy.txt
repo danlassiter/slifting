@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"18445"	"you"	"dummy"	" ``I thought, you dummy, you've let Raymond in it,'' Nicklaus said. </P> "	"nyt_eng_199504.gz"

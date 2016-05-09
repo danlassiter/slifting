@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"58021"	"they"	"cook"	" ``The relatives stay for about a month. In that time you don't do anything. They bathe the baby, they wash the laundry, they cook, they give you special dishes. </P> "	"nyt_eng_199605.gz"
+"58022"	"they"	"cook"	" ``The relatives stay for about a month. In that time you don't do anything. They bathe the baby, they wash the laundry, they cook, they give you special dishes. </P> "	"nyt_eng_199605.gz"

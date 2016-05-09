@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"84970"	"they"	"shoot"	" ``I was no longer feeling. I was thinking, `If they shoot, they shoot,''' he said. ``That's not the way a human's mind is supposed to work.'' </P> "	"nyt_eng_199701.gz"
+"85063"	"they"	"shoot"	" ``I was no longer feeling. I was thinking, `If they shoot, they shoot,''' he said. ``That's not the way a human's mind is supposed to work.'' </P> "	"nyt_eng_199701.gz"
+"157679"	"we"	"shoot"	" You loot, we shoot, one of them read. </P> "	"nyt_eng_200509.gz"

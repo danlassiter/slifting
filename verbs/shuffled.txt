@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165911"	"they"	"shuffled"	" They came, they shuffled, they conquered. </P> "	"nyt_eng_200604.gz"

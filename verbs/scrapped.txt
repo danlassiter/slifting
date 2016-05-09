@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151344"	"they"	"scrapped"	" They clawed, they scrapped, they almost pulled off another miracle comeback. Appropriately, the game came down to the final minute. Illinois had a look to tie it. Head's three-point attempt didn't fall. That was it. End of season. Final record: 37-2. </P> "	"nyt_eng_200504.gz"

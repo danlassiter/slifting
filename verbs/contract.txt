@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"132585"	"they"	"contract"	" When muscle is injured by trauma, overuse, or even bad office furniture, muscle fibers shorten, they contract, and that's when they hurt. Most of us have experienced and felt these painful nodules in our upper shoulder, neck, and back muscles. </P> "	"nyt_eng_200212.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"18324"	"they"	"each"	" If replacement players never play a game, they each, at least, get $5,000 for their time. If a replacement player was on the Opening Day roster and played at least one game, he'd be guaranteed at least $30,000. </P> "	"nyt_eng_199503.gz"

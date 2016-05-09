@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"65619"	"you"	"kiddin'"	" As for the word revenge, you kiddin', or what? </P> "	"nyt_eng_199607.gz"

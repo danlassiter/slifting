@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"77094"	"they"	"slumped"	" Small company stock funds surged almost 19.5 percent on average in the first 4 1/2 months of the year. Then, they slumped, falling more than 11.7 percent on average between mid-May and the end of July, led by a slide in technology stocks, according to the research group Lipper Analytical Services Inc. </P> "	"nyt_eng_199611.gz"

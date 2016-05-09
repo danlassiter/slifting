@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"3841"	"we"	"analyze"	" For three frantic hours on a Saturday afternoon, we all study them, we analyze, we criticize, but we have no idea who they are in those other 165 hours until the next kickoff and who they become all those years beyond the final gun. </P> "	"nyt_eng_199408.gz"
+"111367"	"I"	"analyze"	" If he is doing so more these days, Dobbs said, it is simply part of his evolution as an anchor. ``It's part of my role,'' he said. ``I interpret, I analyze, I provide context and perspective and insight into the day's news.'' </P> "	"nyt_eng_200204.gz"
+"111376"	"I"	"analyze"	" If he is doing so more these days, Dobbs said, it is simply part of his evolution as an anchor. ``It's part of my role,'' he said. ``I interpret, I analyze, I provide context and perspective and insight into the day's news.'' </P> "	"nyt_eng_200204.gz"

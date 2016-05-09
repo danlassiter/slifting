@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"46757"	"he"	"countersued"	" Undaunted, Jones cut another deal, this one with American Express. And while he was at it, he countersued, asking for $750 million. In the midst of it all, he was in the process of signing Deion Sanders to a controversial, salary-cap-bending $35 million contract. </P> "	"nyt_eng_199601.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"28651"	"they"	"lurch"	" My children's friends, however, play a version of the game closer to combat volleyball, one in which the ball seems to be inflated with testosterone. The guys serve the ball overhand, aiming straight for the heads of the opposing team. They spike the ball downward with all their strength. Guys leap up into the air and collide over the net. They dive, they lurch, they fling themselves into space. They rush to claim any ball headed toward a weaker player, crushing anyone in the way. </P> "	"nyt_eng_199507.gz"

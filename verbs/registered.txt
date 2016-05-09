@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"171583"	"she"	"registered"	" She eventually moved to Queens, where she continued her activities for the group, and then to northern Virginia, according to the affidavit. In 1995 and 1996, she registered, under the Foreign Agents Registration Act, as a press officer for the People's Mujahedeen of Iran. </P> </TEXT> </DOC> <DOC id=NYT_ENG_20061003.0040 type=story > <HEADLINE> IRAQ-ART-1STLD-WRITETHRU-NYT </HEADLINE> <TEXT> "	"nyt_eng_200610.gz"

@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"10859"	"I"	"suffered"	" Whether it is Gump at a bus stop or Joe Gillis floating in Norma Desmond's pool, narrators insist that they are presenting real testimony. As Walt Whitman put it, ``I am the man, I suffered, I was there.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_19941221.0098 type=story > <HEADLINE> DEFT PORTRAYALS HIGHLIGHT A VIBRANT `MRS. PARKER' </HEADLINE> <DATELINE> LOS ANGELES  (BC-PARKER-REVIEW-LADN) </DATELINE> <TEXT> "	"nyt_eng_199412.gz"
+"21260"	"I"	"suffered"	" ``When I was fighting at 130 pounds, I suffered,'' he said. ``You can't eat much at all. It's tough on your legs, it's tough on your mind. Now I can eat whatever I want. </P> "	"nyt_eng_199505.gz"
+"101496"	"I"	"suffered"	" ``Every day she spent in that jail, I suffered,'' Jacobs recalled. ``I longed for her. I loved her. I felt alone all my life. Like I didn't have nobody. </P> "	"nyt_eng_200111.gz"

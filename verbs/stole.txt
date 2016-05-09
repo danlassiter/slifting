@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"130275"	"she"	"stole"	" ``She came, she stole, she left,'' an assistant district attorney, Ann Rundle, said in her closing statement on Monday. ``End of story.'' </P> "	"nyt_eng_200211.gz"
+"130306"	"she"	"stole"	" ``She came, she stole, she left,'' Rundle said in her closing statement on Monday. ``End of story.'' </P> "	"nyt_eng_200211.gz"
+"130321"	"she"	"stole"	" ``She came, she stole, she left,'' Rundle said in her closing statement on Monday. ``End of story.'' </P> "	"nyt_eng_200211.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"146916"	"it"	"descends"	" Inside, the S40 is dominated by a subtle slab of technology, a center console stack that more closely resembles a TV remote unit. Thin, it descends, with space behind, from the dash to center console. It's only about a half-inch thick yet houses controls for audio, telephone, and climate. </P> "	"nyt_eng_200412.gz"

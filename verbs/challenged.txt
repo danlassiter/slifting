@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"169982"	"he"	"challenged"	" Demir, tells the story. If these were really gods, he challenged, why could they not save themselves? </P> "	"nyt_eng_200608.gz"

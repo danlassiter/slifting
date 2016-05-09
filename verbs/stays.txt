@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"87758"	"it"	"stays"	" Sears found out the hard way how impressionable 3- and 4-year-olds can be. Cantor says it's as though the movie's visual image burns in their brain. ``Once there, it stays,'' she says. </P> "	"nyt_eng_199702.gz"

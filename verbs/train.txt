@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"116935"	"you"	"train"	" While Rahman disdains talk that he was fighting to conquer the label of being ``a flash in the pan,'' he said: ``You don't win the championship with just one punch. You prepare, you train, you fight good fighters to get the opportunity. You take advantage of the opportunity.'' </P> "	"nyt_eng_200205.gz"

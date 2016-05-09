@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"129871"	"he"	"briefly"	" Told that it featured Whoopi Goldberg in a habit, he briefly, and not entirely convincingly, registered recognition. </P> "	"nyt_eng_200211.gz"

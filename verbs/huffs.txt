@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"6230"	"he"	"huffs"	" Country Dick's contribution this month is, ``Men will believe anything that's whispered.'' When asked if that's really true, he huffs, ``I never write anything that's untrue. Just look at my loser of a life and you'll know I wrote my advice column from the heart.'' </P> "	"nyt_eng_199410.gz"

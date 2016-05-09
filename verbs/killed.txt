@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"56225"	"he"	"killed"	" ``Personally,'' said Bruins center Adam Oates, ``I think the rats are stupid. I mean, he killed, what, a rat ... '' </P> "	"nyt_eng_199604.gz"
+"161632"	"he"	"killed"	" For more than 15 years, the mud alleys of the slum were ruled by a local thug named Akku Yadav. A higher-caste man, he killed, raped and robbed in this community of Dalits -- those at the bottom of the caste ladder -- and the police paid no attention. One woman, according to people here, went to the police station to report that she had been gang-raped by Akku Yadav and his goons, and the police raped her. </P> "	"nyt_eng_200601.gz"

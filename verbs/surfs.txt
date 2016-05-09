@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"127246"	"he"	"surfs"	" In college, he took pre-law courses and he wrote the FBI for an employment application. His hair is brown now, but it has also been dyed blond, red and blue. Oh, yes, he surfs, too, and his wardrobe might be generously described as Salvation Army chic. </P> "	"nyt_eng_200210.gz"

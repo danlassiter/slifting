@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"129286"	"you"	"hate"	" ``I hope the guy accomplishes it, but I'd hate for it to come against us,'' Seattle linebacker Anthony Simmons said. ``Especially as a linebacker, you hate, hate, hate, hate for a running back to set any kind of a record on you.'' </P> "	"nyt_eng_200210.gz"

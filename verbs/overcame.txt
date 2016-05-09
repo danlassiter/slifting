@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"150599"	"we"	"overcame"	" Every obstacle that was thrown at us, we overcame, so I wouldn't say it was a disappointing season, said UConn forward Charlie Villanueva, a sophomore who may well turn professional this spring. Today was disappointing. Very disappointing. We just didn't get anything going. </P> "	"nyt_eng_200503.gz"

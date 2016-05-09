@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"72657"	"you"	"bastard"	" A: No, because we didn't have a lot of money, and I could only pay the actors a little better than union scale. Danny had other offers for real money. At first, he passed on it. I pursued him, and he said, `You bastard, I told my agent to tell you not to call me.' I said `You can't say no, you are Dosmo.' He said, `You're right, you bastard,' and he was in. </P> "	"nyt_eng_199609.gz"

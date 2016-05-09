@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"80301"	"she"	"yelped"	" We all hear Winfrey's jaw-dropping income tallies each year _ $98 million, $140 million _ and she has managed to maintain a best-friend folksiness despite the fact that she has more dough than Croesus. It's difficult to dislike her (although one can come awfully close) even during her most self-indulgent moments. After singing a duet with Rod Stewart on a recent show (not that Winfrey is a singer), she yelped, ``How cool is that!'' </P> "	"nyt_eng_199612.gz"

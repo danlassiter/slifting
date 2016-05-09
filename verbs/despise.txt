@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"64747"	"they"	"despise"	" Nobody really cared about the Giants Sunday in Denver, where the Rockies were playing San Diego. The Dodgers seem to look at Dusty Baker's crew and know they can win, if it comes down to a crisis point. But the Giants don't know that much about themselves. The little they (begin italics) do (end italics) know, they despise, like 17 losses in 19 games and a fall from contention in the National League West. </P> "	"nyt_eng_199607.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"18636"	"it"	"resonates"	" ``When told Congress is trying to gut environmental protection in behest of corporate supporters, it resonates,'' said Hayes. ``It produces a double outrage, that environmental laws are being gutted, and Congress is practicing business as usual.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_19950404.0340 type=story > <HEADLINE> IAFRATE KNEE REQUIRES SURGERY </HEADLINE> <DATELINE> BOSTON  (BC-HKN-BRUINS-BOS) </DATELINE> <TEXT> "	"nyt_eng_199504.gz"

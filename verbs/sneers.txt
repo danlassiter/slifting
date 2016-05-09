@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151047"	"he"	"sneers"	" Gina (Latifah), who was briefly glimpsed in Barbershop 2 (with which this movie shares a producer), has moved down south from Chicago with her young daughter, Vanessa (Paige Hurd), a piano prodigy. As the movie opens, Gina is working at an upscale salon owned by Jorge (the ever-surprising, ever-wonderful Kevin Bacon), a mincing bit of self-absorbed Eurotrash who refers to himself in the third person. When a fed-up Gina argues with him, he sneers, You wish to altercate with Jorge? </P> "	"nyt_eng_200503.gz"

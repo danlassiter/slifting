@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"12635"	"it"	"will'')"	" Dickson founded the center, which was named and inspired by Murphy's Law (``If anything can go wrong, it will''), in 1977. But unlike the pessimistic philosophy embodied in Murphy's original pronouncement, Dickson has seen most everything in his life go right. </P> "	"nyt_eng_199501.gz"

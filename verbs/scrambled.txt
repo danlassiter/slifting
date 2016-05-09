@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"34045"	"they"	"scrambled"	" They kicked, they scrambled, they bellowed. They added to the malodorous mess and they splattered it on his jeans, his shirt and his face. </P> "	"nyt_eng_199509.gz"
+"34168"	"they"	"scrambled"	" They kicked, they scrambled, they bellowed. They added to the malodorous mess and they splattered it on his jeans, his shirt and his face. </P> "	"nyt_eng_199509.gz"

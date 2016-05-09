@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"31029"	"he"	"supposes"	" For career choices, he supposes, it was either training horses or ``I might have been in jail now. I might be robbing banks.'' </P> "	"nyt_eng_199508.gz"
+"144299"	"he"	"supposes"	" The future, he supposes, may see more star vehicles, maybe a country music-flavored show or a Latin vehicle for Jennifer Lopez or Ricky Martin. Corporations are likely there to stay because production budgets will only go up. But he agrees with Herman about the future of the institution of Broadway musical theater. </P> "	"nyt_eng_200410.gz"

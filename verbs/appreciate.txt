@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"146702"	"I"	"appreciate"	" -- Purchased gifts are just as appreciated, especially with a personalized note. Anything that comes directly from the kid, I appreciate, says Freeman. </P> "	"nyt_eng_200412.gz"

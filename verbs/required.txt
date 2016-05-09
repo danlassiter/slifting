@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"147497"	"they"	"required"	" In 1997, they began play as the Anaheim Angels. When the city contributed $30 million to the refurbishment of then-Anaheim Stadium, they required, as part of a lease agreement, that the name Anaheim be part of the stadium and franchise name. </P> "	"nyt_eng_200501.gz"

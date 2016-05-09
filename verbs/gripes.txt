@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"160440"	"she"	"gripes"	" Her forked tongue is for jabbing sacred cows. On the lionization of Martin Luther King, she gripes, People only talk about the good things. They don't say he was a litterbug. (These are far from her best jokes, which are not fit to print.) </P> "	"nyt_eng_200512.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138632"	"he"	"qaae"	" The family first learned of the names on the list last year from newspaper accounts, he qaae, and later a New York detective interviewed him. As for Miyamori, he said, ``I have no idea who she is.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_20031031.0072 type=story > <HEADLINE> VALENTINE MAY MANAGE AGAIN IN JAPAN </HEADLINE> <DATELINE> 10-31-03 23:33:00EST (BC-BBO-VALENTINE-JAPAN-N) </DATELINE> <TEXT> "	"nyt_eng_200310.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151829"	"you"	"dumb"	" Who are you calling old, you dumb, stupid ...!..? Fifty-nine-year-old Mary Hilko is breathing hard. Bob, weave, shove. </P> "	"nyt_eng_200504.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"9476"	"it"	"gleams"	" Though the stone is worn in patches, it is a glorious eggshell white. ``When you put it in the sun, it gleams,'' Schultz said. </P> </TEXT> </DOC> <DOC id=NYT_ENG_19941129.0116 type=story > <HEADLINE> PEARL JAM GIVES VOICE TO SISYPHUS </HEADLINE> <DATELINE>  (BC-PEARL-JAM-POP-$ADV04-NYT) </DATELINE> <TEXT> "	"nyt_eng_199411.gz"

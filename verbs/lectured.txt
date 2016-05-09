@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"24962"	"he"	"lectured"	" A consultant named John T. Molloy built a career in the 1970s telling people how to dress for success in business. To look professional and credible, he lectured, men should wear navy and gray traditional suits and women should try to copy the men. </P> "	"nyt_eng_199506.gz"
+"24994"	"he"	"lectured"	" A consultant named John T. Molloy built a career in the 1970s telling people how to dress for success in business. To look professional and credible, he lectured, men should wear navy and gray traditional suits and women should try to copy the men. </P> "	"nyt_eng_199506.gz"
+"133026"	"he"	"lectured"	" The tax money belongs to the people, he lectured, not ``some shadowy presence'' otherwise known as the U.S. government. </P> "	"nyt_eng_200212.gz"
+"133027"	"he"	"lectured"	" The tax money belongs to the people, he lectured, not ``some shadowy presence'' otherwise known as the U.S. government. </P> "	"nyt_eng_200212.gz"

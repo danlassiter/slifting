@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"173673"	"they"	"recount"	" The Times, they recount, failed to note that the region was about to explode. </P> "	"nyt_eng_200611.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"47529"	"they"	"oppose"	" ``I've talked with a number of them, and they said it was the process, not the person, they oppose,'' she said. ``I don't expect any problems.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_19960202.0577 type=story > <HEADLINE> MILKEN PROBE INTENSIFIED AS SEC ASSUMES FULL SUBPOENA POWERS </HEADLINE> <DATELINE>  (BC-MILKEN-SEC-NYT) </DATELINE> <TEXT> "	"nyt_eng_199602.gz"

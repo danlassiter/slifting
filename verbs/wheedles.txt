@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"77472"	"she"	"wheedles"	" The scene would be absolutely familiar to viewers of the British television show ``Absolutely Fabulous.'' Edina and Patsy, the two vodka-swigging fashion-victim protagonists, are heading for Edina's office in her limousine, when Patsy tunes in to her inner voice, the one crying out: ``I must go shopping!'' She turns to Edina. Why not stop just for a minute, she wheedles, at Harvey Nicks? </P> "	"nyt_eng_199611.gz"

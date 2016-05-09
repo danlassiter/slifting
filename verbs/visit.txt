@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"168009"	"they"	"visit"	" Tether parent: Similar to a helicopter parent. This parent is never out of touch with a child for long. They call, they visit, they send text messages. Often. </P> "	"nyt_eng_200606.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"27607"	"he"	"bicycles"	" ``I just thought that he's a person who can overcome a tough situation,'' she said. ``He runs every day, three to five miles. He swims, he bicycles, he kayaks. So it's not surprising he managed to run away.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_19950709.0170 type=story > <HEADLINE> FOX IS TAKES QUICK AIM AT NBC'S BELEAGUERED `SATURDAY NIGHT LIVE' </HEADLINE> <DATELINE>  (BC-TV-SATNIGHT-MEDIA-600&AMP;ADD-NYT) </DATELINE> <TEXT> "	"nyt_eng_199507.gz"

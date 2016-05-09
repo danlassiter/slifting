@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"159308"	"he"	"jogs"	" To relax and think, he jogs, with his iPod heavy on Springsteen, Joel and classic rock. And he is planning to learn how to use his stove before his mother, sister and grandmother visit for Thanksgiving. </P> "	"nyt_eng_200510.gz"

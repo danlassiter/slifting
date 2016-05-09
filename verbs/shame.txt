@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"145574"	"they"	"shame"	" Men tend to act out their pain, Diamond says. They become angry, direct it on women close to them. They blame, they shame, they tell them they have the problem. </P> "	"nyt_eng_200411.gz"

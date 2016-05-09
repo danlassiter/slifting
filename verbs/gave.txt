@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"79369"	"we"	"gave"	" ``In context of the negotiations and what took place the last three or four years, I think it was clear that the hard-liners' intention was not to get the best deal but to break the union doing it. In that regard, I think we won because we stayed together. And we bent, we gave, we compromised. I don't think anybody can suggest that we didn't.'' </P> "	"nyt_eng_199611.gz"

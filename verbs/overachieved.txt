@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"14275"	"we"	"overachieved"	" ``I think there's a notion that we lost to Houston, we overachieved, that we had our run,'' Coach Pat Riley said recently. ``That's it. Now let's move aside and let the real teams make a run.'' </P> "	"nyt_eng_199502.gz"

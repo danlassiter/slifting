@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"110850"	"he"	"fishes"	" part tough guy in an updated Hemingway sort of way. He hunts, he fishes, he verbally savages critics who have done him wrong. And Ford has spent prolonged periods of living apart from his wife of 34 years, Kristina, sometimes at their place in Montana, sometimes at their newer place in Maine, sparking rumors in the tight lit community even if each of his eight books is dedicated to the woman he met back at Michigan State. </P> "	"nyt_eng_200203.gz"

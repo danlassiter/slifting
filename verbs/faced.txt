@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"168759"	"he"	"faced"	" Ken Lay stood convicted of conspiracy and five counts of fraud. In a three-day separate trial before a judge, he was found guilty of one count of bank fraud, and three counts of making false statements in a different case. Absent higher court reversal, he faced, at age 64, spending what could have been the rest of his life behind bars. </P> "	"nyt_eng_200607.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"148025"	"she"	"three-putted"	" Then came her double bogey at the par-3, 189-yard No. 17, which played into a strong wind. Wie hit a 4-iron off the tee that landed short and right of the green. Then after chipping to 20 feet, she three-putted, missing her second putt from 4 feet. </P> "	"nyt_eng_200501.gz"
+"148044"	"she"	"three-putted"	" Then came her double bogey at the par-3, 189-yard No. 17, which played into a strong wind. Wie hit a 4-iron off the tee that landed short and right of the green. Then after chipping to 20 feet, she three-putted, missing her second putt from 4 feet. </P> "	"nyt_eng_200501.gz"

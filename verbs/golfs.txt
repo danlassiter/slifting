@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"71698"	"he"	"golfs"	" No, he golfs, but he has no problem with her tree love. And why should he. ``It's out of doors, and it keeps me out of trouble (long pause) most of the time.'' </P> "	"nyt_eng_199609.gz"

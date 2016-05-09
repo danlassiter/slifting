@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"5193"	"it"	"reignited"	" Sometimes they'd get the fire out. Then, whoosh, it reignited, hotter than before. That happened at least three times, Perkins and Sell said. </P> "	"nyt_eng_199409.gz"

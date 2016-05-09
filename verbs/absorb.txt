@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"106089"	"we"	"absorb"	" Knowledge is power. Problem is, most people know less about genetics than they do about bonsai grooming. Endowed with a sketchy foundation of knowledge at best, we absorb, on the periphery of our hectic lives, the onrushing science of genetics, evolving daily. </P> "	"nyt_eng_200202.gz"
+"106325"	"we"	"absorb"	" Knowledge is power. Problem is, most people know less about genetics than they do about bonsai grooming. Endowed with a sketchy foundation of knowledge at best, we absorb, on the periphery of our hectic lives, the onrushing science of genetics, evolving daily. </P> "	"nyt_eng_200202.gz"
+"106430"	"we"	"absorb"	" Knowledge is power. Problem is, most people know less about genetics than they do about bonsai grooming. Endowed with a sketchy foundation of knowledge at best, we absorb, on the periphery of our hectic lives, the onrushing science of genetics, evolving daily. </P> "	"nyt_eng_200202.gz"

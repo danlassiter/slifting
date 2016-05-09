@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"31528"	"I"	"owe"	" At 10 a.m. Wednesday, Craig Demps showed up in his rusty van 30 minutes early at a house in Jamaica, Queens. His bumper sticker read, ``I owe, I owe, it's off to work I go.'' </P> "	"nyt_eng_199508.gz"

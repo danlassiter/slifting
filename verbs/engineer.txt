@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"112621"	"I"	"engineer"	" ``I'm in a fortunate position,'' he adds. ``I have people that will give me a listen, and I have the means to actually make the record _ I produce, I engineer, I have the studio. I enjoy the process of recording, also. </P> "	"nyt_eng_200204.gz"

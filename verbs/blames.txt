@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"65923"	"he"	"blames"	" That ending to the case, some people here say, has given new velocity to the fury Manning nurses. Since his overwhelming loss in a bid for re-election as St. Lawrence County district attorney last November, he blames, among others, feminists, the media, judges, former co-workers, defense lawyers, the victim and local Democratic, Republican and Conservative leaders for what he says was unfair damage to his name. </P> "	"nyt_eng_199607.gz"

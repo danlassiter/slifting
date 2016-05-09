@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"46240"	"they"	"gripe"	" The Speaker riled Democrats early by ending financing for a flock of mostly Democratic legislative organizations, including the Congressional Black Caucus. He no longer holds regular meetings with opposition leaders as Democrats did, they gripe, and his promise to listen to the minority went unfulfilled. </P> "	"nyt_eng_199601.gz"

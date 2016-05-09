@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"33581"	"they"	"drape"	" What makes all these clothes fitting for the 1990s? Updated styling touches and new lightweight fabrics. Frequently in blends of laboratory-created materials, they drape, they shine, they expand. From nylon coats and shiny acetate blended shirts to spandex-enhanced jackets and skinny leggings, most are remarkably modern. </P> "	"nyt_eng_199509.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"97527"	"it"	"occurred"	" In the early 1960s, Terry Riley, a young San Francisco-based composer who supported himself by playing ragtime piano at a saloon, had an epiphany. (Like many epiphanies of the era, it occurred, he has said, under the influence of psychedelic drugs.) Riley realized that ``things didn't sound the same when you heard them more than once, and the more you heard them, the more different they did sound.'' </P> "	"nyt_eng_200110.gz"

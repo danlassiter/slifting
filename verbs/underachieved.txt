@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"147689"	"we"	"underachieved"	" No question, we underachieved, Lucas said. Expectations were high, and they still are. We may not have gotten in the playoffs the way we wanted to, but we're there, and that's all that matters. Now we have to prove to ourselves that we can do this. </P> "	"nyt_eng_200501.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"154885"	"it"	"smarts"	" They fly to get away from predators and people, and if you're in that flight path, it smarts, said Erdman, who has weathered several hits himself. </P> "	"nyt_eng_200507.gz"

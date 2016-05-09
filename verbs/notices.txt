@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106725"	"he"	"notices"	" Vince Passaro's lacerating debut novel is about a New York lawyer named Will Riordan. He is an associate at a downtown firm where, he notices, ``the secretaries, messengers and file clerks have names like Jamila, Roberto and Yvonne,'' and the lawyers have names like Jack, Ron, Mary Ellen and Bob. Will can't help noticing little things like that. He has a relentless eye for the small, damning detail. </P> "	"nyt_eng_200202.gz"

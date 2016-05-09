@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"77486"	"he"	"used"	" ``When he didn't go down, I just shook my head,'' Levy says. ``He talked back, he used, he had his hands all over it. What more do they want? They just let him walk. What does it tell me? It tells me that he is a superstar, a league star. And I'm a nobody.'' </P> "	"nyt_eng_199611.gz"

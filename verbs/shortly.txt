@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"58958"	"we"	"shortly"	" Back in the van and returned to an eastward course on the Eyre Highway, we shortly, finally _ after 900 miles from Perth _ got out of the world's largest, loneliest state, Western Australia. ``It felt longer than Whitewater,'' said vanmate Ron Sampson, ``but at least we got through it without Al D'Amato.'' </P> "	"nyt_eng_199605.gz"
+"59052"	"we"	"shortly"	" Back in the van and returned to an eastward course on the Eyre Highway, we shortly, finally _ after 900 miles from Perth _ got out of the world's largest, loneliest state, Western Australia. ``It felt longer than Whitewater,'' said vanmate Ron Sampson, ``but at least we got through it without Al D'Amato.'' </P> "	"nyt_eng_199605.gz"

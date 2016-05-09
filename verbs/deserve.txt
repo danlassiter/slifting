@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"6721"	"they"	"deserve"	" ``In so doing, we have helped to give the people of Haiti a chance to remake the democracy they earned, they deserve, and they so plainly wish.'' </P> "	"nyt_eng_199410.gz"
+"23796"	"they"	"deserve"	" ``They never get the due justice, the credit, they deserve,'' said Fregosi. ``And that's probably the toughest, dirtiest job there is, pitching the seventh and eighth innings.'' </P> "	"nyt_eng_199505.gz"

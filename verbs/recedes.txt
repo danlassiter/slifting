@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"128495"	"it"	"recedes"	" ``I know that my voice reaches people,'' she added, ``but can I reach audiences as deeply with my acting as with my singing? If not, why not? If not, I will have failed. You know the expression `heartstrings'? There's a reason that was created.'' Touching the heartstrings: that is Fleming's goal. Just when it seems within grasp, it recedes, like a mirage. The calling of the perfectionist is not easy. </P> "	"nyt_eng_200210.gz"

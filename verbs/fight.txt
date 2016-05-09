@@ -1,0 +1,8 @@
+"pronoun"	"verb"	"context"	"filename"
+"21904"	"they"	"fight"	" Ladies and gentlemen, the Judds: They sing, they fight, they get their hearts broken. Then they make up and make hit records. </P> "	"nyt_eng_199505.gz"
+"21909"	"they"	"fight"	" Ladies and gentlemen, the Judds: They sing, they fight, they get their hearts broken. Then they make up and make hit records. </P> "	"nyt_eng_199505.gz"
+"33411"	"they"	"fight"	" She arrived at the East Side shelter in October 1992 and stayed until September 1994. At the shelter, ``they steal, they fight,'' Ms. Jenkins says, the memories flooding out. ``I got $40 stolen out of the lockers there, and only workers have the combination, nobody else has the keys. Sometimes they search your lockers. </P> "	"nyt_eng_199509.gz"
+"55618"	"we"	"fight"	" ``If we have to fight, we fight,'' is how Ramirez puts it. </P> "	"nyt_eng_199604.gz"
+"55640"	"we"	"fight"	" ``If we have to fight, we fight,'' is how Ramirez puts it. </P> "	"nyt_eng_199604.gz"
+"144527"	"I"	"fight"	" I'm the kind of guy, I fight, Ortiz said. That's all I got. </P> "	"nyt_eng_200410.gz"
+"150447"	"we"	"fight"	" But I'm not sure anyone is happy about me and CSM. It's been more than two years since that fateful dinner and a year-and-a-half since I moved away, yet he and I are still in touch. I take frequent trips to my Eastern city and we see each other. We struggle to figure out what, if anything, we are. We talk, we fight, we don't talk. He misses me. I miss him. He hates me. I hate him. On and on it goes. </P> "	"nyt_eng_200503.gz"

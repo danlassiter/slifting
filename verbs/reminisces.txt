@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"171906"	"she"	"reminisces"	" Once, she reminisces, Miles Davis dropped in, looking for a cut and curl. LaVar told him she would be glad to oblige, but not until she was done with the customer in her chair. Davis became a lifelong fan. </P> "	"nyt_eng_200610.gz"

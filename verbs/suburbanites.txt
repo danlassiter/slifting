@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"19407"	"we"	"suburbanites"	" What was it like to sleep on the island of Manhattan? My wife was very much aware of the subway rumbling all night, but I found it reassuring. At 7 a.m., we suburbanites, who hate it when neighbors use their leaf blowers, were awakened to the roar of a powerful helicopter airlifting new air-conditioning units to the roof of a building just south of us. I didn't want to sleep, anyway. So much to do. </P> "	"nyt_eng_199504.gz"

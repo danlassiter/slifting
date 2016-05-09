@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"133022"	"we"	"investigate"	" He also studies companies when their stock prices hit 12-month lows. ``When a stock is trashed, we investigate,'' he said. ``Has management changed? Its business? The economy? If not, we're even more interested, and we dig deeper.'' </P> "	"nyt_eng_200212.gz"

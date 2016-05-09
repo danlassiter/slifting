@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"134399"	"he"	"telecommuted"	" Hodge worked at a succession of Silicon Valley companies before moving back East in 1994. For most of the time since then, he telecommuted, working for companies including networking giant Cisco. </P> "	"nyt_eng_200212.gz"

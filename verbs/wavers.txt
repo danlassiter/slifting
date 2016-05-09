@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"23956"	"she"	"wavers"	" Although Smith paints with a slightly satirical brush, she wavers, finally loving too much the people she first seems determined to ridicule. She is enormously sympathetic, and that may indeed be the saving grace of a regional writer. </P> "	"nyt_eng_199506.gz"

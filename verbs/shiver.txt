@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"154978"	"I"	"shiver"	" Every time I have to go to the bush, I am scared. Every time there's a sound, I shiver, she said. </P> "	"nyt_eng_200507.gz"

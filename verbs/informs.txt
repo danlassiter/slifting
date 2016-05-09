@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"24522"	"it"	"informs"	" On the table sits a rose-colored menu card. Afternoon tea, it informs, consists of fresh seasonal fruit, toasted honey crumpets, raisin scones with strawberry jam and Jersey cream, tea sandwiches, pastries and, of course, tea. Handsome old hotel silver is at hand and the napkin is of pink damask. </P> "	"nyt_eng_199506.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"146056"	"you"	"pathetic"	" This year, some conservative groups have launched drives to cover Redford's moving expenses. In Canada, however, a columnist for The Calgary Sun told potential newcomers: Stay home, you pathetic, whining maggots. </P> "	"nyt_eng_200411.gz"

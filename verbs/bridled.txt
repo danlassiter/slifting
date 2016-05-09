@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"144918"	"she"	"bridled"	" Stewart was clearly unaccustomed to sitting in the courtroom dock. She had to be reminded by the court clerk to swear an oath to tell the truth at the start of her testimony. When her lawyer, Michael E. Tigar, asked her to describe her defense strategy for one client, she bridled, hesitating to reveal trade secrets. </P> "	"nyt_eng_200410.gz"

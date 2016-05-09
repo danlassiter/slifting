@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"74666"	"they"	"decided)"	" Because White House lawyers have ruled that Clinton cannot sign bills in public while on a campaign trip (that would be too political, they decided), he signed the anti-drug bill in his hotel room in Denver and the firefighting bill in a conference room of the Pyramid Holiday Inn off Interstate 25 here, so named because of its ersatz Mayan architectural theme. </P> "	"nyt_eng_199610.gz"

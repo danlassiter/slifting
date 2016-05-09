@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"40817"	"he"	"repeatedly"	" But if all he did was challenge and offend, Malle would be little more than a footnote to film history. Like the best directors, he repeatedly, if sporadically, infused his best pictures with a palpable, personal passion. </P> "	"nyt_eng_199511.gz"

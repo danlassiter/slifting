@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137112"	"he"	"suffers"	" We also see Castro glad-handing Jack Nicholson and driving in a Jeep with Ted Turner. When said Jeep breaks down, leaving Castro temporarily stranded, Bravo means to show inconvenience as a political statement. ``Look, he suffers, too!'' Later, she says Castro reminds her of Jesus, who I believe suffered as well. </P> "	"nyt_eng_200303.gz"

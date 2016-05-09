@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"74680"	"he"	"snarls"	" ``NYPD Blue'' is tough. When Sipowicz runs up against a loud-mouthed woman, he snarls, ``I usually don't hit women, but I don't mind because when they hit back, it doesn't amount to much.'' And when he confronts a black suspect, clearly guilty, there's not a hint of political correctness. </P> "	"nyt_eng_199610.gz"

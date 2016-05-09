@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"167024"	"she"	"mews"	" Molina doesn't just croon. She makes percussive sounds, she mews, she nasalizes, she scat-sings, she beatboxes, she tape-loops herself and overdubs her voice into antiphonal girl gangs and harmony choruses. In the title song, Son, she even whistles. As the album progresses, she grows less lovelorn and more independent and uninhibited. Elena envisions a woman as nothing less than a force of nature. </P> "	"nyt_eng_200605.gz"

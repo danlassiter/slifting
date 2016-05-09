@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"139005"	"you"	"behind"	" By the time she arrived, we'd thrown on clean clothes and combed our hair. We were a decent-looking family. We had 10 more minutes of daylight. Snap, snap, snap. Stand up, sit down, you in front, you behind, pose, pose, pose, until the last frame clicked. Surely one will work, we said. </P> "	"nyt_eng_200312.gz"

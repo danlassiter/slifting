@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"158262"	"it"	"forgets"	" But the wonderful thing about human memory is, it forgets, Breyer went on. And so you always have another chance. People don't remember after a time. The computer remembers forever. There it is: picture recorded. </P> "	"nyt_eng_200510.gz"

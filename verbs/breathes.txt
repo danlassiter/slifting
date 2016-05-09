@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"85984"	"he"	"breathes"	" Instead of letting this 366-year-old city grow naturally, free of top-down controls and government micromeddling, he wants a giant committee to decide how Boston should look in 2030. This, he breathes, is ``the work of our lifetimes.'' </P> "	"nyt_eng_199702.gz"
+"86116"	"he"	"breathes"	" Instead of letting this 366-year-old city grow naturally, free of top-down controls and government micromeddling, he wants a giant committee to decide how Boston should look in 2030. This, he breathes, is ``the work of our lifetimes.'' </P> "	"nyt_eng_199702.gz"
+"86240"	"he"	"breathes"	" Instead of letting this 366-year-old city grow naturally, free of top-down controls and government micromeddling, he wants a giant committee to decide how Boston should look in 2030. This, he breathes, is ``the work of our lifetimes.'' </P> "	"nyt_eng_199702.gz"
+"110952"	"it"	"breathes"	" A piano is like a living thing, Brown says. It moves, it breathes, like the baby grand he's tuning on a Monday afternoon at the Church of Jesus Christ of Latter-day Saints in Southwest Austin. </P> "	"nyt_eng_200203.gz"

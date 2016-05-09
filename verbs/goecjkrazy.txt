@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137322"	"it"	"goecjkrazy"	" ``No matter where you see humanitarian aid show up, it goecJkrazy,'' said Warrant Officer Mike Denton of Britain's Royal Military Police, one of about a dozen British and American soldiers watching guard over the shipment. </P> "	"nyt_eng_200303.gz"

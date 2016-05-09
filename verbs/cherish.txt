@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"157320"	"I"	"cherish"	" I'm watching all these homes get flooded, and I'm thinking of all the things I love, I cherish, gone, broken, flooded, just gone, she said. It feels just horrible. </P> "	"nyt_eng_200509.gz"

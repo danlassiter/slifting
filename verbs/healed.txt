@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"63021"	"they"	"healed"	" For three months, they healed, though one kitten died. News reporters worldwide followed the cats' progress, and more than 7,000 people wrote letters. Thursday was the happy ending. </P> "	"nyt_eng_199606.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"35650"	"he"	"backpedaled"	" ``Deion did some drills, he backpedaled, played some one-on-one coverage,'' Switzer said. ``He was half-speed, but he looked good doing what he was doing. </P> "	"nyt_eng_199510.gz"

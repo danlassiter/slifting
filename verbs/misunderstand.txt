@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"157408"	"you"	"misunderstand"	" No, you misunderstand, he said firmly. These looters weren't Japanese. They were foreigners. </P> "	"nyt_eng_200509.gz"

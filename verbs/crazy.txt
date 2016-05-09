@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"122848"	"we"	"crazy"	" The good thing about this type of subjective dementia is that it seems to reverse after kids leave home. From what I've observed, the very offspring that know it all go off into the real world where they quickly learn that all they know is not even remotely close to all there is to know. In a matter of months, we crazy, know-nothing parents resume our rightful status as authorities on almost everything. You know, I can hardly wait for those pleading phone calls! </P> "	"nyt_eng_200208.gz"
+"141753"	"you"	"crazy"	" Darn you, you crazy, nude Olympians. You make us think. </P> "	"nyt_eng_200408.gz"

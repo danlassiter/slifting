@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"155168"	"he"	"carries"	" But in the previously threadbare accomplishments of French riders, he carries, once again, a lot of hopes. </P> "	"nyt_eng_200507.gz"

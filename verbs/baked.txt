@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"70547"	"they"	"baked"	" Parishioners ignored the trees on their houses and cars, forgot about the shock of the storm and set to work. They fried, they baked, they stirred, they frosted and they ignored the need for sleep. </P> "	"nyt_eng_199609.gz"

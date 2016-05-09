@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"130262"	"they"	"masqueraded"	" ``They stole our issues, they masqueraded,'' said San Francisco Rep. Nancy Pelosi, who traveled to 90 congressional districts in an attempt to win back the House for Democrats. </P> "	"nyt_eng_200211.gz"

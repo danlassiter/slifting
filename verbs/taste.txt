@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"35456"	"we"	"taste"	" ``We taste,'' he said. ``We taste, we taste, we taste.'' </P> "	"nyt_eng_199510.gz"

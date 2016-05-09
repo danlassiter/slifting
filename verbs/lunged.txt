@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"66832"	"he"	"lunged"	" Then came the pivotal play. Curtis Pride hit a grounder to Joey Cora's left, a fairly tough chance, but a play Cora has made. Instead, he lunged, dropped it coming up, Pride beat it out and Cedeno scored to make it 4-2, and the inning had life. </P> "	"nyt_eng_199608.gz"

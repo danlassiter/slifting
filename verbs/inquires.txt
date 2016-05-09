@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"90997"	"he"	"inquires"	" Push-ups completed, he inquires, ``Are we ready to work, ladies?'' </P> "	"nyt_eng_200104.gz"

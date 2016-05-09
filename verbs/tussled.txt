@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29413"	"they"	"tussled"	" The clash between Jones (6 feet 2 inches, 240 pounds) and Haselrig (6-1, 295 pounds) began as the last play of the Thursday morning workout. Haselrig was blocking Jones downfield. As Jones struggled to get out of Haselrig's grasp, they tussled, looking like a pair of rugby players. It appeared that Haselrig's arm hit Jones in the helmet. Jones, believing he had been punched, swung in retaliation and tried to kick Haselrig. </P> "	"nyt_eng_199507.gz"

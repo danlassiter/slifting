@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"22491"	"we"	"wander"	" Furlong and Roth work together wonderfully as the brothers who realize that their new-found bond will be temporary. ``Where you gonna go?'' Reuben asks. ``We're the Jews, we wander,'' Joshua says. ``Didn't they teach you that in Hebrew school?'' </P> "	"nyt_eng_199505.gz"

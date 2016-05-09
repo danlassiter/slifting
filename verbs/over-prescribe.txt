@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"30946"	"they"	"over-prescribe"	" ``When physicians own stakes in physical therapy services, they over-prescribe,'' said Thomas Nitido, executive assistant to Gottfried. </P> "	"nyt_eng_199508.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165999"	"they"	"avow"	" But the phrase the idle rich has vanished since then. Today's leaner billionaires claim to desire money not as a means of avoiding work but as proof of how good they are at it. The money, they avow, is merely a way of keeping score. </P> "	"nyt_eng_200604.gz"

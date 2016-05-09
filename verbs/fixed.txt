@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"140643"	"we"	"fixed"	" If we had that kind of front-end [knowledge], I'm not so sure whether or not we would have been successful in getting the convention, Passafaro said. All the things that went allegedly wrong in LA, we fixed, but we created some other problems, post-9/11. </P> "	"nyt_eng_200407.gz"

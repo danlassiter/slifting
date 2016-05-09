@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"163269"	"you"	"two"	" Hey, you two, the intersection is going to lock up if you cross now, she says gently to a couple of men who started out against the traffic into the street. The light will change in just a minute. Try to wait another moment, OK? </P> "	"nyt_eng_200602.gz"

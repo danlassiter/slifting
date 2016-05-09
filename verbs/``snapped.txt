@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44899"	"he"	"``snapped"	" But after two years on Wall Street as a bond trader, he ``snapped,'' he said. ``I missed the people, the excitement.'' </P> "	"nyt_eng_199601.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"115848"	"he"	"exercises"	" His routine these days is relatively simple: each morning, he exercises, has breakfast with his wife and heads to his wood-paneled office on the 12th floor of a bank building next to his high-rise apartment house, the Huntington. He has four or five staff members, including his former Enron secretary, according to Kimberly, who also worked at Enron. </P> "	"nyt_eng_200205.gz"

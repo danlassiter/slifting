@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"144598"	"he"	"hugs"	" David Ortiz is the jolly lug in the corner of the frat party that is the Boston Red Sox clubhouse. He is always talking, usually laughing and routinely hitting. Ortiz gets as many big hits as he gives big hugs, which is a bunch. He hits, he hugs, then he orders pizza for the boys. </P> "	"nyt_eng_200410.gz"

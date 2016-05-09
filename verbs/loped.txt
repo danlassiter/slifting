@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29307"	"they"	"loped"	" The arms and legs became vehicles of expression in lieu of the face; they swung, they loped, they arranged themselves at right angles, friezelike, and took a boxer's balled-fist stance of triumph. The legs tested gravity with jumps and kicks and bends; we watched as the feet flexed, pointed, then held their ground. </P> "	"nyt_eng_199507.gz"

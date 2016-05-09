@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"131258"	"he"	"grimaced"	" True enough, Rizzo hit the audience _ ``I'm nervous, you nervous?'' _ with a barrage of material about everything from his bad looks to his childhood toys to his ethnicity. He shrugged his shoulders, he grimaced, he imitated a crippled Slinky. </P> "	"nyt_eng_200211.gz"

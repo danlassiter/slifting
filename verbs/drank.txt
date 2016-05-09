@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"54959"	"he"	"drank"	" Three days before, on Good Friday, Gahrman went home early from his job as a messenger and found Ms. Gonzalez there. According to the authorities, he drank, accused her of stealing from him, and they got into an argument. </P> "	"nyt_eng_199604.gz"
+"75543"	"I"	"drank"	" ``When I was a kid, like everyone else, I smoked pot, I drank,'' she said. ``But when I was 22, I decided I didn't want to do that. I knew the only way for me to get out of the background I grew up in was to just lead a straight life and be very focused. That was the only way I was going to make it, and that's what I did.'' </P> "	"nyt_eng_199610.gz"

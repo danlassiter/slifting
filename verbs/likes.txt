@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"87899"	"he"	"likes"	" So far, what Mookie Wilson sees, he likes, both the similarities and the deviations from the original mold. </P> "	"nyt_eng_199702.gz"

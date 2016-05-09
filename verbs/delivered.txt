@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"144510"	"you"	"delivered"	" After the union reached an agreement with the San Francisco Marriott two years ago, a hotel executive praised Casey at a banquet. The things you said you were going to deliver, you delivered, said Hank Biddle, who managed the hotel before becoming a vice president with the chain. And when you looked me in the eye and said you were going to have 1,000 (demonstrators) out in front of this hotel, damned if you didn't do that, too. </P> "	"nyt_eng_200410.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"154635"	"he"	"certified"	" This just doesn't pass the smell test, said PBA executive director David Murrell. Mr. Maddox has yet to offer any plausible explanation as to where these funds came from and why there is no paper trail to document the transaction. Worse, he certified, in an official document, that the transaction never happened. </P> "	"nyt_eng_200507.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"82485"	"we"	"platoon"	" ``Well, we platoon,'' he said. </P> "	"nyt_eng_199612.gz"

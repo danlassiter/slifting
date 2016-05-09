@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"161384"	"I"	"skied"	" Last year, I skied, Thornton said, recalling his winter in Switzerland during the NHL lockout. This year, I may learn how to surf. </P> "	"nyt_eng_200601.gz"

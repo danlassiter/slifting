@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"156867"	"we"	"cough"	" We've always said that when Nuevo Laredo gets a cold, we cough, and vice versa, said Flores. We do it with health issues, security issues, economic issues. It's what happens when you're on the border. </P> "	"nyt_eng_200508.gz"

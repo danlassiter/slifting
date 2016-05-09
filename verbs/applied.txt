@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"126027"	"he"	"applied"	" He was doing office work for the Quakers when he heard about a job editing the program guide at WBAI, a New York station that a wealthy benefactor, Lou Schweitzer, had presented to the Pacifica Foundation in Berkeley, Calif. As Post tells it, he applied, was somehow welcomed as the new bookkeeper and soon was handling the finances, much to the station's detriment. </P> "	"nyt_eng_200209.gz"

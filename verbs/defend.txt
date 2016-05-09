@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"110628"	"we"	"defend"	" ``I hope people enjoy watching it, because that's what I'm comfortable with,'' Dougherty said. ``We get up the floor, we defend, we have fun. That's the type of program I envision having in Fort Worth.'' </P> "	"nyt_eng_200203.gz"
+"128509"	"we"	"defend"	" ``We shot with tanks as accurately as possible at a number of armed men, and we identified that they were hit,'' the colonel said in a television interview. ``We did not identify that others were hit, but when you shoot from a populated area, when you hide behind children and women and shoot from houses, we defend, and that's combat.'' </P> "	"nyt_eng_200210.gz"

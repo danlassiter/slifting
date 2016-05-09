@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"105960"	"he"	"retained"	" Increasingly worried, Mintz decided he needed an independent review of the partnership arrangements. So without informing his superiors, he retained, on behalf of the company, an outside law firm _ Fried, Frank, Harris, Shriver &AMP; Jacobson from Washington _ to take a look. </P> "	"nyt_eng_200202.gz"

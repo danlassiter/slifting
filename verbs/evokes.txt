@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"107345"	"it"	"evokes"	" At the same time, it evokes, for the French at least, a warm and homespun quality. ``How many people tell me,'' she says, ```This was the brand my grandmother opened at Christmas.''' </P> "	"nyt_eng_200202.gz"

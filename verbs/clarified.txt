@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"172498"	"he"	"clarified"	" In another episode, he jubilantly declared that Rums bin Feld had announced American troops were leaving the country on 1-1, in other words, Jan. 1. His face crumpled when he realized he had made a mistake. The troops were not actually departing on any specific date, he clarified, but instead leaving one by one. At that rate, it would take more than 600 years for them to be gone. </P> "	"nyt_eng_200610.gz"

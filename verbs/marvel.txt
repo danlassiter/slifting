@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"143628"	"I"	"marvel"	" 6) Good roads. Stay with me on this one. Every time I am back North, I marvel, painfully, at the severity and prevalence of potholes from the freeze-and-thaw cycles. Our roads can get congested, as do those, but largely without the kidney-rupturing potholes. </P> "	"nyt_eng_200410.gz"

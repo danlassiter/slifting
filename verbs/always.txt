@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"1119"	"you"	"always"	" ``Any time you're left swinging, it's worse than knowing for sure what's going to happen,'' Tucker said. ``If you know what's going to happen, then you can prepare for it. If you don't know, you always, say like when an execution date comes....'' </P> "	"nyt_eng_199407.gz"
+"82768"	"he"	"always"	" (Gingrich flits among issues like a bee on a pollen high, but there is one constant: no matter the issue, he always, always tries to tilt it for partisan advantage.) </P> "	"nyt_eng_199701.gz"
+"82851"	"he"	"always"	" (Gingrich flits among issues like a bee on a pollen high, but there is one constant: no matter the issue, he always, always tries to tilt it for partisan advantage.) </P> "	"nyt_eng_199701.gz"

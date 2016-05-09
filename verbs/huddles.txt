@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"4559"	"she"	"huddles"	" He yells, ``Won't you help me?'' But on the other side, she huddles, trying to protect her way of life. </P> "	"nyt_eng_199409.gz"

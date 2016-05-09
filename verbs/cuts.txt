@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"74935"	"he"	"cuts"	" Byars' assertion is preposterous on its face because anyone who has followed Johnson's career at all knows that he is not intimidated by anything a player says or does. What he doesn't like, he cuts, as Byars found out. </P> "	"nyt_eng_199610.gz"
+"93282"	"it"	"cuts"	" It grates, it cuts, it goes against the grain when he rips open that soap on a rope and that nose-hair trimmer and wonders just how much those set him back. Sweet Jiminy! he moans. It's bad enough that I've got to drop wads buying cards and gizmos and worthless goop for everyone else all year long. Now I've got to buy crud for myself, too? </P> "	"nyt_eng_200106.gz"

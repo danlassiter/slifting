@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"125"	"you"	"destroy"	" ``Against Brazil, you don't create, you destroy,'' said Tab Ramos, the American midfielder. </P> "	"nyt_eng_199407.gz"

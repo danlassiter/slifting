@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"25924"	"he"	"jabs"	" ``I don't know if he likes being known as the villain, but it's what drives him,'' said teammate Bobby Holik. ``Everything that really drives the other team nuts is what drives him. With Claude, he does it all: He yaps, he jabs, he even has some cheap shots in his repertoire. He's the package. But he's a fun guy to be around, a great teammate, and he wants to win every game.'' </P> "	"nyt_eng_199506.gz"

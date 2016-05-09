@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"142788"	"you"	"atrophy"	" My whole view of retirement is that if you don't stay intellectually engaged, you atrophy, he said. You see people like that around, who are somewhat lost souls. </P> "	"nyt_eng_200409.gz"

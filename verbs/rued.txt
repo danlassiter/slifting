@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"71390"	"he"	"rued"	" Candidates, he rued, would rather propose V-chips and school uniforms than attempt the more complex answers required to solve society's problems. ``Bob Dole has been in more Catholic schools lately than most bishops,'' he said. </P> "	"nyt_eng_199609.gz"

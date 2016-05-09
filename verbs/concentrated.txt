@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"27349"	"I"	"concentrated"	" I focused, I concentrated, I flourished in the quadrant of the important but not urgent. In fact, I got so engrossed that I totally lost track of the fact that I was supposed to appear at a small intimate birthday party for a very close friend. </P> "	"nyt_eng_199507.gz"

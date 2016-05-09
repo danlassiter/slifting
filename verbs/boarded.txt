@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92579"	"he"	"boarded"	" Malone surrendered to no one. Everyone else may have played his way into Springfield, Mass.; Malone worked his way in. The enduring image of Malone is of him standing on the free-throw line, goggles pushed up on his forehead, gushing sweat from every pore. He worked, he boarded, he drew fouls, he went to the line. </P> "	"nyt_eng_200106.gz"

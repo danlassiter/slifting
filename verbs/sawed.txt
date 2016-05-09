@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26433"	"I"	"sawed"	" Armed with a bow saw and pruning shears, grubbing hoe and assorted shovels, I waded last week into the belligerent mass of limb, vine and root with aroused determination. Against this almost demonic array, I sawed, hacked and dug. </P> "	"nyt_eng_199506.gz"

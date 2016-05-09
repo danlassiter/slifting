@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137151"	"he"	"s#ys"	" And yes, there's a duct tape called Duck Tape, but that brand wasn't hatched till the early 1980s. And its name has no connection to wartime usage, as John Kahl, CEO of Duck Tape's manufacturer, has told reporters. His father, he s#ys, chose the name after noticing that duct tape sounded like duck tape when customers asked for it. </P> "	"nyt_eng_200303.gz"

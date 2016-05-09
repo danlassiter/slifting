@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"115529"	"he"	"dazzles"	" This interpretation gives Mitchell's dialogue a flatness that could use at least a spark more of variety. But when he sings, he dazzles, infusing Sweeney with a Biblical fire in ``Epiphany,'' when he realizes his mission in life: to kill as many souls as possible in his barber's charm. </P> "	"nyt_eng_200205.gz"

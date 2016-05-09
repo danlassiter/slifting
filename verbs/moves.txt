@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"18653"	"he"	"moves"	" He jabs, he moves, he leaves them laughing. He doesn't reveal much of himself. </P> "	"nyt_eng_199504.gz"
+"33551"	"it"	"moves"	" ``If it has wheels, it moves,'' was the message from Stan Schwarz, president of Innovation Luggage, a major retail chain. Fran Philip, a spokeswoman for L.L. Bean, the mail-order company in Freeport, Me., said the same. Michele Marini Pittenger, spokeswoman for the Luggage and Leather Good Manufacturers of America, confirmed that wheels were the major trend. </P> "	"nyt_eng_199509.gz"
+"162190"	"it"	"moves"	" It swivels, it moves, it's as good as it gets, auctioneer Kirk Dove said of that 7-foot logo. </P> "	"nyt_eng_200601.gz"
+"169331"	"he"	"moves"	" He dances, he moves, he punches with devastating power in both hands. We think that the Oleg Maskaev of 2006 is a far, far superior fighter than the one that fought (Rahman) in 1999. </P> "	"nyt_eng_200608.gz"
+"174246"	"it"	"moves"	" I produce something, attack it, it moves, it changes, it responds to the nature of that critique, he continued. It happens reiteratively till we've exhausted the idea. Then it's complete, it's done. I'm not done. I just started. </P> "	"nyt_eng_200612.gz"

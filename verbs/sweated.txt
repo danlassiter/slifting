@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"167345"	"he"	"sweated"	" Wilson did even better as Andre in The Viper's Drag, strutting and swiveling with irresistible force and charisma. (And without much clothing, a crowd-pleasing choice by designer Austin K. Sanderson, who otherwise dressed everyone to the sequined hilt.) He flirted, he sweated, he shimmied, and he made at least half the audience want to take him home. Right now. </P> "	"nyt_eng_200606.gz"

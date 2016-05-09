@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"125878"	"we"	"infer"	" The difference between Michele and Antonia _ and so, we infer, between the two sides of Massimo's temperament _ is visible in their surroundings. Antonia, who works at a medical laboratory, lives in an atmosphere of quiet, middle-class sterility. Her only companions are her judgmental mother and a superstitious Filipino maid, neither of whom offers much in the way of sympathetic companionship. </P> "	"nyt_eng_200209.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"122541"	"he"	"punted"	" Instead, he punted, with the assurance that there would be plenty of time to act after the bubble burst. ``To spot a bubble in advance requires a judgment that hundreds of thousands of informed investors have it all wrong,'' he told a congressional hearing. </P> "	"nyt_eng_200208.gz"

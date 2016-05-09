@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"68087"	"he"	"rumbled"	" He did not, however, try to bank on his experience as one of the most accomplished legislators of the 20th century. Dole hit the hardest, and most directly, at criminals, teacher unions, liberal judges and racists. To those in the party who might want to exclude people because of race and religion, he rumbled, ``The exits, which are clearly marked, are for you to walk out of, as I stand this ground without compromise.'' </P> "	"nyt_eng_199608.gz"

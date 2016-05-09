@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"64279"	"we"	"two-wheeled"	" But long before traffic jams clog our revived rural communities, we two-wheeled, back-road demographers have riden off on less traveled roads. We prefer to ride the old roads and commune with the ghosts and descendants of authentic rural America before it is violated a second time. </P> "	"nyt_eng_199607.gz"

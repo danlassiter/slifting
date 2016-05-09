@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"115677"	"he"	"rebounds"	" ``He means everything to this team,'' Martin said. ``He does everything. He doesn't just pass the ball, he rebounds, he picks guys up when they're down, he does everything.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_20020516.0045 type=story > <HEADLINE> ROCKS AND ROLL: FOUR-WHEELING WITH SUV </HEADLINE> <DATELINE> LOS ANGELES (BC-OUT-4X4-COLUMN-LADN) </DATELINE> <TEXT> "	"nyt_eng_200205.gz"

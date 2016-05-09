@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"100431"	"you"	"dopes"	" ``How many punches can we take in the face, how many dumb fat jokes, before somebody, some Hollywood guy, says: `Hey, you dopes, this is a good thing for you! Don't you get it?''' he said. </P> "	"nyt_eng_200111.gz"

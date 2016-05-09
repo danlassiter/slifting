@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"40309"	"they"	"howled"	" They stood, they howled, they called him names. They pitched loose objects out of the stands. But somewhere deep down they had to have the sick feeling that the showboating son of a sawbuck had done it again. He had risen to the occasion. </P> "	"nyt_eng_199511.gz"
+"73797"	"he"	"howled"	" In World War I he enlisted in the medical corps. When he discovered his commanding officer was an oral surgeon, he howled, ``I refuse to be drilled by a dentist!'' </P> "	"nyt_eng_199610.gz"

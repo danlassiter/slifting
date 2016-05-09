@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"3055"	"he"	"cited"	" Finally, he cited, in the Gephardt bill, a loss of control in managing the quality and cost ``to both you and IBM of our health plans as a result of being forced to accept `any willing provider.' '' </P> "	"nyt_eng_199408.gz"
+"3058"	"he"	"cited"	" Finally, he cited, in the Gephardt bill, a loss of control in managing the quality and cost ``to both you and IBM of our health plans as a result of being forced to accept `any willing provider.' '' </P> "	"nyt_eng_199408.gz"
+"131076"	"he"	"cited"	" When Hampton, a Florida native, chose the Rockies, he cited, among other reasons, the school systems in the Denver area and the area's living environment. The Hampton family, however, has returned to the Houston home Hampton never sold. </P> "	"nyt_eng_200211.gz"

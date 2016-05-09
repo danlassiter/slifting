@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137625"	"he"	"1aid"	" His bill, he 1aid, ``is just an addition that allows those who want to smoke an option as well.'' </P> "	"nyt_eng_200305.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"637"	"I"	"discoverd"	" Most charge a small fee -- usually $5 per car -- to visit the pueblos or take photographs or even to make sketches. And what you see at these villages, I discoverd, runs the gamut from RV parks and video gaming machines (like Las Vegas-style video poker) to museums and ruins. At some, you can purchase pottery and Indian jewelry; at others, you can go camping or hiking. </P> "	"nyt_eng_199407.gz"

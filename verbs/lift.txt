@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151940"	"we"	"lift"	" The kids have said, 'You know what? We want to play,'  said Maturi, one of three Management Council liaisons to the NCAA's Student-Athlete Advisory Council. They've said, 'We would get to play one more game for no extra days of practice. We commit 12 months to this, we lift, we have spring ball, and if we get one more time to play on Saturday afternoon, let's go for it.'  </P> "	"nyt_eng_200504.gz"

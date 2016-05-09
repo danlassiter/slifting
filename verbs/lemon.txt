@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"94547"	"you"	"lemon"	" Lemmon stood his ground. He had gone through school being taunted with cries of ``Jack, you lemon,'' and wasn't going to change it. </P> "	"nyt_eng_200106.gz"

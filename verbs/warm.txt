@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"140203"	"they"	"warm"	" The grill is not intended to scar the fruit or fan its flesh with aromatic smoke. In fact, soft fruits do not really cook at all. Sprayed or brushed with a film of grapeseed oil, they warm, soften and glow. Turn the seared halves carefully with tongs and let their backsides heat up. Paint their faces, toward the end, with a sweet, racy glaze, and they shine. </P> "	"nyt_eng_200407.gz"

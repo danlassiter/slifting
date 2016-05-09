@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91082"	"he"	"crawls"	" ``The best advice I got was from my mother, who told me to put all the baby books down and simply listen to Gary,'' she said. `` `When he crawls, he crawls,' she told me.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_20010428.0096 type=story > <HEADLINE> UNION WORKERS IN COLOMBIA ARE EASY PREY FOR GUNMEN </HEADLINE> <DATELINE> BOGOTA, Colombia (BC-COLOMBIA-UNIONS-NYT) </DATELINE> <TEXT> "	"nyt_eng_200104.gz"

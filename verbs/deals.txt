@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"115802"	"he"	"deals"	" In one of the earliest scenes, we see Johnson in the Oval Office, a newspaper in one hand, a beagle in the other. He wheels, he deals, he barks. At one point, he relieves himself while talking to a visitor. Later, when he calls Alabama Gov. George Wallace to the Oval Office to urge him to back down on segregation, he gets inches from Wallace's face and breathes power all over him. But before long, LBJ sags _ physically and emotionally _ under the tragedy of Vietnam. </P> "	"nyt_eng_200205.gz"

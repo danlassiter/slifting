@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"133282"	"they"	"normalize"	" ``After a few years, they normalize, physically,'' she added. ``But with Sarah, I felt like the experience jumbled her. Her formative years were disrupted.'' </P> "	"nyt_eng_200212.gz"

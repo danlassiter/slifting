@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"147633"	"Pè8RDLECTORAL"	"votes"	"nyt_eng_200501.gz"	""

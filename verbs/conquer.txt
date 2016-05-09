@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"49031"	"we"	"conquer"	" The day before the race, Louis fasted and prayed near the plains of Marathon, where the Greek army won a battle in 490 B.C. According to legend, a runner named Pheidippides carried news of the triumph to Athens, about 24 miles away. He said, ``Rejoice, we conquer,'' then collapsed and died. </P> "	"nyt_eng_199602.gz"

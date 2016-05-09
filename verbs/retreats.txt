@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7880"	"she"	"retreats"	" Studying the picture, she retreats, until she reaches the hip-high railing that gives way to a steep drop. </P> "	"nyt_eng_199411.gz"

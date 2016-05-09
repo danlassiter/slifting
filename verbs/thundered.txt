@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"80464"	"she"	"thundered"	" ``Give me the mandate'' for a U.N. resolution authorizing an attack, she thundered, ``and I will go and get it done.'' That's exactly what happened. </P> "	"nyt_eng_199612.gz"
+"80537"	"she"	"thundered"	" ``Give me the mandate'' for a U.N. resolution authorizing an attack, she thundered, ``and I will go and get it done.'' That's exactly what happened. </P> "	"nyt_eng_199612.gz"
+"172857"	"he"	"thundered"	" So when Republican leaders demanded he apologize for a verbal misstep in California on Monday, where he declared that low-performing students would get stuck in Iraq, Kerry came out with both guns blazing. This time, he would attack: The president, he thundered, is the one who should be apologizing - for his war policies. </P> "	"nyt_eng_200611.gz"

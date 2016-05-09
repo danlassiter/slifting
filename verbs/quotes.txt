@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"118128"	"he"	"quotes"	" To explain why, he quotes, as he often does, his former boss Jack Welch: ``If you're No. 1 or No. 2,'' Fresco said Tuesday, picking at fish in a Fiat corporate dining room, ``when you get a cold, No. 5 and No. 6 get pneumonia.'' </P> "	"nyt_eng_200206.gz"

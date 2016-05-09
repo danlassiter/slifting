@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"115575"	"he"	"oughta"	" Bush would say he's sorry Adams feels that way, but he understands that Patch Adams is a pretty good beer, and back in his wild days he might have enjoyed a cold one or two. Does he make an alcohol-free version? No? Well, he oughta, if it's as good as people say. Oh, that's Sam Adams beer? Well, fine. </P> "	"nyt_eng_200205.gz"

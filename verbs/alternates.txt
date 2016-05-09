@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"161804"	"she"	"alternates"	" The firm agreed, but because Ms. Walsh still meets with clients in Pittsburgh, she alternates, spending two weeks in Florida and two weeks in Pennsylvania. Though her husband has shifted his permanent residence to Florida for tax reasons (he pays no state income tax), Ms. Walsh said she still considers Pennsylvania home, and she retains her full residency status there. You were born in one state and it's an emotional decision to leave, she said. </P> "	"nyt_eng_200601.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"154326"	"she"	"rents"	" Shalimova, 34, lives in Moscow, travels to London and Paris and drinks French cognac. Employed by a foundation dedicated to judicial reform, she rents, as the book begins, a tiny apartment and earns $1,500 a month, more than 20 times the salary of her brother, still living among the pigs and cabbages in her rural hometown. The city around her sparkles, polished by new money and buoyed by the tentative optimism of a new middle class. </P> "	"nyt_eng_200506.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"19453"	"they"	"punched"	" ``We would take their bags and throw them into the street,'' said James Gray, known on the streets as Kizer. ``We loved it when it rained, because we could throw them in the puddles.'' The men said anyone who hesitated, talked back or resisted eviction risked at least being shoved around or dragged out. They said that in extreme cases, they punched, kicked or bludgeoned homeless people with the two-way radios supplied by the district. </P> "	"nyt_eng_199504.gz"

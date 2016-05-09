@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92614"	"they"	"recreated"	" The first tourist explosion, in fact, came right after the 1907 novel ``The Shepherd of the Hills,'' a best seller written by minister Harold Bell Wright. Fans of the novel wanted to see for themselves the peaceful country that the novel rhapsodized about. They came, they recreated, a few settled. </P> "	"nyt_eng_200106.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137643"	"you"	"degenerate"	" ``In this game, you degenerate,'' manager Mike Scioscia said. ``Pitchers have degenerative changes in their shoulders. Catchers have degenerative changes in their knees. Every player who plays the game has degenerative changes. I'm not minimizing what's happened to (Percival) -- we're concerned because (he's) a horse. When he says something hurts, something hurts.'' </P> "	"nyt_eng_200305.gz"

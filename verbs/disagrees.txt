@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"166207"	"he"	"disagrees"	" If residents or opponents have something we missed, we'll address it, said Mike D. McDaniel, the secretary of the state Department of Environmental Quality. As for those who argue that there is no emergency involved, he disagrees, he said. Some people can't seem to understand this is not business as usual, he said. </P> "	"nyt_eng_200605.gz"

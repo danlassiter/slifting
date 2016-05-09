@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"2376"	"it"	"contains"	" Since this is a CD-ROM rather than a set of books, it contains, besides thousands of articles and definitions and hundreds of photographs, drawings, maps and charts, 39 animations and 40 minutes of sound. </P> "	"nyt_eng_199408.gz"

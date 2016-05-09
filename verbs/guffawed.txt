@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"4130"	"she"	"guffawed"	" She giggled, she guffawed, she all but got down on the floor and rolled. I couldn't figure what it was. I had the funny papers. </P> "	"nyt_eng_199409.gz"

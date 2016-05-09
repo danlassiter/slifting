@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"133599"	"we"	"ride"	" Maybe because it's a season that promises new beginnings. Like Gawain, we've survived the year without losing our heads. Hurrah. Imperfect though we are, we ride, with humble and cheerful heart, into the future. </P> "	"nyt_eng_200212.gz"
+"139567"	"you"	"ride"	" It's like a bus, he explains. If you're on, you ride, if you're not, you don't. </P> "	"nyt_eng_200407.gz"

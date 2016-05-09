@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"88532"	"he"	"intoned"	" The event raised the question, he intoned, of ``the sincerity of the networks in their efforts to restore decency to television programming.'' </P> "	"nyt_eng_199703.gz"
+"95978"	"he"	"intoned"	" The dead from the war against Iraq should consider themselves blessed, he intoned, because they did not live to behold such an affront to Islamic values. ``Happy are those who became martyrs and did not witness the playing with dogs! Now in our society women wear hats and men hold dogs!'' </P> "	"nyt_eng_200108.gz"
+"100332"	"he"	"intoned"	" After answering another question, the sheik came back to the query and gave a slightly different, more involved answer. It is not wrong to use paper if the water is present, he intoned, but the optimum solution would be to employ both. </P> "	"nyt_eng_200111.gz"
+"169072"	"he"	"intoned"	" And finally, he intoned, America will be forced to make a stand nearer home. </P> "	"nyt_eng_200608.gz"

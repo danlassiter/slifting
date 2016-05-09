@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"78770"	"she"	"regretted"	" ``A beginning pipeline to the White House,'' nonetheless, as the president of the National Women's Political Caucus, Anita Perez Ferguson, called it. But the gains were only moderate, she regretted, and many women who ran didn't win. </P> "	"nyt_eng_199611.gz"

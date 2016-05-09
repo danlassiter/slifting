@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"23572"	"they"	"announce"	" Greater Berlin, they announce, will be ruled by an Inter-Allied Governing Authority, operating under the Control Council. </P> "	"nyt_eng_199505.gz"

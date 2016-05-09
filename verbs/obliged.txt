@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"144664"	"he"	"obliged"	" Coaches also believed that the collective speed of Big 12 defensive ends mandated a strong presence at tackle to protect quarterback Reggie McNeal's blind side. Hangartner, the senior stalwart, was asked to sacrifice his position and move. Without even a raised eyebrow, he obliged, and it has paid off. The Aggies have allowed four sacks in six games, two in the past five games and none in the last three gaes, all Big 12 victories, while the offense has hummed along. </P> "	"nyt_eng_200410.gz"

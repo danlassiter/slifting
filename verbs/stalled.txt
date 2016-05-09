@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"148592"	"he"	"stalled"	" Whenever she brought up the matter, he stalled, almost as if, as long as she leaned on him, he could delude himself into thinking everything is OK. </P> "	"nyt_eng_200501.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26805"	"we"	"families"	" ``Now it is only the innocent children, we families, who are left to suffer,'' said Cecilia Analco Vasquez, whose husband and father were killed. </P> "	"nyt_eng_199506.gz"

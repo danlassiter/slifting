@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"79682"	"they"	"grumble"	" Some invoke the NBA's Riley Rule (i.e. _- anything that can be blamed on Pat Riley must be). His success with the Knicks, they grumble, convinced a lot of coaches that if you don't have superstars smash-smouth basketball is the best way to go. </P> "	"nyt_eng_199611.gz"
+"79684"	"they"	"grumble"	" Some invoke the NBA's Riley Rule (i.e. _- anything that can be blamed on Pat Riley must be). His success with the Knicks, they grumble, convinced a lot of coaches that if you don't have superstars smash-smouth basketball is the best way to go. </P> "	"nyt_eng_199611.gz"

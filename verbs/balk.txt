@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"58232"	"they"	"balk"	" ``We are in a destructive routine,'' Garten said after returning from a recent trip to China. ``We accuse the Chinese, they balk, we threaten sanctions, they threaten retaliation. And no one really has a plan for arresting this.'' </P> "	"nyt_eng_199605.gz"
+"58234"	"they"	"balk"	" ``We are in a destructive routine,'' Garten said after returning from a recent trip to China. ``We accuse the Chinese, they balk, we threaten sanctions, they threaten retaliation. And no one really has a plan for arresting this.'' </P> "	"nyt_eng_199605.gz"
+"58266"	"they"	"balk"	" ``We are in a destructive routine,'' Garten said after returning from a recent trip to China. ``We accuse the Chinese, they balk, we threaten sanctions, they threaten retaliation. And no one really has a plan for arresting this.'' </P> "	"nyt_eng_199605.gz"

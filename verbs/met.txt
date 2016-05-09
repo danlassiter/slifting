@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"81709"	"he"	"met"	" The low-profile issue of homelessness and the bureaucratic backwater of HUD suited Andrew Cuomo's purposes just fine. A tall man, with an athletic build, dark wavy hair, and flaring nostrils, he met, fell in love and married Kerry Kennedy, the seventh of Robert and Ethel Kennedy's 11 children. </P> "	"nyt_eng_199612.gz"
+"116098"	"we"	"met"	" ``Our board believes everything we set out to accomplish, we met,'' said Dunn at El Paso, based in Houston. ``I have to question what Wyatt wants to accomplish.'' </P> "	"nyt_eng_200205.gz"

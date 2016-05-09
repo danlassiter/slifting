@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"98789"	"they"	"dwell"	" ``It's 10 times tougher for women to take this kind of stress,'' said Dr. Pamela Peeke, assistant clinical professor of medicine at the University of Maryland School of Medicine, and author of several women's health books. ``Women are more empathetic. Women ruminate, they dwell, they ponder.'' </P> "	"nyt_eng_200110.gz"

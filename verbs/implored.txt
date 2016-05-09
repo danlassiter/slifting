@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"14591"	"he"	"implored"	" Dear God, he implored, don't let the shooter be a West Indian. </P> "	"nyt_eng_199502.gz"
+"47220"	"they"	"implored"	" In Park City, where condo-mania shows little sign of abating, bumper stickers started cropping up last summer on construction workers' pickup trucks. Addressing slow-growth advocates, they implored, ``Please Make Welfare as Hard to Get as a Building Permit.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_19960130.0670 type=story > <HEADLINE> NEW YORK'S GARDEN GETS TWO WORLD CUP GAMES </HEADLINE> <DATELINE> NEW YORK (BC-HKN-WORLD-CUP-NYT) </DATELINE> <TEXT> "	"nyt_eng_199601.gz"

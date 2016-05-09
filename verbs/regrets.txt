@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"99188"	"he"	"regrets"	" Alibek is once more busy taking the commuter highway 30 miles eastward to the nation's capital for fresh consultations, although mostly with Pentagon officers rather than with the administration's new array of homeland defense appointees. Thus far, he regrets, the government's approach to the bioterrorism threat seems ``a matter of multivoiced disharmony,'' filled with confusion and contradictory information that he cannot fathom as scientist or citizen. </P> "	"nyt_eng_200110.gz"

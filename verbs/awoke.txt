@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"127498"	"I"	"awoke"	" Suddenly, I awoke, more confused than ever about the identity of Saturday's winner. Then, I received a memo from an Austin-based ticket broker. He's charging up to $500 for tickets that have a face value of $60. </P> "	"nyt_eng_200210.gz"

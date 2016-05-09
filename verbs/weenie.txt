@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"131014"	"you"	"weenie"	" You can either live with them or take a chance on killing your computer by fiddling with the Registry. Come on, you weenie, don't be afraid. You know you want to do it. </P> "	"nyt_eng_200211.gz"

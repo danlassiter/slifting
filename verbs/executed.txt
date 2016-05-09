@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"11294"	"they"	"executed"	" It was a positive display of late-game composure for the Knicks, who had enormous trouble finishing games during their recent five-game losing streak. When the Pistons closed to within 91-88 with three minutes to play, the Knicks were in danger of squandering another potential victory. But instead of self-destructing, they executed, making the extra pass, and finding the open man on the perimeter. </P> "	"nyt_eng_199412.gz"

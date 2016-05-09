@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"149168"	"it"	"derailed"	" When southbound Train No. 100 smashed into the SUV, it derailed, rammed a parked Union Pacific freight train and collided with another Metrolink train heading north out of Union Station. </P> "	"nyt_eng_200502.gz"

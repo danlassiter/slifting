@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"62090"	"I"	"dieted"	" ``... I was injured (in the left shoulder) and worked through it, I dieted, I was in the best shape of my life. I was fighting on a big card. It meant a lot to me.'' </P> "	"nyt_eng_199606.gz"

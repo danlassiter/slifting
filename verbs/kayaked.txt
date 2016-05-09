@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"150435"	"he"	"kayaked"	" When he wasn't selling or repairing surf boards at the NSB Surf Shak, he kayaked, rollerbladed and surfed. The only football he played was to toss parking lot spirals to Paul Hughes, a co-worker at the Surf Shak. </P> "	"nyt_eng_200503.gz"

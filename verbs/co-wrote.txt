@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91001"	"he"	"co-wrote"	" But the well-regarded British stage actor has more on his mind than cartoonish villainy. To that end, he co-wrote, -directed and -starred in the relationship dramedy ``The Anniversary Party'' with Jennifer Jason Leigh, a colleague from the groundbreaking ``Cabaret'' revival Cumming headlined a few years back. </P> "	"nyt_eng_200104.gz"

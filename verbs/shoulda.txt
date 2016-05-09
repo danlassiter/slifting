@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165444"	"you"	"shoulda"	" All that is being done in response to the type of war that's being fought, Harvey said. We can get into a whole polemic of 'you shoulda known, you shoulda, you shoulda, you shoulda.' Well, we didn't, we didn't, we didn't. [But] once it was clear the nature of this irregular warfare, the Army did a remarkable job changing training, equipment, and organization and now we are better aligned with the realities of the 21st century. </P> "	"nyt_eng_200604.gz"

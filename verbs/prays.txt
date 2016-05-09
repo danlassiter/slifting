@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"60375"	"he"	"prays"	" Michael Irvin weeps alone in the darkness when, he prays, no one can see. </P> "	"nyt_eng_199605.gz"
+"96176"	"he"	"prays"	" That, he prays, will happen soon. </P> "	"nyt_eng_200109.gz"
+"143431"	"she"	"prays"	" Beginning, she prays, with Elfred. </P> "	"nyt_eng_200410.gz"

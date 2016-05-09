@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"16554"	"he"	"penetrated"	" Iverson did things that Georgetown freshman guards didn't used to have the liberty to do. He dribbled, he penetrated, he created, he led, he shot, he scored 31 points, the highest any Georgetown player ever scored in this tournament, and most of all, he played. He played 33 minutes out of 40. </P> "	"nyt_eng_199503.gz"

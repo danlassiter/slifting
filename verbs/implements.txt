@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"139894"	"he"	"implements"	" In a modern-day version of Louis XIV's L'etat, c'est moi, Chirac also made clear who is in charge. I decide, he implements, Chirac said of his relationship with Sarkozy. The audience watching the performance burst into laughter. </P> "	"nyt_eng_200407.gz"
+"139922"	"he"	"implements"	" In a modern-day version of Louis XIV's L'etat, c'est moi, Chirac also made it clear who is in charge. I decide, he implements, Chirac said of his relationship with Sarkozy. The audience watching the performance burst into laughter. </P> "	"nyt_eng_200407.gz"

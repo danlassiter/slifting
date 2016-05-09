@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"67745"	"we"	"communicate"	" Aggressive confidence is the style the secondary has shown so far, ``and it's all built on trust,'' said Hitchcock. ``That's the reason why (the secondary is playing better). We trust each other, we communicate, we talk with each other. No matter how much speed or talent you've got back there, if you don't trust each other, then it's no good. We're playing as one back there.'' </P> "	"nyt_eng_199608.gz"
+"93509"	"they"	"communicate"	" Dulaine added: ``These are transferable skills. They might not remember the steps, but they become less shy, they communicate, it helps their posture.'' </P> "	"nyt_eng_200106.gz"
+"95940"	"we"	"communicate"	" ``If we continue to do things for children they can do for themselves, we communicate, `I don't believe in you, you don't have the capacity to do that.' Then the kids don't believe in themselves. </P> "	"nyt_eng_200108.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"86900"	"it"	"streaks"	" ``The challenge is in perfect tempering,'' she said. ``If you get it right, the bar sets up almost immediately, has a beautiful, glossy sheen and keeps well for months. If you mess up, it streaks, sticks to the mold and spoils quickly.'' </P> "	"nyt_eng_199702.gz"

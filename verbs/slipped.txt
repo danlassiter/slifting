@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"14846"	"I"	"slipped"	" ``I had my skate on the ice and when I pushed the guy, I slipped,'' he said. </P> "	"nyt_eng_199502.gz"
+"67578"	"they"	"slipped"	" Leroy smiles. ``The men, they slipped,'' he says. But they don't wearbuttons on Sunday. </P> "	"nyt_eng_199608.gz"
+"88043"	"he"	"slipped"	" Yount flew to Boston for surgery to reattach the tendons. Six weeks later, while stepping out of the shower, he slipped, and put down his right hand to catch himself. </P> "	"nyt_eng_199702.gz"
+"132220"	"I"	"slipped"	" ``He made a nice move, I slipped,'' Bryant said. ``Homeboys don't care if you slip or not, so I had to go down there and retaliate on that one.'' </P> "	"nyt_eng_200211.gz"

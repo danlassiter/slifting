@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"46038"	"it"	"emanates"	" ``If that notion is in vogue, it emanates, in the main, from a number of parties whose interests do not allow for an impartial assessment. And it's wrong.'' </P> "	"nyt_eng_199601.gz"

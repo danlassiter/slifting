@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"168714"	"she"	"sai"	" The Oxnard-area strawberry havest is at 36,237,800 trays compared with 29,881,900 trays at this time in 2005, she sai, with each tray of strawberries weighing about 10 pounds. </P> "	"nyt_eng_200607.gz"

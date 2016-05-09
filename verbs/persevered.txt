@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"152365"	"I"	"persevered"	" Because we had chosen not to find out the sex of the baby, the planning required special skill, forcing us to leave all sorts of decorative details to chance. Still, I persevered, selected a ducky theme and painted the nursery a gender-neutral yellow. </P> "	"nyt_eng_200505.gz"

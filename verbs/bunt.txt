@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"22117"	"we"	"bunt"	" ``We might not hit as many home runs as other teams,'' said Casey. ``But we hit and run, we bunt, and we play for one run an inning and everybody works together as a team. Coach Mike Sheppard calls it good batter, runner, cooperation. </P> "	"nyt_eng_199505.gz"
+"22295"	"we"	"bunt"	" ``We might not hit as many home runs as other teams,'' said Casey. ``But we hit and run, we bunt, and we play for one run an inning, and everybody works together as a team. Coach Mike Sheppard calls it good batter-runner cooperation. </P> "	"nyt_eng_199505.gz"

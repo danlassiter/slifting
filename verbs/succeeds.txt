@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"142586"	"it"	"succeeds"	" A ransom/revenge thriller that wants to be more and say a few things about faith, friendship and redemption. For the most part, it succeeds, thanks to a fine cast headed by Denzel Washington and a sharp script by Brian Helgeland (Mystic River and L.A. Confidential). The DVD's lone extra is a commentary track. </P> "	"nyt_eng_200409.gz"
+"171251"	"she"	"succeeds"	" Harmon says she wanted to make a film about sex in the '50s, and, to some degree, she succeeds, although we already have Kinsey. And the sex researcher is even referenced in the film when Page's boyfriend discovers that she was posing in bondage outfits and declares it sick. </P> "	"nyt_eng_200609.gz"

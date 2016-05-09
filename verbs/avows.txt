@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29444"	"he"	"avows"	" At five o'clock, promptly, tea is served. Molyneux seldom misses afternoon tea. He will bolt from a business meeting, he avows, fake a migraine, stash his Harley and hail a taxicab before he will forgo his preprandial pot of Darjeeling. With a plate of finger sandwiches beside it. Or, on the menu today, homemade biscuits and jam. </P> "	"nyt_eng_199507.gz"

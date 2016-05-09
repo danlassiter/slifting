@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"15433"	"we"	"comrades"	" ``We heard on the radio that the armies are going to come and control us now,'' said Manuel Ruiz Hernandez, 55. ``But we have walked a bit, we comrades, and they have to recognize our rights as Indians.'' </P> "	"nyt_eng_199502.gz"

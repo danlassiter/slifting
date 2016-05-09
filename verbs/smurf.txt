@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"61207"	"you"	"smurf"	" But the better the Sonics played, the more acerbic Payton became. He finally had statistics to back up his trash-talk, and he started to spew on opposing coaches, too. ``Sit down, you smurf,'' he said one day to the former Timberwolves coach Sidney Lowe. </P> "	"nyt_eng_199606.gz"

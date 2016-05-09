@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"70702"	"I"	"grant"	" The word bridge is, I grant, a more precise image than FDR's ``New Deal'' or LBJ's ``Great Society.'' But everyone knew those terms _ like Ronald Reagan's ``Morning in America'' _ were so broad and imprecise as to mean nothing. </P> "	"nyt_eng_199609.gz"
+"70739"	"I"	"grant"	" The word bridge is, I grant, a more precise image than FDR's ``New Deal'' or LBJ's ``Great Society.'' But everyone knew those terms _ like Ronald Reagan's ``Morning in America'' _ were so broad and imprecise as to mean nothing. </P> "	"nyt_eng_199609.gz"

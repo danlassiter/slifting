@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"158201"	"he"	"snagged"	" Actually, Wynn wanted three. To accessorize his eponymous new $2.7-billion resort (he lost his previous Vegas properties in a hostile takeover), he snagged, in addition to Avenue Q and Spamalot, a new Cirque-like spectacular called Le Reve from the former Cirque mastermind Franco Dragone. And for his resort's opening gala in April, he somehow persuaded no less a director than George C. Wolfe to stage the entertainment: a one-night-only club act starring Hugh Jackman. </P> "	"nyt_eng_200510.gz"

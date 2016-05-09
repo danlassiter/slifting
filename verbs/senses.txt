@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"120089"	"he"	"senses"	" Now, too often he sees the flag as a marketing gimmick. And what it is marketing, he senses, is the world's most powerful and best-financed multinational firm: BushCheney Corp. </P> "	"nyt_eng_200207.gz"

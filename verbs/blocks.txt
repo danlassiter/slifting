@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"93360"	"he"	"blocks"	" Thomas ``Ziggy'' Sicignano has turned testifying into a sporting event. He squares off with lawyer after lawyer. He parries, he blocks, he jabs. At the end of the day, he smiles and grasps his opponent's hand. </P> "	"nyt_eng_200106.gz"

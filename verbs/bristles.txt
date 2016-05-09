@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"84249"	"he"	"bristles"	" He goes physically rigid at the mention of his marriage. When asked if a reconciliation might occur, he bristles, ``Not something I'm able to talk about.'' Was the marriage a failure? ``Again,'' he remarks coolly, ``not something I'm able to talk about.'' He then comments, ``There's sadness, a huge sadness. It's hard to talk about.'' </P> "	"nyt_eng_199701.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"169717"	"we"	"downshift"	" A toy cannon fires, sending us off in waves according to our age groups. I'm 43, and there's 34 others in the 40-44 bracket. Once past the entrance gate, we've got maybe 50 yards of flat road. After that, the wall rises, we downshift, and the race is on. </P> "	"nyt_eng_200608.gz"

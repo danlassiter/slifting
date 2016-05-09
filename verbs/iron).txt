@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"110101"	"I"	"iron)"	" Buying a tablecloth is not as cut-and-dried a proposition as you might think. Beyond the issues of color and fabric _ linen? cotton? rayon? _ loom the thorny questions of shape and size. I am not that picky, other than to stay with natural fibers (yes, I iron), but still have found that most stores unfortunately stock limited options _ and always in the wrong color. While I am not one of those Victorian purists who call for a white-only table, I do try to avoid mauve. And turquoise. </P> "	"nyt_eng_200203.gz"

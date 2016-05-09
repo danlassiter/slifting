@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"66247"	"you"	"worriers"	" Americans seem to be obsessed with their weight. Judging from diet-pill commercials on TV, women who would disappear if they lost four ounces want to lose it anyhow. It suggests that everyone, except the People crowd, feels overweight. Well, you worriers, read the grocery tabs if you want to realize you don't have a serious weight problem at all. </P> "	"nyt_eng_199607.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"117186"	"she"	"halted"	" The moment Exogenous reached the track, she halted, reared up backwards and to the left. ``Just like she always wheeled,'' Schulhofer said. He was in the stands and did not see her fall, but when he saw Castellano standing on the ground he cried, ``What has she done now?'' </P> "	"nyt_eng_200206.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"15727"	"he"	"described"	" A friendly man with a shrewd, wry manner, he described, through an interpreter, perilous journeys of 30 or 40 miles a night, driving on barely discernible roads, with lights mounted only beneath the truck so as not to be spotted from the air. </P> "	"nyt_eng_199502.gz"
+"15876"	"he"	"described"	" A friendly man with a shrewd, wry manner, he described, through an interpreter, perilous journeys of 30 or 40 miles a night, driving on barely discernible roads, with lights mounted only beneath the truck so as not to be spotted from the air. </P> "	"nyt_eng_199503.gz"

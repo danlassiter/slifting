@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"61973"	"he"	"winds"	" He said it: ``Ryan, the sign, he winds, the 2-2 pitch. ... He struck him out swinging and hello no-hitter No. 7! Nolan Ryan has done it again with no-hitter No. 7!'' _ Holtz, calling the final out of Nolan Ryan's seventh no-hitter.  24. Al Oliver </P> "	"nyt_eng_199606.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"95240"	"he"	"deserves"	" Hopkins said: ``I know what this fight will do. This is the last door before they open the vault for me and I can pick out whatever I want. I'm going to use this philosophy, everything that he has been given over the last two years, he deserves, but when I beat him, flip it to me. </P> "	"nyt_eng_200107.gz"
+"96446"	"he"	"deserves"	" ``Look at this,'' Adams said, referring to Dundas. ``In the picture, Steve's just standing there, smiling. To be able to post his picture is to be able to pay one American the honor, the tribute, he deserves, not to make him a war hero. Dadgumit, people need to look. </P> "	"nyt_eng_200109.gz"

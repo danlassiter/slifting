@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"171059"	"you"	"economize"	" Elias Hanna, a retired general and security specialist in Beirut, said he believes the claim because of the sustained daily rate at which Hezbollah was firing rockets until the cease-fire. When you start to run short, you economize, he said. </P> "	"nyt_eng_200609.gz"

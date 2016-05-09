@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"101008"	"they"	"yelp"	" Inverting a cliche, they yelp, ``If you can't stand the heat, then change the damn channel.'' They said it, not me. --- ``IRON CHEF USA: SHOWDOWN IN LAS VEGAS'' -What: Chefs cook stuff; TV applies its usual psychotically hyperkinetic treatment. -The stars: Host William Shatner. -Where: UPN. -When: 9 tonight. </P> </TEXT> </DOC> <DOC id=NYT_ENG_20011114.0305 type=story > <HEADLINE> Mayor-elect Franklin begins transition </HEADLINE> <DATELINE> ATLANTA (BC-ATL-MAYOR-1115-COX) </DATELINE> <TEXT> "	"nyt_eng_200111.gz"

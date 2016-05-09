@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"17352"	"he"	"sketched"	" He thought, he sketched, and he tinkered. </P> "	"nyt_eng_199503.gz"

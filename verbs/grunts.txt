@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"113516"	"he"	"grunts"	" In one much discussed advertisement, a famous actor, Isse Ogata, plugs a brand of coffee wearing a bouffant hairdo clearly modeled on Koizumi's permed gray locks. Speaking in the same vague, half-grunted phrases that Koizumi favors, he complains that everything is difficult nowadays. Then, in a second scene when he is surrounded by reporters who inquire about his results, he grunts, ``They will be coming soon.'' </P> "	"nyt_eng_200204.gz"

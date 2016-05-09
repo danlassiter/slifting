@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"39274"	"you"	"monster"	" ``Ferrall, you monster, crack me open a dark one,'' a caller asks as the sound effect of a beer bottle opening plays. </P> "	"nyt_eng_199511.gz"

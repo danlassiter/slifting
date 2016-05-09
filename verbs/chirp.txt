@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"13425"	"they"	"chirp"	" Not that the cynics are impressed. Seifert, they chirp, inherited a Super Bowl championship team from Walsh with Joe Montana at quarterback. But some coaches would have messed it up. </P> "	"nyt_eng_199501.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"155987"	"you"	"evaluate"	" When things don't go well, you evaluate, you scrutinize more closely, Parcells said. We wouldn't stop people and couldn't produce enough offense. We could stay in games, but we couldn't win enough of them. </P> "	"nyt_eng_200507.gz"

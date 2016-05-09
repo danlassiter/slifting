@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"84127"	"I"	"grouse"	" Yeah, a real treat, I grouse, anticipating a cramped all-night flight with an 8-year-old who will be due at school an hour after the plane hits the ground. </P> "	"nyt_eng_199701.gz"
+"84134"	"I"	"grouse"	" Yeah, a real treat, I grouse, anticipating a cramped all-night flight with an 8-year-old who will be due at school an hour after the plane hits the ground. </P> "	"nyt_eng_199701.gz"
+"84152"	"I"	"grouse"	" Yeah, a real treat, I grouse, anticipating a cramped all-night flight with an 8-year-old who will be due at school an hour after the plane hits the ground. </P> "	"nyt_eng_199701.gz"
+"127377"	"they"	"grouse"	" When the Rapture comes, they grouse, the holy alliance between Christians and Jews will suddenly become unholy, with Christians levitating and Jews left behind to deal with the Antichrist, plagues, sores, boils, frogs, the endless syndication of ``Everybody Loves Raymond'' and locusts from the ``bottomless pit,'' each with a human face, horse's body, scorpion's tail and a sting that torments for five months. </P> "	"nyt_eng_200210.gz"

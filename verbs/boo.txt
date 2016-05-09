@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"56154"	"they"	"boo"	" Draft day is for the fans. Especially the New York fans. They come to the Theater at the Garden and they cheer, they boo, they wear green and they wear blue. </P> "	"nyt_eng_199604.gz"
+"56184"	"they"	"boo"	" Draft day is for the fans. Especially the New York fans. They come to the Theater at the Garden and they cheer, they boo, they wear green and they wear blue. </P> "	"nyt_eng_199604.gz"
+"56187"	"they"	"boo"	" Draft day is for the fans. Especially the New York fans. They come to the Theater at the Garden and they cheer, they boo, they wear green and they wear blue. </P> "	"nyt_eng_199604.gz"
+"138228"	"they"	"boo"	" ``I've said all along it's a black and white city,'' Lowe said. ``When you go (bad), they boo, and when you pitch well, they cheer. It's that simple, and I understand it.'' </P> "	"nyt_eng_200308.gz"

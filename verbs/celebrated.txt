@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"43951"	"they"	"celebrated"	" They laughed, they celebrated, they even sang. </P> "	"nyt_eng_199512.gz"
+"43959"	"they"	"celebrated"	" They laughed, they celebrated, they even sang. </P> "	"nyt_eng_199512.gz"
+"43961"	"they"	"celebrated"	" They laughed, they celebrated, they even sang. </P> "	"nyt_eng_199512.gz"

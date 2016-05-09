@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44054"	"he"	"relished"	" Like McVeigh, he relished, perhaps most of all, the most petty details of Army life. </P> "	"nyt_eng_199512.gz"

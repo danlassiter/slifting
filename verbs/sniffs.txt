@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7412"	"she"	"sniffs"	" Told that Odysseus has been 10 years at sea and still hasn't returned to Ithaca, she sniffs, ``Well, at least he's traveling.'' She's also fed up with the old canard that she was responsible for the war. </P> "	"nyt_eng_199410.gz"

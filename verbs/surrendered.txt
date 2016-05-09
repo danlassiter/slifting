@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"59355"	"I"	"surrendered"	" He returned to the States in March 1969 to find that one of his brothers, Teddy, had died of an overdose a week earlier. His own drug use intensified and Dock remained an addict for the next 23 years. ``Finally, I surrendered,'' he said Thursday evening by telephone. ``That's what I asked Dwight when he approached me. `Are you ready to surrender?''' </P> "	"nyt_eng_199605.gz"

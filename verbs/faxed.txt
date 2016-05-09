@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"30917"	"they"	"faxed"	" Matthew Fox, interviewed at the Television Critics Association press tour last month, credits the show's vocal fans with helping save it. ``It's great to hear that people love what you're doing enough to get active about it,'' he said. When fans learned the show was in trouble, ``they wrote letters, they faxed, they E-mailed _ they did everything they possibly could.'' </P> "	"nyt_eng_199508.gz"

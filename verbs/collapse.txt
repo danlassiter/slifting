@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"13159"	"we"	"collapse"	" As dusk falls on our final day, we collapse, exhausted, into the Flagstop Bar in the lodge's basement. This watering-hole-cum-rec-room, with table tennis and a television set, is wallpapered with railroad memorabilia, from snapshots of notorious train derailments to Depression-era promotions for the Great Northern Railway to heroic logos of now--defunct lines. We cap the day with deep breathing in a modest sauna. </P> "	"nyt_eng_199501.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"8682"	"she"	"indulges"	" If she and her husband are not heirs to great wealth, the political wife sacrifices material comforts to her husband's career. Knowing he could make more money elsewhere, she indulges, often without sharing, his thirst for public service. </P> "	"nyt_eng_199411.gz"

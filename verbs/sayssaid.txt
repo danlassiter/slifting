@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"120583"	"he"	"sayssaid"	" Remote viewing, he sayssaid, appeals to certain people because _ like sky diving _ it's something the average person doesn't normally do. </P> "	"nyt_eng_200207.gz"

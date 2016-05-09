@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"136072"	"he"	"surprised"	" On Capitol Hill, he surprised, and sometimes angered, some Democrats by teaming often with his good friend Sen. Phil Gramm (R-Texas), now retired, to introduce tax cuts. </P> "	"nyt_eng_200301.gz"

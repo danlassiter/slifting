@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"140271"	"it"	"gets"	" The more media attention, the more global attention, it gets, in the terrorists' minds, it draws attention to their cause, he added. In reality it does exactly the opposite. Because I think every nation on Earth is repulsed by this type of activity. </P> "	"nyt_eng_200407.gz"

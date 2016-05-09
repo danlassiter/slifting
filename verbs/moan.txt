@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165205"	"we"	"moan"	" Hand-wringing seems to be the opera fan's stock in trade. Perhaps we even enjoy it. Nothing is as good today, we moan, as it was in the old days, and if you don't believe us, we can present you with stacks of recordings to prove it. If you're not familiar with our old recordings, it sends us into yet another paroxysm: not only is our beloved legacy vanishing, but it is being forgotten. </P> "	"nyt_eng_200604.gz"

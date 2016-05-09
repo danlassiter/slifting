@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"18675"	"she"	"backtracked"	" A few days later, she backtracked, saying those people were deceptively representing themselves to her as GTECH folks. </P> "	"nyt_eng_199504.gz"
+"138291"	"he"	"backtracked"	" On Friday, he backtracked, saying, ``I never would have voted for war.'' </P> "	"nyt_eng_200309.gz"
+"166324"	"he"	"backtracked"	" Once a well-deserved storm of criticism inundated Jackson, he backtracked, insisting he simply made the story up anecdotally and there was no denied petitioner or contract. Whether real or imagined, however, the story drove home the secretary's rhetorical point all too well: Political fealty trumps merit in the administration's dealings with contractors. </P> "	"nyt_eng_200605.gz"

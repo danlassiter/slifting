@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"62946"	"I"	"prod"	" But Steve, I prod, what were they laughing about? </P> "	"nyt_eng_199606.gz"
+"114809"	"I"	"prod"	" De Niro said he just tried to do whatever he could to help make it happen fast. ``I push, I prod, I cajole,'' he said. He also said he thought the festival's effective organization was less a result of his fame than of the galvanizing events of Sept. 11. </P> "	"nyt_eng_200205.gz"

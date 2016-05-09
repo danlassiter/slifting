@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"124850"	"you"	"lied"	" ``Hutch, you lied,'' Mantle says. ``Son, you can't make a foul ball fair just by moving the baselines.'' </P> "	"nyt_eng_200209.gz"
+"131669"	"I"	"lied"	" ``Wait, I lied,'' Ftorek said. ``There was a third time, a couple of days ago. He had a problem with his feet. He had a corn that was (an open cut). </P> "	"nyt_eng_200211.gz"
+"145244"	"I"	"lied"	" OK, I lied, conceded Rick Tabish, one of the three men in the desert that night, according to testimony from the officer, Det. Sgt. Ed Howard of Nye County, in the murder trial of Tabish and his lover at the time, Sandy Murphy, a former stripper. </P> "	"nyt_eng_200411.gz"
+"163875"	"I"	"lied"	" Did he ever call up you from Sherburne county jail (in Minnesota) and say, 'Hey, I lied,' Novak asked the FBI witness, who had interrogated Moussaoui twice by that point. </P> "	"nyt_eng_200603.gz"

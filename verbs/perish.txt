@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"43944"	"they"	"perish"	" Then, spent, they perish, their carcasses reversing course in the torrent, catching on sandbars and gravel banks. They are snagged on fallen trees, settle into shallows, swathe the shoreline in pungent drifts of death. </P> "	"nyt_eng_199512.gz"
+"43945"	"they"	"perish"	" Then, spent, they perish, their carcasses reversing course in the torrent, catching on sandbars and gravel banks. They are snagged on fallen trees, settle into shallows, swathe the shoreline in pungent drifts of death. </P> "	"nyt_eng_199512.gz"

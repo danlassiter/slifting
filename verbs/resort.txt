@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"13297"	"they"	"resort"	" With no suspense about the winners to give the evening the breathlessness its organizers seek, they resort, instead, to trying to stoke public interest over who will present the awards. </P> "	"nyt_eng_199501.gz"

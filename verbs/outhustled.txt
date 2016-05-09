@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"43305"	"they"	"outhustled"	" Good for Riley. Bad for Nets. Their fourth straight defeat was as numbing as it was embarrassing. The Heat had lost five straight games, including an 89-70 whipping at the hands of the Knicks Tuesday night at Madison Square Garden. Yet, they outhustled, out-shot and simply showed more determination than the Nets, especially in overtime where the Nets made just 1 of 10 shots and never mounted much of a threat. </P> "	"nyt_eng_199512.gz"

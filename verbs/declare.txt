@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"116791"	"they"	"declare"	" Barbecue lovers won't speak its name. Brisket, they declare, should be the state dish. </P> "	"nyt_eng_200205.gz"
+"136873"	"we"	"declare"	" Meanwhile, the one place we're not prepared to fly our flag of equality and acceptance is in the realm of good and bad, selfless and selfish, Samaritan and sinner. These, we declare, are poles apart. </P> "	"nyt_eng_200301.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"31243"	"I"	"regard"	" ``In the hope that no such mistake be made in the future, I regard, in a spirit of humility, these irrefutable facts of history, and express here once again my feelings of deep remorse and state my heartfelt apology,'' Murayama said. </P> "	"nyt_eng_199508.gz"
+"31250"	"I"	"regard"	" ``In the hope that no such mistake be made in the future, I regard, in a spirit of humility, these irrefutable facts of history, and express here once again my feelings of deep remorse and state my heartfelt apology,'' Murayama said. </P> "	"nyt_eng_199508.gz"

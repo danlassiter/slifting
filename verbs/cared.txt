@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"63044"	"he"	"cared"	" ``How do I want to be remembered?'' he asked. ``I'd like people to think I cared. That would be good enough. I think if you can do that _ if people say, `Well, he cared,' that's very big. That's very important.'' </P> "	"nyt_eng_199606.gz"

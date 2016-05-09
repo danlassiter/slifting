@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"54494"	"it"	"happens)"	" Interviews with directors of even the most competitive schools reveal that they, too, worry about rejection, especially from sought-after parents. They fear ending up under-enrolled (incredibly, it happens), which can traumatize their hand-to-mouth budgets and greatly annoy their boards. </P> "	"nyt_eng_199604.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"16608"	"I"	"lope"	" ``Nothing runningwise; if I have to move, I lope,'' he said. ``I go over to the public courts at Sunset Park or to Bally's, where Rita is the pro. Rita's been very supportive since my illness. That's relieved some of the tension we had. We enjoy the relationship now. For the first time in my life, I'm open. I'm no longer selfish.'' </P> "	"nyt_eng_199503.gz"

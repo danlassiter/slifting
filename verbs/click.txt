@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"7133"	"you"	"click"	" There we exchange this germ-laden tender for the object of our consumer desire. But this nightmare's almost over: last week began trials of ``E-cash'': you sit, you log on, you click, you pay -- all on the ``World Wide Web,'' which is somewhere in cyberspace. </P> "	"nyt_eng_199410.gz"
+"167831"	"I"	"click"	" Our computerized ordering methods are straight out of Star Trek -- I point, I click, I buy. But then I need to be home for any given three days to get the merchandise, as deliveries come from the world of Henry James, complete with the driver's Victorian calling card left at the door should I be away from the window for any amount of time. </P> "	"nyt_eng_200606.gz"

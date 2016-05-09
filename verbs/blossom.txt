@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"75744"	"they"	"blossom"	" What's remarkable is that just when you think these individuals are going to be little more than sketches, they blossom, revealing themselves to be far more substantial than we ever guessed. For instance, there's Mike (Mark Boone Junior), a burly bar-hugger who, behind this working-class act, is revealed to be a propertied businessman with a wife and family and probably some higher education. </P> "	"nyt_eng_199610.gz"

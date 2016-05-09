@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"54373"	"she"	"moaned"	" When Schott was told that the game was being postponed for a day, she moaned, ``Why are they calling it? ... Snow this morning and now this. ... I feel cheated.'' </P> "	"nyt_eng_199604.gz"

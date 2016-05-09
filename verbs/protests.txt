@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"122988"	"she"	"protests"	" She has never had to wait tables to support her acting. When saleswomen bring her oversize clothes to try on, Winokur said, she protests, ``No, I want clothes that fit me.'' </P> "	"nyt_eng_200208.gz"
+"171092"	"he"	"protests"	" He doesn't like to get messed up in other folks' business, he protests, and what's more he's a coward. When some of that trouble comes through his door, he knows just the route to take: out his back door, over his porch roof and down the alley. </P> "	"nyt_eng_200609.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"14370"	"it"	"erodes"	" But Hyde signaled potential trouble for the Schroeder amendment in an interview later. ``I would vote against it,'' Hyde said. ``It is corrosive of, it erodes, the block grant concept.'' </P> "	"nyt_eng_199502.gz"

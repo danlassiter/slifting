@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"27391"	"I"	"discuss"	" ``He's striking while the iron is hot,'' explained Ron Colombo, a 23-year-old paralegal not at all scandalized by Gingrich's fast instincts for tapping into celebrity book writing. ``I vote, I discuss, and I'm impressed with the man's leadership and commitment.'' </P> "	"nyt_eng_199507.gz"

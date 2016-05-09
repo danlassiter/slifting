@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138786"	"they"	"nurse"	" That is the way with a lot of Roman Catholic nuns in this city. They teach, they nurse, they advocate. They live simply, avoiding flattery's spotlight. Then, when they become too frail to do any more, they are summoned to some motherhouse somewhere, often far from New York. </P> "	"nyt_eng_200311.gz"

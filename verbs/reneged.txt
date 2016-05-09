@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"112352"	"it"	"reneged"	" Napolitano has been negotiating with Andersen to settle potential charges related to the collapse of another Andersen client, the Baptist Foundation of Arizona. Though Andersen had reached an agreement in principle to pay $217 million to the 11,000 investors who lost money in the Baptist Foundation, it reneged, saying that its insurer would not pay the agreed-upon sum. The insurer, the Professional Services Insurance Co., is owned by Andersen Worldwide. </P> "	"nyt_eng_200204.gz"

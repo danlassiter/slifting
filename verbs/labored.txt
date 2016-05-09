@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"109722"	"he"	"labored"	" But Pedro struggled mightily, throwing 31 pitches in the second inning. He walked the first two batters. After a ground out, he labored, throwing 10 pitches to Juan Rivera, who won the duel, slamming a homer to left (``a magnificent at-bat,'' said Torre). Martinez was up to 41 pitches after two. </P> "	"nyt_eng_200203.gz"

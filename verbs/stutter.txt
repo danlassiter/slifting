@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"84344"	"I"	"stutter"	" He had never announced before. ``I told him, I'm nervous, I stutter, I stammer.'' He was offered $15 a broadcast. ``I'll take it.'' </P> "	"nyt_eng_199701.gz"

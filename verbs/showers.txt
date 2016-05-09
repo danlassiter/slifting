@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"95832"	"she"	"showers"	" Instead of pulling out of the driveway before sunrise, she now sleeps in until 6 a.m. and can prepare breakfast for the boys. As soon as her mother, Elena, arrives to watch the children, she showers, puts on her makeup and slips into some casual slacks, a shirt and blazer. </P> "	"nyt_eng_200107.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26120"	"it"	"cooled"	" An area of high pressure over eastern New England has prodded moist air to blow inland from the Atlantic. As ocean air was forced to ascend the Appalachians, it cooled, leading to condensation and clouds. The clouds, in turn, allowed air to cool further by blocking out the sun. </P> "	"nyt_eng_199506.gz"

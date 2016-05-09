@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151617"	"he"	"recites"	" To punctuate scenes, Randall Keith Randall (Zach Selwyn), a gas station attendant, strums a guitar and sometimes speaks, sometimes sings rhyming commentary. Of the B&amp;B itself, he recites, And sure as the morning sun will rise/Most guests leave that place traumatized. Trauma would be an improvement over unrelenting boredom. </P> "	"nyt_eng_200504.gz"

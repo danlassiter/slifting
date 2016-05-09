@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"145938"	"they"	"stand"	" Ken Olin, executive producer of Alias and a director of shows like thirtysomething and The West Wing, says that Alias is infused with a cinematic sensibility. In the pilot, Jennifer comes marching back through the office with this device she needed to get, and as people see her, they stand, he says. It's so dramatic and shameless. Coming from TV, my first instinct would be to go under that. But J.J.'s taught me about creating that boldness. </P> "	"nyt_eng_200411.gz"
+"173720"	"we"	"stand"	" At the casket, we stand, one after another, and everyone tells their Nedra story. </P> "	"nyt_eng_200611.gz"

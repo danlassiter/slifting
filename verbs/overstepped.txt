@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92304"	"it"	"overstepped"	" The court acknowledged that Murphy was a public figure, and that his actions were ``generally newsworthy.'' But when the Enquirer printed precise details of Murphy's financial settlement with Hood and their son, Christian (he had bought her a house and set up a trust fund for the boy), it overstepped, t. The court said: ``We cannot say as a matter of law that the details of a celebrity's financial support of his child and Ms. Hood's are newsworthy.'' </P> "	"nyt_eng_200105.gz"

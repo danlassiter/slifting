@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"49994"	"she"	"adapted"	" When disco began to fade, she adapted, integrating rock and funk on the 1979 hits ``Hot Stuff'' and ``Bad Girls.'' If she took to these somewhat raunchy songs convincingly, it was as an actress to a role. It was not her style to advance a political or emotional agenda the way Madonna and Alanis Morissette do today. </P> "	"nyt_eng_199602.gz"

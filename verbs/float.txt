@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"34200"	"they"	"float"	" First of all, like many animals, they float, Spevak explained. ``Then, in struggling to keep the head above water and to keep breathing, the method they use is basically fast walking, which constitutes a kind of dog paddle,'' he said. </P> "	"nyt_eng_199509.gz"

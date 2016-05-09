@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"162511"	"he"	"wavered"	" One puzzle about FDR, in fact, is that though he appeared to lead the country with as firm a hand as Churchill did his, he wavered, inscrutably, in his views while members of his Cabinet and staff were at each other's throats. </P> "	"nyt_eng_200602.gz"

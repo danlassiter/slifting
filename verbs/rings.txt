@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"139031"	"it"	"rings"	" Geri Lama, a spokeswoman for OnStar, said that her company was not involved in the case and that OnStar's setup was not capable of what she called ``stealth listening.'7 hAny time we call into the vehicle, it rings,'' she said, adding that if a car is stolen, OnStar can retrieve data about its location but cannot eavesdrop on the people inside. </P> "	"nyt_eng_200312.gz"

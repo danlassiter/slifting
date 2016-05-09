@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"8511"	"she"	"wails"	" In ``Asking for It,'' Love sings, ``If you live through this with me/ I swear that I will die for you.'' In ``I Think That I Would Die,'' co-written with Kat Bjelland of Babes in Toyland, she wails, ``I want my baby/ Who took my baby? ... Where is my baby?'' </P> "	"nyt_eng_199411.gz"

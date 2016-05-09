@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26880"	"he"	"stocks"	" Even so, it's been almost a year since Levin founded the New England Non-Sport Company, a nonsports-card trading business. In it, he stocks, swaps and sells cards that have nothing to do with sports but everything to do with Levin. </P> "	"nyt_eng_199506.gz"

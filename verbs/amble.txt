@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"69923"	"they"	"amble"	" The last event is my personal favorite, the 10-Meter Lolligag. Contestants are arranged at the starting line 10 meters from a row of lawn mowers. At the signal, they amble, shuffle, stroll, meander, wander, saunter or sashay toward the mowers. Points are awarded for dragging the feet, standing in place and falling asleep during midstride. An extra 5,000 points are given to any contestant who gets arrested for loitering during the competition. </P> "	"nyt_eng_199609.gz"

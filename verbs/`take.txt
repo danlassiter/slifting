@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"19696"	"you"	"`take"	" ``You plow your land, you `take,' '' Scalia said, offering his own paraphrase of the regulation. ``Nobody would use it that way. It seems to me just weird.'' </P> "	"nyt_eng_199504.gz"

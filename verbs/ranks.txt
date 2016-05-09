@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"150196"	"he"	"ranks"	" As to the firm's broader strategic focus, he ranks, in order of growth potential, retail payments (credit and debit cards), asset management, brokerage and capital markets. </P> "	"nyt_eng_200503.gz"

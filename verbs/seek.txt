@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"83864"	"we"	"seek"	" ``Before all else, we seek, upon our common labor as a nation, the blessings of Almighty God. And the hopes in our hearts fashion the deepest prayers of our whole people.'' _ Dwight Eisenhower's second inaugural. </P> "	"nyt_eng_199701.gz"
+"83866"	"we"	"seek"	" ``Before all else, we seek, upon our common labor as a nation, the blessings of Almighty God. And the hopes in our hearts fashion the deepest prayers of our whole people.'' _ Dwight Eisenhower's second inaugural. </P> "	"nyt_eng_199701.gz"
+"84346"	"we"	"seek"	" ``Before all else, we seek, upon our common labor as a nation, the blessings of Almighty God. And the hopes in our hearts fashion the deepest prayers of our whole people.'' _ Dwight Eisenhower's second inaugural. </P> "	"nyt_eng_199701.gz"
+"84348"	"we"	"seek"	" ``Before all else, we seek, upon our common labor as a nation, the blessings of Almighty God. And the hopes in our hearts fashion the deepest prayers of our whole people.'' _ Dwight Eisenhower's second inaugural. </P> "	"nyt_eng_199701.gz"

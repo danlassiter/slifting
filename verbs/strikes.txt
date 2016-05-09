@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"10871"	"he"	"strikes"	" But as the ghost of Poe later points out to Conan Doyle about ``the clever killer who imitates my tales'': ``The first crimes were to establish a pattern of madness. Having achieved that result, the assassin has the leisure to wait. When the time is right, he strikes, confident an unknown lunatic, a character of his own invention, will receive the blame.'' </P> "	"nyt_eng_199412.gz"

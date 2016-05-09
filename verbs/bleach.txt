@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29925"	"you"	"bleach"	" Having let their laboratory become contaminated, Gerdes said, police officials let the problem fester. ``Anyone who has worked with this system for any given amount of time, you become extremely paranoid about this problem,'' he said. ``What you do is you shut down, you bleach, you clean, and then you start over if all that works.'' Otherwise, he said, the problem grows even worse, as the test results proved. </P> "	"nyt_eng_199508.gz"

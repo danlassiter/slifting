@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44604"	"he"	"informed"	" Peter Martins, artistic director of the New York City Ballet, paid tribute to Kirstein Friday in a statement that said in part: ``Like Balanchine, he informed, inspired, guided and enriched not only the lives of every member of New York City Ballet, but the lives of many generations. We have lost a founder, a father, a friend.'' </P> "	"nyt_eng_199601.gz"

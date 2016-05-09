@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"36006"	"we"	"grieve"	" ``We grieve, we grieve,'' John Hart, the general manager of the Indians, said at the time. </P> "	"nyt_eng_199510.gz"
+"90688"	"they"	"grieve"	" As they grieve for their ravaged neighborhood, they grieve, too, for Timothy Thomas, the unarmed 19-year-old shot and killed by Cincinnati police Officer Steven Roach. </P> "	"nyt_eng_200104.gz"
+"155720"	"you"	"grieve"	" Gailey described himself as hurt and mad when he heard of Houston's arrest. If you're a coach and something happens to one of your players, you grieve, he said. </P> "	"nyt_eng_200507.gz"

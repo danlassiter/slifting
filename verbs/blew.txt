@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"81616"	"it"	"blew"	" ``As soon as I got that out, it blew,'' Kelley said. ``I saw the fireball hit me. I knew it blew me back, but I didn't know how far. I knew I was on fire. I knew I didn't have any hair. I thought my ears were gone. It hurt, and then it didn't hurt.'' </P> "	"nyt_eng_199612.gz"

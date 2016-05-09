@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"33598"	"it"	"``could"	" While Time Warner started the Comedy Channel and invested in cable companies like Turner, it ``could, in retrospect, have been more active in starting basic, advertiser-supported services using their programming and their substantial subscriber base as a means of jump-starting new networks.'' </P> "	"nyt_eng_199509.gz"

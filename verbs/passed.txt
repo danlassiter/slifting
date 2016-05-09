@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"8922"	"he"	"passed"	" ``I think it's going to affect our chemistry drastically,'' said Rex Chapman, regarding Gugliotta's departure. ``He did so much for us. He rebounded, he passed, he scored and he brought the ball upcourt. He's one of the best guys on the team. We're going to miss him.'' </P> "	"nyt_eng_199411.gz"
+"88305"	"he"	"passed"	" ``A month later, he passed,'' Charles said. </P> "	"nyt_eng_199702.gz"
+"121145"	"it"	"passed"	" A ban could pass in the Senate. The last time one was considered, it passed, 63-34, with 14 Democrats, including Daschle, supporting it. </P> "	"nyt_eng_200207.gz"

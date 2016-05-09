@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"109039"	"they"	"fret"	" There are those who worry that rushing Blalock to the big leagues could damage his psyche. What if he breaks camp with the team, they fret, and then, facing Oakland's young-gun rotation of Mark Mulder, Tim Hudson and Barry Zito, starts the season 0 for 12? </P> "	"nyt_eng_200203.gz"

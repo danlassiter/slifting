@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"66421"	"they"	"fence"	" They shoot, they fence, they swim, they ride a horse and they run. They get no money, to speak of, for their athletic troubles. Nor fame. Nor commercial endorsements. </P> "	"nyt_eng_199607.gz"

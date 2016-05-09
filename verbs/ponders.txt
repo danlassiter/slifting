@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165029"	"he"	"ponders"	" In conversation, he ponders, waits, waits, waits before responding. </P> "	"nyt_eng_200603.gz"

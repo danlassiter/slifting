@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"136268"	"I"	"profile"	" ``I story-tell, I profile, I try to create the awareness and keep a message out there for others to see, to learn from, to educate them. Because you can begin to see a change and a difference.'' </P> "	"nyt_eng_200301.gz"

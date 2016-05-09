@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"38543"	"he"	"flops"	" ``He flips, he flops, he bips, he bops,'' Rove said. ``He can't help himself. </P> "	"nyt_eng_199511.gz"
+"61970"	"he"	"flops"	" ``He pushes and grabs and fights as much as anybody in the NBA,'' Karl said, ``and then he gets bumped, he flops, and draws a flagrant foul.'' </P> "	"nyt_eng_199606.gz"

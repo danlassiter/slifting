@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"49739"	"you"	"dummies"	" ``We don't want to say, `Hey, you dummies,' '' said one announcer, Dave Lewis, an American sports journalist who has been immersed in basketball culture for years. ``But we understand that some of the vernacular _ some of the fun language associated with basketball _ might be difficult to follow.'' </P> "	"nyt_eng_199602.gz"

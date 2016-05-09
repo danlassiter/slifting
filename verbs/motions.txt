@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"102390"	"he"	"motions"	" Look closely, he motions, at the suit jacket hanging on the back of his office door. There, just beside the removable flag pin, is a small red thread stitched into the edge of the lapel. It is a sign, almost universally recognized in France, of the Legion of Honor, which Messier was awarded this summer. </P> "	"nyt_eng_200112.gz"

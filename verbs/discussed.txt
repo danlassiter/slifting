@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"152530"	"we"	"discussed"	" Well, we discussed, why not? Why not just try a few weeks of antibiotics and see what happens. If nothing improves, there is one less thing to worry about. And if, hallelujah, she felt better, well bingo, there's the diagnosis and the treatment all rolled into one. What's the big deal? </P> "	"nyt_eng_200505.gz"

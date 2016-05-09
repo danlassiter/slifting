@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"166348"	"he"	"grunted"	" For example, one day I had 4-year-old Vincent eating a healthy snack of grapes and asked Jack whether he wanted some. Jack, who was several months shy of 2 and whose vocabulary was limited at the time, turned up his nose and announced, in a guttural sound that would have made John Belushi proud: Cheeeeese-burger. As I headed to the kitchen to make one, he grunted, FRIES. </P> "	"nyt_eng_200605.gz"

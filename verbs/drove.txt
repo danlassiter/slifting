@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"124506"	"he"	"drove"	" Pete Zook was a truck driver/traveling salesman for a plumbing company. For three decades, he drove, sold, delivered before returning home for weekends with the family in Loudonville, Ohio. He and his wife, Betty, are retired and living in Lake Worth, Fla., just north of Fort Lauderdale. Betty Zook, though, still cleans homes ... not for the extra money, but for the work. </P> "	"nyt_eng_200209.gz"

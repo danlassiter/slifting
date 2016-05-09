@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165588"	"they"	"corrode"	" The flapperless toilet. Instead of a tankful of water, there's a semicylindrical plastic tub inside the tank that dumps when you flush. Because the tank doesn't hold water all the time, there's no need for a flapper to create a tight seal. Flappers get unseated, they corrode, they leak, the toilet runs, water is wasted. </P> "	"nyt_eng_200604.gz"

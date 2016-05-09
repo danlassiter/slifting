@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92580"	"he"	"steals"	" Rickey Henderson: The man never lifted a weight in his life, yet even now, his stomach looks like a cobblestone street. He singles, he steals, he jacks one way out to left-center. He'll probably finish with 300 homers before it's over _ absolutely surreal for a leadoff man _ and those 3,000 hits are a lock. Watching Rickey is like flipping through the pages of the Baseball Record Book, with a side of mustard. </P> "	"nyt_eng_200106.gz"

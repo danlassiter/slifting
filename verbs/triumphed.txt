@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"68025"	"he"	"triumphed"	" In the early days of this year's campaign, Pat Buchanan became the poster boy for the American worker. Initially, he triumphed, aided by Dole's economic fumbling. (``I didn't realize that jobs and trade and what makes America work would become a big issue in the last few days of this campaign,'' Dole told a group of New Hampshire workers in February.) </P> "	"nyt_eng_199608.gz"

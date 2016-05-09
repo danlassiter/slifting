@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"106463"	"he"	"ridiculed"	" One man alone, he ridiculed, could not possibly do all the things prosecutors allege. </P> "	"nyt_eng_200202.gz"

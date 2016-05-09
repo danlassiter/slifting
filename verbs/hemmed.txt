@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"152818"	"they"	"hemmed"	" So when an American Airlines flight attendant stood up at the company's annual meeting last Wednesday and suggested how the company could save an estimated $50 million a year, you'd think its executives would have leapt out of their seats with joy. Instead, they hemmed, hawed, said they were looking into the idea and shortly thereafter declared the meeting over. </P> "	"nyt_eng_200505.gz"

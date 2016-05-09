@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"42728"	"he"	"saud"	" The manufacturing processes for Polartec, the lightweight fleece used in outdoor garments, should begin by January 2, he said. In 90 days, he saud, ``we will be one hundred percent operational.'' </P> "	"nyt_eng_199512.gz"

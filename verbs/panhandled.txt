@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"56953"	"I"	"panhandled"	" ``You lose all respect for yourself and other people,'' she said, ``I slept in vans, I slept in cardboard boxes, I panhandled, sold anything I could get, the clothes off my back, even myself.'' </P> "	"nyt_eng_199604.gz"
+"57172"	"I"	"panhandled"	" ``You lose all respect for yourself and other people,'' she said, ``I slept in vans, I slept in cardboard boxes, I panhandled, sold anything I could get, the clothes off my back, even myself.'' </P> "	"nyt_eng_199604.gz"

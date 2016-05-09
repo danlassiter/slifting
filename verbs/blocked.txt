@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"156472"	"he"	"blocked"	" Matthews, from Cincinnati, is the bigger and faster of the two. He played in 11 games last season as the No. 2 tight end in two-tight end sets and caught one pass for 10 yards against Virginia. Mostly, he blocked, which is the main job of a Tech tight end. </P> "	"nyt_eng_200508.gz"

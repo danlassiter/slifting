@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"69411"	"they"	"move"	" ``As the economy moves, they move, and if things get bad again they could go back in the tank,'' said Richard Gritta, University of Portland finance professor and airline expert. </P> "	"nyt_eng_199608.gz"
+"145202"	"they"	"move"	" Clients are far-flung because they move. People retire, they move, they travel. Wherever a person goes, you go with them. You are involved with them as people, it's not a transaction-oriented thing, it's a relationship, Koss said. And for us, long term is not six months; it's 15, 30, 40 even 50 years. </P> "	"nyt_eng_200411.gz"
+"154583"	"they"	"move"	" When these big companies get an itch, they move, Hillier says. They have no loyalty to the community. </P> "	"nyt_eng_200507.gz"

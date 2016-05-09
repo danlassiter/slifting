@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138006"	"they"	"note)"	" Those are the sorts of questions that the left-leaning Fabian Society tackles in a new report, ``The Future of the Mo.arBhy.'' Although the Fabians do not propose afo|594473:421:9927:9 9:268:1641784747787669177949:27tly show that 70 percent of the British population supports having a monarchy, they note), they believe some radical changes are in order, starting with an effort to define the monarch's role. </P> "	"nyt_eng_200307.gz"

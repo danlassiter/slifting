@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"160683"	"they"	"dart"	" Beneath director Denham's arched brows, they dart, they burn. Sure his obsessiveness is intentionally amusing, but Jack Black as the director avoids slap shtick. Indeed, Denham's desire to complete his film makes him a stand-in for any number of thwarted visionaries -- Jackson and Cooper, among them. There's even a hint of Orson Welles in Black's portrayal. </P> "	"nyt_eng_200512.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"122204"	"I"	"sink"	" ``I swim and I can swim quite well, but if I stop swimming, I sink,'' he says in an interview in his Belmont home. ``If I go out in a lake and I swim and I stop swimming and hold my breath, I will just slowly go down.'' </P> "	"nyt_eng_200208.gz"

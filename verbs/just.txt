@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"33050"	"I"	"just"	" ``Well, I was just so mad at myself, I just, wow, hit it,'' chattered Seles as she recapped the variety of other worldly shots she conjured up in order to steal two set points, and ultimately the match, from the fourth-ranked Novotna. </P> "	"nyt_eng_199509.gz"
+"140948"	"I"	"just"	" Oh, man, that's, I just, wow, I don't know, Toomer said. </P> "	"nyt_eng_200408.gz"
+"165430"	"I"	"just"	" I felt it, that I overcame a fear. And then, I just, like.?.?. you get used to it, he says. (Now), if I'm scared to do something, I can make myself want to do it, and do it. </P> "	"nyt_eng_200604.gz"

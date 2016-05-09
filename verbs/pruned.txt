@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"109476"	"she"	"pruned"	" Susie Chang had never heard of manicure salons before she immigrated to New York City 18 years ago. Like most Korean women, she pruned, filed and polished her own nails at home. </P> "	"nyt_eng_200203.gz"

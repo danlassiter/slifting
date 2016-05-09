@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"153263"	"they"	"hpe"	" The Ddgers, fresh off their first series victory in three weeks, came home Sunday evenig. They will be there a full fortnight, giving them time to unpack, get comfortable and, they hpe, take advantage of the situation by stocking up on wins. </P> "	"nyt_eng_200505.gz"

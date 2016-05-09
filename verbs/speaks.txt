@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"8506"	"she"	"speaks"	" Raised in London, she speaks, as her relative points out, ``perfect Romanian with a ghastly Oxford accent.'' Her life is soon to change again, but her elegance never leaves her or this evocative film by Lucian Pintilie. Like its heroine, the film's serene and beautiful appearance masks a powerful conscience. </P> "	"nyt_eng_199411.gz"
+"26969"	"he"	"speaks"	" Instead, he speaks, quite literally, with his hands. </P> "	"nyt_eng_199507.gz"
+"27044"	"he"	"speaks"	" Instead, he speaks, quite literally, with his hands. </P> "	"nyt_eng_199507.gz"
+"49697"	"she"	"speaks"	" Looking back on her work as a poet, the poet Richard Wilbur said not long ago, ``Some of her poems have the tartness of up-country New England, yet she can speak fantastically, to evoke the fantastic clamors of New York; and in many a southerly poem, she speaks, for our pleasure, the tongue of pure felicity.'' </P> "	"nyt_eng_199602.gz"
+"174100"	"she"	"speaks"	" Casting Mary was key, of course; yes, she speaks, but she also would have to possess the face and the spirit that could reflect the hopes and beliefs of the faithful. </P> "	"nyt_eng_200612.gz"

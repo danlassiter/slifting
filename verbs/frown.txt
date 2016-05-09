@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7987"	"they"	"frown"	" The hostility has led her to meet coldness with coldness. ``You greet them, they frown,'' Mrs. Mabiletsa said. ``They frown, I frown back. Whatever they give, I give it back. I taught myself to be like that.'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_19941102.0310 type=story > <DATELINE>  (BC-SAFRICA-HOUSING-2NDTAKE-NYT) </DATELINE> <TEXT> "	"nyt_eng_199411.gz"

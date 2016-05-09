@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"159873"	"they"	"emerge"	" Every summer when school is out a veritable stream of immigrants head into Indian country. Indeed the Oregon Trail was never so heavily populated as are Route 66 and Highway 18 in the summer time. From every rock and cranny in the East, they emerge, as if responding to some primeval fertility rite, and flock to the reservations, Deloria wrote. They were the anthropologists -- one of Deloria's favorite targets. </P> "	"nyt_eng_200511.gz"

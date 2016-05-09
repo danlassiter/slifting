@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"8406"	"he"	"crouched"	" At 15, he crouched, hiding in a bush, his heart pounding, praying the border patrol would not find him and send him back to El Salvador. </P> "	"nyt_eng_199411.gz"
+"143394"	"he"	"crouched"	" The presidential candidate dashed up to the stage and assumed his stump speech pose: Wearing black suspenders and a pink satin tie, he crouched, contorting his body like a ballplayer winding up for a pitch, and tested the microphone. </P> "	"nyt_eng_200409.gz"

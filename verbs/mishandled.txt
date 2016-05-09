@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"13127"	"they"	"mishandled"	" What the authorities found, Cochran charged, they mishandled, using ``covered wagon'' methodology to handle ``21st century cyberspace technology.'' Only once did he mention Deputy Medical Examiner Irwin Golden, approvingly: in recounting Golden's prior testimony that two knives might have been used for the killings. </P> "	"nyt_eng_199501.gz"

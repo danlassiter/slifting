@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"28473"	"he"	"hums"	" ``We did use a man in a clown suit and he is sitting on a toilet,'' Nauman said from his home in New Mexico. ``He has a magazine in his lap. He never pulls his pants down or anything There is nothing explicit there, but he is sitting on a toilet. He thumbs through the magazine, he hums, whistles. He's actually pretty funny.'' </P> "	"nyt_eng_199507.gz"

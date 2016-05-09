@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91228"	"they"	"cool"	" Lava lamps, those glowing cones with blobs floating in colored liquid, work on a very simple principle. Heat from the bulb in the base makes the blobs less dense than the liquid, so they rise. At the top, away from the heat, they cool, become more dense and sinking again. </P> "	"nyt_eng_200104.gz"

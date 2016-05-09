@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137840"	"you"	"meet0people"	" ``It was horrible,'' he recalls. ``With `A Blessing on the Moon,' I felt totally fulfilled and done. Then there's this curious thing that happens. You take this little, introverted, idiosyncratic thing you do all alone in a room, and it suddenly becomes a public career. You go on a book tour, you mEet0people, you meet your readers, you meet bookstore owners. . . . It sort of changes the whole mind-set of what you do. </P> "	"nyt_eng_200306.gz"

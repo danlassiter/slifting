@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67072"	"he"	"postulates"	" How long ago did dinosaurs live? Nye gets out a clock. At midnight, he postulates, life began. About 8 a.m. the first lifeforms appeared. Not until 11 p.m. did the first Terrible Lizards show up. And not until 11:59 p.m. _ make that 11:59.30 p.m. _ did the upstart human species show up. </P> "	"nyt_eng_199608.gz"

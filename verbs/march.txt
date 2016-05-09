@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"104846"	"they"	"march"	" The Saturday night of freshman week, students from the AUC schools are brought together for an Olive Branch ceremony intended to dampen inter-school rivalries. Afterward, they march, thousands in all, to a party in the Clark Atlanta stadium on King, chanting their loyalties along the way: ``Ashes to ashes, dust to dust. You got to be a Morehouse man to party like us.'' The Morris Brown reply is simple, direct. ``We start it. We end it. MBC.'' </P> "	"nyt_eng_200201.gz"

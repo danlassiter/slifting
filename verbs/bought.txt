@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"83624"	"he"	"bought"	" With the $26 million he made from his Tyson and Holyfield fights, he bought, among other items, five cars, five houses and tons of food and cases of alcohol. He ate and drank so much that he could hardly fit into his cars or his houses. He went from about 231 pounds (when he fought Tyson) to 400 pounds. His blood-sugar count skyrocketed from 100 to 800. In 1994, he fell into a diabetic coma and nearly died. He was unconscious for four days. </P> "	"nyt_eng_199701.gz"

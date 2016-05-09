@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"42179"	"he"	"snitched"	" Chief Elf Russ Carney said he chuckled at a letter from one Boston boy who informed Santa that he was ``the one in the house who has been good this year.'' His sisters, he snitched, ``had been pulling each other's hair.'' </P> "	"nyt_eng_199512.gz"

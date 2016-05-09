@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"74977"	"he"	"poses"	" In Disneyland, he poses, stone-faced, one hand clutching the bulb of his shutter-release cable, another hanging onto a bunch of balloons _ an alien visitor who looks oddly at home. At Cape Canaveral, he shakes the hand of an astronaut in full regalia, both as otherworldly as the contraption behind them that resembles something designed by Frank Gehry. </P> "	"nyt_eng_199610.gz"

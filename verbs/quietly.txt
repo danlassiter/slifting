@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"159868"	"he"	"quietly"	" Undeterred, a grown-up Cash composes songs in an airplane hangar while stationed in Germany during the Korean war. As he strums his guitar, he quietly, almost gently perfects the line I shot a man in Reno just to watch him die in Folsom Prison Blues. </P> "	"nyt_eng_200511.gz"

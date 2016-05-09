@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"168738"	"we"	"retreated"	" Borowsky took measurements of the amazing blind fish swimming in a stream while the rest of us alternated between breathing oxygen off the bottles and, out of curiosity, experiencing the affects of the carbon dioxide. After Borowsky had his data, we retreated, somewhat humbled but also with the sense that our systems did work well to mitigate the carbon dioxide. </P> "	"nyt_eng_200607.gz"

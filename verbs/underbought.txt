@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7717"	"we"	"underbought"	" Zach, an agent with Northwestern Mutual Life Insurance Co. in Manhattan, said that if they had bought in the more exclusive village of Bronxville less than half a mile away he would have paid perhaps double for a comparable house. ``Based on family income, we underbought,'' Mrs. Zach said. ``We found a lovely house that meets our needs, and now we have more disposable income to spend on other things.'' </P> "	"nyt_eng_199410.gz"

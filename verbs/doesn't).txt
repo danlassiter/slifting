@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"41553"	"he"	"doesn't)"	" (4) Brawl in the stands, go to jail. First a few rounds with Tyson (you have gloves, he doesn't), then a two-year sentence. We'll let the appeal process take it down to a more reasonable term _ like a week. </P> "	"nyt_eng_199512.gz"
+"139799"	"it"	"doesn't)"	" The Prisoner may not always make sense (in fact, it doesn't), but it is suspenseful, intriguing and satisfyingly strange. If you're still pining for the good old days of The X Files, this series will satisfy your craving. </P> "	"nyt_eng_200407.gz"

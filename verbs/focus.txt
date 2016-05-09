@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"131279"	"we"	"focus"	" ``Before the game, we focus,'' Strahan said. ``After the game, we talk.'' </P> "	"nyt_eng_200211.gz"

@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"78108"	"he"	"grinned"	" When one man spoke up, he identified himself as a former colonel in the army of the Afghan Communists who were driven from power in 1992, hardly the sort of man to approve of the Taliban. But asked if he liked the stoning and the amputating, he grinned, then replied, ``Why not?'' </P> </TEXT> </DOC> <DOC id=NYT_ENG_19961115.0494 type=story > <HEADLINE> GIANTS TO SIGN PLAYER WHO HAS HARASSED WOMEN </HEADLINE> <DATELINE>  (BC-FBN-GIANTS-NYT) </DATELINE> <TEXT> "	"nyt_eng_199611.gz"
+"128822"	"he"	"grinned"	" The last singer was a man, probably 70-ish. Tottering to the mike, he grinned, then croaked out the tender words of an old Joe Cocker song. </P> "	"nyt_eng_200210.gz"
+"129101"	"he"	"grinned"	" The last singer was a man, probably 70-ish. Tottering to the mike, he grinned, then croaked out the tender words of an old Joe Cocker song. </P> "	"nyt_eng_200210.gz"
+"129213"	"he"	"grinned"	" The last singer was a man, probably 70-ish. Tottering to the mike, he grinned, then croaked out the tender words of an old Joe Cocker song. </P> "	"nyt_eng_200210.gz"

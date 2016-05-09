@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"66969"	"it"	"bloomed"	" With spring, there emerged a surprising, familiar set of leaves: spear-shaped, speckled ones belonging to a calla lily I had tossed away for dead, piling cuttings and dirt on top of it. Of course, it bloomed, looking better than it ever had in the garden. </P> "	"nyt_eng_199608.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"160361"	"he"	"absolutely,	"	"nyt_eng_200512.gz"	""

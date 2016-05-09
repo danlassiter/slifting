@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"135985"	"they"	"joined"	" McCray notes that Yale did not join the national fellowships group at first. ``But after they didn't win a Marshall, they joined,'' she says. </P> "	"nyt_eng_200301.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151589"	"we"	"collectively"	" In the end, I think we the organization, we collectively, will make the right decision, said Griffin, who could face some thorny judgments. I don't know right now what that decision is. Certainly, we won't delay things gratuitously. But we won't launch precipitously either. </P> "	"nyt_eng_200504.gz"

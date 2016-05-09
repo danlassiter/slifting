@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"126695"	"she"	"steered"	" Then there was the time he ran out of gas after picking up the baby sitter. As they headed back to her house for help, she steered, my husband pushed from behind and our daughter provided the cheering section until a neighbor ran out to rescue them with a donation from his supply of lawn-mower gasoline. The girls both thought it was the highlight of the evening. We weren't even late for the movie. </P> "	"nyt_eng_200209.gz"

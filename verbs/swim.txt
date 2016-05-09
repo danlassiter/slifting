@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"96067"	"they"	"swim"	" ``Oh, they take the kayak out, they swim, they fish, though they don't catch much,'' Peg Richards said. ``They go hiking or for walks, the big ones watch after the younger ones.'' </P> "	"nyt_eng_200108.gz"

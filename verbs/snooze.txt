@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"163061"	"you"	"snooze"	" For golf fans, the rule seems to be, you snooze, you lose; you don't snooze, you still might lose. </P> "	"nyt_eng_200602.gz"

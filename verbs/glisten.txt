@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"10429"	"they"	"glisten"	" I prefer them steamed over water, in the shell. When they are peeled, they glisten, while ``boiled'' shrimp appear dull. And the texture of the steamed shrimp is more silken. </P> "	"nyt_eng_199412.gz"

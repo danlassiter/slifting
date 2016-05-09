@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"77248"	"we"	"celebrate"	" ``Tonight, my friends, we celebrate,'' said 209 campaign co-chairman Ward Connerly in Sacramento. ``In our hearts and minds we dance not in the darkness but in the warm sunshine to the sweet music of equal treatment for all and special privileges for none.'' </P> "	"nyt_eng_199611.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"89254"	"we"	"bomb"	" ``It's a very appealing concept _ we fly, we bomb, they do what we want them to do,'' said Scott, who was an American general during the war. ``Aerial bombardment has not been and never will be the quick simple solution to combat. It is unlikely you will ever be able to bomb people into surrender.'' </P> "	"nyt_eng_200102.gz"

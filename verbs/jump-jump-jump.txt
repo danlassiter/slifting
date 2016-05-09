@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"87268"	"you"	"jump-jump-jump"	" Kwiatkowski feels that skaters continue to evolve. She said: ``When I was 14 or 15, if somebody told me to hold my right arm up, I held my right arm up. When you're young, you jump-jump-jump, spin-spin-spin. But now I go back and look at my tapes and I see it wasn't natural.'' </P> "	"nyt_eng_199702.gz"

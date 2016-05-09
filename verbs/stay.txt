@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"121133"	"they"	"stay"	" Each ranger works eight consecutive 10-hour days -- which frequently last 16 hours -- and then has six days off. At Camp Muir, they stay, in sardine-can fashion, in a cramped, 10-by-6-foot A-frame hut with solar power and three bunks. At Rainier's second-busiest camp, 9,460-foot Camp Schurman, on the northeast side, is another tiny ranger hut. </P> "	"nyt_eng_200207.gz"

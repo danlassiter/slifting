@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"128952"	"we"	"gone"	" ``We can't live like this,'' said Baker, who kept checking over her shoulder in the parking lot of a Giant grocery store. She shared a worried look with her 14-year-old daughter, Brittany. ``We gone, honey, we gone,'' and then they drove away. </P> "	"nyt_eng_200210.gz"
+"128954"	"we"	"gone"	" ``We can't live like this,'' said Baker, who kept checking over her shoulder in the parking lot of a Giant grocery store. She shared a worried look with her 14-year-old daughter, Brittany. ``We gone, honey, we gone,'' and then they drove away. </P> "	"nyt_eng_200210.gz"
+"128969"	"we"	"gone"	" ``We can't live like this,'' said Baker, who kept checking over her shoulder in the parking lot of a Giant grocery store. She shared a worried look with her 14-year-old daughter, Brittany. ``We gone, honey, we gone,'' and then they drove away. </P> "	"nyt_eng_200210.gz"

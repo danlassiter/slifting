@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67916"	"he"	"avoided"	" He is a candidate for the nation's most visible office who is visibly uncomfortable with voters. Though he complains that the public does not know enough about who he really is, he persists in talking about himself in the third person, as if to keep his distance. And though he seems to know that it is required, he avoided, until he presented his tax cut plan just a week before the convention, offering even the most boilerplate campaign rhetoric about an agenda or a vision. </P> "	"nyt_eng_199608.gz"

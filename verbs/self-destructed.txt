@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"134650"	"we"	"self-destructed"	" Edwards may want to start with the Jets' conditioning. In a string of four consecutive losses early in the season, the Jets trailed by 10, 10 and 11 points at halftime of three of those games. Then they folded. ``In the second half for some reason, we self-destructed,'' Edwards said. He will spend the off-season determining what ``for some reason'' is. The reason may be his approach. </P> "	"nyt_eng_200212.gz"

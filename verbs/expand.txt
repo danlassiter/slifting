@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137443"	"they"	"expand"	" In either case, as the bubbles rise, they expand, thereby increasing pressure in the fluid. They may also expand and contract as seismic waves pass through them, further changing the pressure, according to Brodsky. The pressure changes deform the overlying rocks, possibly jarring certain faults into action. </P> "	"nyt_eng_200304.gz"

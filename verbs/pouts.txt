@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"59776"	"he"	"pouts"	" Michael's resentment at Sony shows up in the easy-chugging but self-righteous ``Star People''; stardom, he pouts, is ``a dream with a nightmare stuck in the middle.'' </P> "	"nyt_eng_199605.gz"
+"59878"	"he"	"pouts"	" Michael's resentment at Sony shows up in the easy-chugging but self-righteous ``Star People''; stardom, he pouts, is ``a dream with a nightmare stuck in the middle.'' </P> "	"nyt_eng_199605.gz"
+"60257"	"he"	"pouts"	" Michael's resentment at Sony shows up in the easy-chugging but self-righteous ``Star People''; stardom, he pouts, is ``a dream with a nightmare stuck in the middle.'' </P> "	"nyt_eng_199605.gz"

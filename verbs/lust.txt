@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"38757"	"we"	"lust"	" ``Men read these kinds of comic books, so why shouldn't women as well?'' asked Yayoi Watanabe, a demurely dressed woman who draws the comics. ``Women seem to be starting to say, `Hey, we lust, too,' and `We're also thinking of porn and promiscuity.' '' </P> "	"nyt_eng_199511.gz"
+"38887"	"we"	"lust"	" ``Men read these kinds of comic books, so why shouldn't women as well?'' asked Yayoi Watanabe, a demurely dressed woman who draws the comics. ``Women seem to be starting to say, `Hey, we lust, too,' and `We're also thinking of porn and promiscuity.' '' </P> "	"nyt_eng_199511.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"16068"	"they"	"keep"	" ``Whatever they make, they keep,'' Huan said. ``Whatever they lose, the government takes care of.'' </P> "	"nyt_eng_199503.gz"

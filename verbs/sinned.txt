@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"39492"	"we"	"sinned"	" The vast majority appeared to be young and secular, with few of the men wearing the skullcaps of religious Jews and most of the women in casual dress. Some carried placards with messages like ``Sorry that we were quiet'' and ``Yitzhak Rabin, we sinned, we hurt, forgive us.'' </P> "	"nyt_eng_199511.gz"

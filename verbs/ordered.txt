@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"29528"	"he"	"ordered"	" From now on, he ordered, government drivers must stop at red lights and obey speed limits. Officials would travel on commercial aircraft; a VIP fleet would be dismantled and its planes returned to the French air force. </P> "	"nyt_eng_199507.gz"
+"42327"	"he"	"ordered"	" Searches for contraband, he ordered, could be carried out only when extreme violations had been reported and then only with a search warrant. </P> "	"nyt_eng_199512.gz"

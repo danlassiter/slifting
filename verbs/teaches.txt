@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"11393"	"it"	"teaches"	" As he interpreted ``Boys Town'' for his television audience, it teaches, ``You have to love people enough to want to change them, not just feel their pain.'' His parting words drew from the movie the lesson that life is hard and you have to work at it: ``It doesn't come free or cheap or easy.'' </P> "	"nyt_eng_199412.gz"
+"12646"	"he"	"teaches"	" These days, he teaches, but spends nights at home with his wife, who is pregnant, and their children, 5 and 4. While he was coaching, weeks would go by before he would see them awake. The hours he played with the kids, his mind was usually back at the gym. </P> "	"nyt_eng_199501.gz"

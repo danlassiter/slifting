@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"126495"	"it"	"coordinator"	" Relatives of the victims identified the man who campaigned against the blasphemy laws as Aslam Martin, the group's outreach officer. The other victims, all of whom were also men, were identified by local Christians as Edwin Foster, it coordinator, Mushtaq Roshan, its cashier, John Menon, its office secretary, Iqbal, a driver, Kamran, its computer operator, and Benjamin, a second driver. Police did not release a list of the men full names on Wednesday. </P> "	"nyt_eng_200209.gz"

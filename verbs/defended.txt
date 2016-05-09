@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"135708"	"they"	"defended"	" ``But Dallas is phenomenal. Don Nelson has done a wonderful job with them. They shared the ball, they defended, and everybody on their team made a great contribution.'' </P> "	"nyt_eng_200301.gz"
+"135709"	"they"	"defended"	" ``But Dallas is phenomenal. Don Nelson has done a wonderful job with them. They shared the ball, they defended, and everybody on their team made a great contribution.'' </P> "	"nyt_eng_200301.gz"

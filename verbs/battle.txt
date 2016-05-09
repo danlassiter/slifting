@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"127243"	"they"	"battle"	" ``I don't look at myself as a strikeout pitcher,'' he said. ``Some days I end up with some strikeouts, but other games I don't. And so I don't feel like I need to strike out six or eight people to have a good game. These guys put the ball in play, they battle, they fight off pitches, they foul off pitches. It's going to be a challenge. That's why they won 99 games.'' </P> "	"nyt_eng_200210.gz"

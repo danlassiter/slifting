@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"55571"	"I"	"cringed"	" After sighing, Magic gave one of those, ``Oh well, maybe I should have stayed retired'' statements. Upon hearing that, I cringed, because Magic did the same thing a few years back when Michael Jordan and the Chicago Bulls were waxing the Lakers in the 1991 Finals. </P> "	"nyt_eng_199604.gz"

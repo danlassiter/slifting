@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"66796"	"he"	"adopted"	" But the president did not fundamentally veer from his traditional economic approach. Indeed, he adopted, at least on paper, the Republican philosophy of balancing the budget by early in the next century. So as he goes into the election, Clinton is in position to run both as a protector of the middle class and as a defender of fiscal responsibility. </P> "	"nyt_eng_199608.gz"

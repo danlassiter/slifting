@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"161884"	"we"	"murmur"	" That's politics and politicians, we murmur, and life goes on. </P> "	"nyt_eng_200601.gz"

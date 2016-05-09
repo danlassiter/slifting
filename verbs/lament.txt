@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"55262"	"they"	"lament"	" It's a question that's had valley residents in the north part of Los Angeles grumbling for decades. From water rates to beat cops to council meetings, they lament, the San Fernando Valley just doesn't seem to get a fair shake. </P> "	"nyt_eng_199604.gz"
+"103339"	"they"	"lament"	" This, they lament, is what's wrong with the current format: A team not good enough to win its conference title or even get into the Big12 championship game is playing for the national championship. </P> "	"nyt_eng_200201.gz"
+"156645"	"they"	"lament"	" Atheists, they lament, are the last minority in this nation that is fair game for bigotry. Experts who study religion in public life concur. </P> "	"nyt_eng_200508.gz"

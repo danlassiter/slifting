@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"128251"	"we"	"holler"	" Although the Texans are being paid gobs of money to try to win football games _ the same sum, essentially, as all the grownup teams _ we realize that's a bit much to ask of them at present. So we're content to bide our time, enjoying the process if not the 1-4 results. It's almost like attending a hoedown. We whoop, we holler, we raise hell, then we merrily go home thankful for the experience, for just being invited back to the dance. </P> "	"nyt_eng_200210.gz"

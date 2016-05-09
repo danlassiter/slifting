@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"69055"	"I"	"slept"	" Then, I slept, long and deep. </P> "	"nyt_eng_199608.gz"
+"69190"	"I"	"slept"	" Then, I slept, long and deep. </P> "	"nyt_eng_199608.gz"
+"124452"	"he"	"slept"	" He had survived, but his life no longer belonged to him alone. In his simplest daily actions, he was the representative of the dead. He ate, he slept, he talked, he breathed for them. </P> "	"nyt_eng_200209.gz"

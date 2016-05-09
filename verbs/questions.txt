@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26964"	"he"	"questions"	" ``This is why I don't go for the standing eight-count,'' said Mercante, 75, who was inducted June11 into the International Boxing Hall of Fame in Canastota, N.Y. ``When a referee is in question, he questions, `Should I stop this fight or not?' When a standing eight-count is required, you should be stopping the fight.'' </P> "	"nyt_eng_199507.gz"

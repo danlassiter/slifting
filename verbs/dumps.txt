@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"38658"	"it"	"dumps"	" At the bottom of the screen are the controls, simple enough for any pre-schooler who can use a mouse. Three buttons to click, left arrow, right arrow, and straight. As you work the controls, the video moves with you. You can dump your load of dirt in the back of a truck, or onto someone's head. Or as the narrator says: ``It digs, it dumps, it does everything but eat your spinach.'' </P> "	"nyt_eng_199511.gz"

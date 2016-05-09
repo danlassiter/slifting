@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"356"	"we"	"deliver"	" The revelations are designed to shock. In various songs on the new Rolling Stones album, Mick Jagger tells us he is ``a butcher, cutting up meat,'' he's been known to ``act like a goat,'' that ``my nose is clean, but I'm a man'' and, perhaps most revealing of all, ``we do take away, we deliver, too.'' </P> "	"nyt_eng_199407.gz"
+"11568"	"we"	"deliver"	" ``In the campaign, we promised that if you gave Republicans a majority, we'd clean up Congress and cut it down to size. Starting tomorrow, we deliver,'' the ad declared. </P> "	"nyt_eng_199501.gz"
+"115077"	"they"	"deliver"	" ``We pay $100 per car,'' said Don Fike, the facility manager, as he watched firefighters use hydraulic cutters to peel junked vehicles like tangerines. ``For that, they deliver, pick-up and take away. You can't beat that price.'' </P> "	"nyt_eng_200205.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"127238"	"he"	"hoots"	" Cut off credit to the Dirty 30, he has urged, using a familiar shorthand term for the biggest corporate debtors. The government's figure of $426 billion in bad loans is a big lie, he hoots, comparable to the Imperial Navy's claiming victory at the Battle of Midway during World War II. </P> "	"nyt_eng_200210.gz"

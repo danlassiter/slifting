@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92469"	"they"	"malfunction"	" Obsolete is the concept of defeat with honor. Now you either win/dance/gloat or you slink out of town in disgrace. Teams don't lose, they malfunction, choke and blow up. </P> "	"nyt_eng_200105.gz"

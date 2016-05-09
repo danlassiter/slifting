@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"172423"	"they"	"select"	" Because the companies cut out middlemen, they pay more than market price. They pay in cash. And with farmers' help, they select, package and transport the produce more vigilantly than was done in the past. Farmers earn higher incomes as more and better-quality produce reaches the city. </P> "	"nyt_eng_200610.gz"
+"173065"	"they"	"select"	" Because the companies cut out middlemen, they pay more than market price. They pay in cash. And with farmers' help, they select, package and transport the produce more vigilantly than in the past. </P> "	"nyt_eng_200611.gz"

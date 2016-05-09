@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137195"	"she"	"said-observed-snapped"	" And pals of bassist Vernon Alley, who's been ailing, took him to lunch last week at Moose's; proprietor Ed Moose had sent over food while Alley was hospitalized.  The view from afar: Michael Gross writes in the New York Daily News that when Bebe Neuwirth, star of the theatrical version of ``Chicago,'' was told upon arriving at a New York restaurant that Renee Zellweger of ``Chicago'' was there, too, she said/observed/snapped, ``That's not `Chicago.' That's a movie.'' </P> "	"nyt_eng_200303.gz"

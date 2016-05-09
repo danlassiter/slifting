@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"77824"	"you"	"duck"	" ``You are taught that your commander is your god, and when your commander says jump, you jump. When your commander says duck, you duck,'' said Lynn Hecht Schafran, a lawyer with the National Organization for Women's Legal Defense and Education Fund. </P> "	"nyt_eng_199611.gz"
+"77886"	"you"	"duck"	" ``You are taught that your commander is your god, and when your commander says jump, you jump. When your commander says duck, you duck,'' said Lynn Hecht Schafran, a lawyer with the National Organization for Women's Legal Defense and Education Fund. </P> "	"nyt_eng_199611.gz"

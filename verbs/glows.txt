@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"38618"	"he"	"glows"	" Better still, he glows, ``we have a reassertion of basic American values in every community in this country.'' </P> "	"nyt_eng_199511.gz"
+"38619"	"he"	"glows"	" Better still, he glows, ``we have a reassertion of basic American values in every community in this country.'' </P> "	"nyt_eng_199511.gz"
+"38892"	"he"	"glows"	" Better still, he glows, ``we have a reassertion of basic American values in every community in this country.'' </P> "	"nyt_eng_199511.gz"
+"38894"	"he"	"glows"	" Better still, he glows, ``we have a reassertion of basic American values in every community in this country.'' </P> "	"nyt_eng_199511.gz"

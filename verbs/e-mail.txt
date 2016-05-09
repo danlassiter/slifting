@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"115369"	"we"	"e-mail"	" ``How do we get our message out? We phone, we e-mail, we hope some of you guys in the media write an article about filling in the bay for runways and we fax it to as many people as we can. We do it with a lot of volunteers, people who aren't being paid but who believe in what we're doing.'' </P> "	"nyt_eng_200205.gz"

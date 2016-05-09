@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"65487"	"he"	"redrew"	" Meanwhile, Klein had decided to turn the clef into a roman. In the light of what he now thought about Clinton, he redrew, in the guise of fiction, his flattering portrait from '92. If Bill Clinton was clean and well lit, Jack Stanton was a liar and a phony. </P> "	"nyt_eng_199607.gz"
+"65549"	"he"	"redrew"	" Meanwhile, Klein had decided to turn the clef into a roman. In the light of what he now thought about Clinton, he redrew, in the guise of fiction, his flattering portrait from '92. If Bill Clinton was clean and well lit, Jack Stanton was a liar and a phony. </P> "	"nyt_eng_199607.gz"
+"65658"	"he"	"redrew"	" Meanwhile, Klein had decided to turn the clef into a roman. In the light of what he now thought about Clinton, he redrew, in the guise of fiction, his flattering portrait from '92. If Bill Clinton was clean and well lit, Jack Stanton was a liar and a phony. </P> "	"nyt_eng_199607.gz"

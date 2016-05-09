@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"128360"	"they"	"date"	" They meet, they date, they fight. It's ``The Real World'' on a wrestling mat. </P> "	"nyt_eng_200210.gz"

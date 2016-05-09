@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"103585"	"she"	"grates"	" Like the show, her books lack cloying showmanship and the presumption of restaurant-style cooking. Professional techniques are interesting to learn, but often impractical in the home kitchen. On television, Lawson rarely uses a knife and when she does, it is not with great skill. Instead, she tears lettuce, she grates, she squeezes lemons, she pounds chicken with her palm, she cuts bacon with scissors. </P> "	"nyt_eng_200201.gz"

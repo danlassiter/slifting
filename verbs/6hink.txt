@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138602"	"I"	"6hink"	" Schiffeler, who has remarried, said that in the case of his mother, moving ``would not, I 6hink, cause one eyelash to flutter.'' </P> "	"nyt_eng_200310.gz"

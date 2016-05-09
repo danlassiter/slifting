@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"172089"	"he"	"blossomed"	" The problem came after his transfer from San Antonio Fox Tech High School to John Tyler High in Tyler after his sophomore year. He said he wasn't getting along with his father and needed a change. At Tyler, he blossomed, becoming a three-sport star. </P> "	"nyt_eng_200610.gz"

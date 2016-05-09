@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"47356"	"they"	"whistle"	" Heaven's inhabitants have a divine means of traveling, says Mandy DuPriest, 7, who attends First United Methodist Church in Fort Worth. ``When they want to go somewhere, they whistle, and a cloud comes.'' </P> "	"nyt_eng_199602.gz"

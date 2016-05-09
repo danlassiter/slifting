@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"48649"	"he"	"scolded"	" Lawyers who come before Rothwax view him as a tough judge, period. That morning in court, he upbraided a young prosecutor who was questioning a witness. ``Excuse me, you're not going through with this in the clearest fashion,'' Rothwax said, then resumed the interrogation himself. To a defense lawyer asking impertinent questions, he scolded, ``This isn't a discovery hearing. Don't try to turn it into one.'' </P> "	"nyt_eng_199602.gz"

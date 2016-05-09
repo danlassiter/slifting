@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"172580"	"he"	"capitulated"	" That spring, he capitulated, announcing plans to begin to de-escalate the war and declaring that he would not seek re-election. It took seven more years for Presidents Nixon and Ford to extricate the United States fully from Vietnam. </P> "	"nyt_eng_200610.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"43848"	"he"	"campaigned"	" For the next 30 years, after Otto Frank collapsed exhausted into his grave, right up to 1981, when Meyer Levin collapsed screaming into his, he campaigned, sued, harassed, on occasion lied and otherwise obstreperously asserted that Otto Frank betrayed his word and his daughter's memory by giving over her diary to gentile writers who softened the ``Diary's'' Jewishness to make it more palatable to a mass audience. </P> "	"nyt_eng_199512.gz"

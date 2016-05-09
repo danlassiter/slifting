@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"35605"	"she"	"agonizes"	" In ``maybe,'' an unhurried ballad with a melody that rises, then falls, along with the singer's courage, she agonizes, ``Maybe I'll ask, or no, maybe I won't.'' ``Could it be that I annoy you/Flaunting ways that I adore you?'' she asks in ``You're O.K.'' In ``Sexuality,'' she teases, ``How bad could it be/If you should lose yourself in me?'' And in ``This,'' she promises, ``The one thing you want/This I'll be.'' </P> "	"nyt_eng_199510.gz"

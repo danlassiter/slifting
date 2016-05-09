@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"7694"	"she"	"pledges"	" Texas State Treasurer Martha Whitehead may have hit on an ingenious way to inoculate herself against the voters' kick-'em-all-out mood. If the people will just return her to office, she pledges, she will do her best to disappear. </P> "	"nyt_eng_199410.gz"

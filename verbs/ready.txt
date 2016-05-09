@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"149886"	"you"	"ready"	" Pat, you ready, Pat? Cavanaugh called out, and his son straightened up with a jolt. </P> "	"nyt_eng_200502.gz"

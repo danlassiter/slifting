@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"62556"	"it"	"breaks"	" ``When you play a violin too long, it breaks,'' said MTA board Chairman Larry Zarian. ``The public needs to understand the pressure the drivers face.'' </P> "	"nyt_eng_199606.gz"

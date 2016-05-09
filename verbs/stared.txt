@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"41078"	"we"	"stared"	" Until two weeks ago. That's when an impressive, imposing and shiny, oh, so shiny black Rolls Royce cruised by our little Honda Civic on I-10, just east of Los Angeles. Wide-eyed and slack-jawed, we stared, hoping to see a movie star inside, or maybe one of the better known of the Mafia or at least some celebrity or other. Nope. Tinted windows prohibited such sightseeing. But we caught a clear view of the license plate. </P> "	"nyt_eng_199511.gz"

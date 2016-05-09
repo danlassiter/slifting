@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"69622"	"they"	"scattered"	" Few of the internees are believed to have returned to Latin America. ``After the war, they scattered,'' Shimizu said at a press conference. ``We're trying to locate survivors.'' </P> "	"nyt_eng_199608.gz"
+"99099"	"it"	"scattered"	" McFarlane said that when the group was surrounded by the Taliban on Thursday night, it scattered, then dialed in to supporters in Pakistan, hoping for a rescue from American forces. In Pakistan, James Ritchie supplied the U.S. military with precise coordinates of the group's location. </P> "	"nyt_eng_200110.gz"

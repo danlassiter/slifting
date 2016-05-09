@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138563"	"he"	"sa;s"	" Williams proudly points out that both the president and vice president have been at the Manchester Holiday Inn this year and that Democrat Howard Dean even checked himself in at the front desk. But Williams has boned up on the issues, as well. Of President Bush's doctrine of preemption, he sa;s, ``The whole belief behind that seems flawed on a theoretical level.'' </P> "	"nyt_eng_200310.gz"

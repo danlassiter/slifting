@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"32293"	"she"	"chattered"	" Seles hadn't expected an audience, but she acknowledged the ovation of the tennis railbirds hanging over all four sides of the court: she waved, she chattered, she signed autographs even though the crush of pens being jabbed in her direction sometimes conjures up the unwelcome image of stilettos. </P> "	"nyt_eng_199508.gz"

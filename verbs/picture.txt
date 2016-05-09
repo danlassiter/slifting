@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"82297"	"they"	"picture"	" He's used to the yawns that usually accompany discussions of his position. When people picture a center, they picture, well, not his best side. </P> "	"nyt_eng_199612.gz"

@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"37059"	"he"	"recanted"	" In an interview last Friday, Martinez said he was ``tricked'' into signing a statement that contained a confession. Martinez said he read the statement only after signing it. At that point, he recanted, but the police threatened to arrest his girlfriend and take away her children, he said. </P> "	"nyt_eng_199510.gz"
+"73595"	"he"	"recanted"	" Called before a New Jersey grand jury, he recanted, then issued apologies to his client, to New Jersey's black clergy and to the gullible media. </P> "	"nyt_eng_199610.gz"
+"73597"	"he"	"recanted"	" Called before a New Jersey grand jury, he recanted, then issued apologies to his client, to New Jersey's black clergy and to the gullible media. </P> "	"nyt_eng_199610.gz"
+"102931"	"he"	"recanted"	" When the police arrived, he again confessed, but after meeting with a public defender an hour later, he recanted, telling her repeatedly, ``In the name of God, I didn't do this.'' </P> "	"nyt_eng_200112.gz"

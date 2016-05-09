@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"78005"	"he"	"homered"	" You see, for everything Williams could do on a field, he could not describe it with the proper lyricism off the field. He would always talk, to be sure, but he preferred a world in which he played, he homered, he drove in the winning run, he started two double plays, he showered, and then he went home. </P> "	"nyt_eng_199611.gz"

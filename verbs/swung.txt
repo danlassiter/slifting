@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"153181"	"they"	"swung"	" He howled amid the sounds and moved to his synthesizer -- an assortment of knobs and cables, not a keyboard -- as the drummers joined him: first for heaving, crashing slow beats and then for rhythms that accelerated to breakneck speed and stayed there for an hour of muscle-driven elation. The drums stomped, they swung, they clattered and they hurtled the music forward. Above the beat, Eye played repeating chords and electronic swoops and quavers; he also vocalized in shouts, grunts, whoops and shrieks. </P> "	"nyt_eng_200505.gz"
+"172123"	"I"	"swung"	" I don't know, I swung, it ran into my bat, Suppan said. </P> "	"nyt_eng_200610.gz"

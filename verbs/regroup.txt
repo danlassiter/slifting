@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91542"	"we"	"regroup"	" DeKalb Technical College's certified automotive training program is now going through this painstaking task. Our instructors will spend many hours preparing for the program to be scrutinized by our industry advisory board before being evaluated by the foundation. If we pass, we continue to display the organization's seal of approval. If not, we regroup, bring our program up to ASE standards and resubmit for certification. </P> "	"nyt_eng_200105.gz"

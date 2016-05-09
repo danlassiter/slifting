@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"77326"	"I"	"deducted"	" Aha, I deducted, no wonder that UCLA scientist was only offering $5,000! Outdoors Editor Brett Pauly's column appears Thursdays in the Daily News. </P> "	"nyt_eng_199611.gz"

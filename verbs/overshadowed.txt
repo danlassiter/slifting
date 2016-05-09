@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"4055"	"he"	"overshadowed"	" Marino passed for 473 yards and five touchdowns against the New England Patriots at Joe Robbie Stadium, leading the Dolphins back from a 21-10 deficit to a 39-35 victory in the season opener in front of 69,613 spectators. In the process, he overshadowed, though barely, the performance of New England quarterback Drew Bledsoe, who threw for 421 yards and four touchdowns. </P> "	"nyt_eng_199409.gz"

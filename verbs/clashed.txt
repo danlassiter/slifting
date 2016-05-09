@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"159526"	"they"	"clashed"	" But mainly, they clashed, and clashed more. Forrester said that Corzine had had five years in the Senate to help clean up New Jersey's problems, but that because he was so intimately connected with Democratic power brokers, he had been ineffective. </P> "	"nyt_eng_200511.gz"

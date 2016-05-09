@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67876"	"they"	"rehearsed"	" To pave the way, Coppola invited Williams and his kid co-stars to his ranch for a two-week retreat. There, they rehearsed, improvised, went camping and played, with Williams becoming one of the boys. </P> "	"nyt_eng_199608.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"12409"	"I"	"resolved"	" This year, I resolved, would be different. There would be no keys locked in cars, not until Jan. 2 anyway. </P> "	"nyt_eng_199501.gz"
+"12410"	"I"	"resolved"	" This year, I resolved, would be different. There would be no keys locked in cars, not until Jan. 2 anyway. </P> "	"nyt_eng_199501.gz"

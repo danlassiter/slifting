@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"84071"	"it"	"swoops"	" The film respects Nabokov and Stoppard, but there is no question about who's calling the shots off screen. The camera is madly lyrical: it glides, it swoops, it delights in crazy compositions, it never sees a single image if it's possible to see the image reflected in one or more mirrors or through layers of glass. The camera, which can't sit still, uses Hermann's nutty behavior as an excuse to act up on its own. </P> "	"nyt_eng_199701.gz"

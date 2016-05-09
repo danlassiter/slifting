@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"133055"	"it"	"darkened"	" Along with Carreras, Jamieson was the creative force of the night. His shifts of projected light, color and silhouette embraced the architecture of the building, bringing out unexpected aspects of its beauty. It glowed, it darkened, it softened, it loomed. </P> "	"nyt_eng_200212.gz"

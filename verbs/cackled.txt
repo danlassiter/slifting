@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"160129"	"she"	"cackled"	" Zhang Rongting, an elderly woman who owned the house, then placed the birds in straw crates, covering them with washbowls to calm them and isolate them until the job was complete. Asked what kind of shots her chickens were getting, she cackled, You guys know, we don't. </P> "	"nyt_eng_200512.gz"

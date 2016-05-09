@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67159"	"we"	"request"	" ``We beg, we request, we demand the resignation of Antonio Lozano,'' said Senator Guillermo del Rio, a member of a 13-member congressional committee appointed to monitor the investigation. </P> "	"nyt_eng_199608.gz"

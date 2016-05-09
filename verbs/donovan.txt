@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"117905"	"you"	"donovan"	" ``The people are very friendly,'' U.S. forward Landon Donovan said. ``I go to the mall next door and people say, 'Oh, you Donovan,' and they're just very happy. They're just not, like, rowdy and saying, 'You guys are going to lose.' They're just happy to see soccer players. People wave at us all the time on the bus, they're just excited by it all.'' </P> "	"nyt_eng_200206.gz"

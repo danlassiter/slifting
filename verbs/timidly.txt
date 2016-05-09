@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"8312"	"I"	"timidly"	" We stood speechlessly, and fearfully, for a moment, glancing alternately at each other and fleetingly at Mrs. Key. With Chips apparently invoking his Fifth Amendment right not to incriminate himself, I timidly, almost in a whisper, repeated the name that he had called me, then silently offered a quick act of contrition for uttering the blasphemy. </P> "	"nyt_eng_199411.gz"

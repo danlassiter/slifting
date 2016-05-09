@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"87913"	"it"	"captured"	" And audiences at industry conferences stood up and cheered when they first saw the Voyager Company's stunning CD-ROM debut of Beethoven's Fifth Symphony. The first commercial title in the medium, it captured, and passed along, the love and understanding of classical music of Prof. Robert Winter of UCLA. </P> "	"nyt_eng_199702.gz"

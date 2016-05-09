@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"137092"	"they"	"intervened"	" Federal prosecutors said they stumbled onto evidence that Giordano was sexually assaulting the two girls after FBI agents began tapping the mayor's phones as part of an investigation into City Hall corruption. Once the agents realized that the conversations they were monitoring involved Gkozeano's plans to meet the girls again for sex, they intervened, cutting short their corruption investigation, prosecutors said. </P> "	"nyt_eng_200303.gz"

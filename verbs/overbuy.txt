@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"70362"	"you"	"overbuy"	" When it was over, the mood lifted. Kurzweil began asking if there were any takers for garlic. ``Usually, you overbuy,'' he said, ``and everyone goes home happy.'' </P> "	"nyt_eng_199609.gz"
+"70364"	"you"	"overbuy"	" When it was over, the mood lifted. Kurzweil began asking if there were any takers for garlic. ``Usually, you overbuy,'' he said, ``and everyone goes home happy.'' </P> "	"nyt_eng_199609.gz"

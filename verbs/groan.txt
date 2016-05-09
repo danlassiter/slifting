@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"143288"	"they"	"groan"	" Canada may still have a glowing reputation as a sensible country that promotes peace and social justice abroad, and it is a pioneer in decriminalizing drugs and same-sex marriage. But, they groan, the bold foreign aid programs of the past have been much reduced. </P> "	"nyt_eng_200409.gz"

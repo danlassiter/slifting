@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"130599"	"they"	"grab"	" ``He says, `Coach, they're pushing me.' Well, you know they do that in this league,'' Johnson said. ``They push, they grab, they hold. And you just have to do it back _ and not get caught.'' </P> "	"nyt_eng_200211.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"91007"	"we"	"bully"	" ``We say if you're interested in making the most money or getting the most bang for the sponsorship buck, then come with us. If that's bullying, we bully,'' he said. </P> "	"nyt_eng_200104.gz"
+"91208"	"we"	"bully"	" ``We say if you're interested in making the most money or getting the most bang for the sponsorship buck, then come with us. If that's bullying, we bully,'' he said. </P> "	"nyt_eng_200104.gz"

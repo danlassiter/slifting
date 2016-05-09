@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"72605"	"I"	"know."	" ``We have some very compassionate people working here,'' she said. It is not unusual for one of the 10 salespeople to take potential customers to the grocery store or on other errands, she said. ``It sounds remarkable, I know.,'' </P> "	"nyt_eng_199609.gz"
+"72607"	"I"	"know."	" ``We have some very compassionate people working here,'' she said. It is not unusual for one of the 10 salespeople to take potential customers to the grocery store or on other errands, she said. ``It sounds remarkable, I know.,'' </P> "	"nyt_eng_199609.gz"

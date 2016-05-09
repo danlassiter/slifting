@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"15713"	"he"	"deduced"	" So, he deduced, it is their prematurity, not their low birth weight, that explains the higher infant mortality rate among babies of low birth weight who are born to nonsmokers. </P> "	"nyt_eng_199502.gz"
+"115140"	"he"	"deduced"	" Examining them for four months, Tutte saw patterns in the seemingly random string of characters. One of the components of the message encoder, he deduced, was a wheel with exactly 41 sprockets. He also deduced that the first wheel was connected to a second wheel of 31 sprockets. </P> "	"nyt_eng_200205.gz"

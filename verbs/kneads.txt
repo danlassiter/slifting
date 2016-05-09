@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"140016"	"she"	"kneads"	" Krohme is Ullrich's personal physiotherapist, and for two to three hours each day, seven days a week most months of the year, she kneads, pummels and massages his body. </P> "	"nyt_eng_200407.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"149738"	"I"	"sign"	" You can kind of tell who's selling them and who's not, Mulder said. It's always funny when an 8-year-old kid comes up to with a brand new major-league baseball and goes, 'Sweet spot.' I just don't do it. It's not because I don't want to sign on the sweet spot, it's just they just turn around and sell it. I've seen it before where a kid asks for an autograph, I sign, and they go running up to a 40-year-old guy, and that guys gives the kid $2. It's like, come on. </P> "	"nyt_eng_200502.gz"

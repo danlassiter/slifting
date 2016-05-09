@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"36531"	"it"	"open"	" DeLeon said he panicked when he saw Selena through his office window. He said the singer hit the front door as she tried to push, rather than pull, it open, and blood splattered on the glass. </P> "	"nyt_eng_199510.gz"

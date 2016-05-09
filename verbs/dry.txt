@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"10237"	"you"	"dry"	" The revered French chef might not have been thinking about the baked potato when he said that, but certainly he could have been, for few of life's pleasures can be so easily had for so little effort. You wash, you dry, you toss a potato into a hot oven, and an hour or so later you have a satisfying meal that boasts the added attraction of cooking in its very own edible vessel (thereby saving time on cleanup). </P> "	"nyt_eng_199412.gz"

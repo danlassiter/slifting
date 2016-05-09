@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"153692"	"she"	"wasn't)"	" Musharraf admitted to reporters on Friday that he had ordered Mukhtaran placed on the blacklist. And although Pakistan had claimed that Mukhtaran had decided on her own not to go to the United States because her mother was sick (actually, she wasn't), the president in effect acknowledged that that was one more lie. She was told not to go to the United States, Musharraf said, according to The Associated Press. </P> "	"nyt_eng_200506.gz"

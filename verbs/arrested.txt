@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"38970"	"they"	"arrested"	" With the help of two Boston officers who were on foot patrol at the Bunker Hill Mall, where the restaurant is located, they arrested, at gunpoint, Damian A. Clemente, 20, of Medford, and John Perez, 27, of Boston, in the parking lot of the strip mall. </P> "	"nyt_eng_199511.gz"
+"127782"	"he"	"arrested"	" ``Imad Akel should not be in the streets, because he implemented his own law,'' he said. ``He accused, he arrested, he judged and he executed _ by himself.'' Majaydah expressed great anger at some Hamas leaders, but he said he was in negotiations with them and hoped to resolve the standoff without more bloodshed. </P> "	"nyt_eng_200210.gz"

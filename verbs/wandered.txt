@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"112717"	"they"	"wandered"	" Instead of leaving the station to go to the next one up the line, they wandered, like characters in a bad adventure movie, down onto the narrow workers' catwalk that runs alongside the elevated tracks. </P> "	"nyt_eng_200204.gz"
+"112723"	"they"	"wandered"	" Instead of leaving the station to go to the next one up the line, they wandered, like characters in a bad adventure movie, down onto the narrow workers' catwalk that runs alongside the elevated tracks. </P> "	"nyt_eng_200204.gz"

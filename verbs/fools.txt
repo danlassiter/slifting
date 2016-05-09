@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"561"	"you"	"fools"	" ``Make peace, you fools,'' von Rundstedt answers. ``What else can you do?'' He is immediately replaced by Field Marshal Hans von Kluge. </P> "	"nyt_eng_199407.gz"

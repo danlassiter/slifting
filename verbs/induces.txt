@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"31957"	"he"	"induces"	" ``Bob's treatment of people of color in film has a vision,'' he says, ``a special quality. He solicits, he induces, he gets your point of view. I trusted that.'' </P> "	"nyt_eng_199508.gz"

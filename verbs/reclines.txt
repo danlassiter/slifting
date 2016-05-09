@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"113717"	"she"	"reclines"	" Other striking images in the show include the 16th-century Flemish painter Adriaen Isenbrant's ``Penitent Magdalen.'' In it, atypically, she reclines, poring over a book in a wilderness setting. She is dressed like a classical goddess in a draped garment that slips away to reveal her breasts, only partially covered by a tumble of red-gold hair. In the sky hangs a golden miracle, her ascension to Heaven. </P> "	"nyt_eng_200204.gz"

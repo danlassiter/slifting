@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"99430"	"they"	"shop"	" LUXURY-SPEND _ PALM BEACH, Fla. _ Palm Beach appears to be bucking the national trend of luxury retailers whose sales pace has idled since Sept. 11. ``When people are depressed, they shop,'' said one merchant. (Murphy, Palm Beach Daily News) </P> "	"nyt_eng_200110.gz"
+"127812"	"we"	"shop"	" ``We pay taxes, we pay rent, we shop, we eat, we pay health insurance, like everyone else,'' said a student from Oman, who asked not to be identified for personal safety concerns. ``If we stop coming, they'll come and beg us to come back.'' </P> "	"nyt_eng_200210.gz"
+"150663"	"we"	"shop"	" When we aren't at school, we shop, we do our hair and we share stock portfolios, said Nada Khelini, a 24-year-old visiting Saudi. </P> "	"nyt_eng_200503.gz"

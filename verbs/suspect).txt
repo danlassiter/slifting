@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"788"	"I"	"suspect)"	" For many New York City residents (most, I suspect), the geography of Long Island is a complete puzzle. The names of the towns are familiar from local news reports; there's even a weird music to them, like the words to a rhythmic, regional folk song: </P> "	"nyt_eng_199407.gz"
+"791"	"I"	"suspect)"	" For many New York City residents (most, I suspect), the geography of Long Island is a complete puzzle. The names of the towns are familiar from local news reports; there's even a weird music to them, like the words to a rhythmic, regional folk song: </P> "	"nyt_eng_199407.gz"

@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"34228"	"they"	"needed"	" They wanted, no, they needed, to hear the call of the shofar. </P> "	"nyt_eng_199509.gz"
+"34229"	"they"	"needed"	" They wanted, no, they needed, to hear the call of the shofar. </P> "	"nyt_eng_199509.gz"
+"34313"	"they"	"needed"	" They wanted, no, they needed, to hear the call of the shofar. </P> "	"nyt_eng_199509.gz"
+"34314"	"they"	"needed"	" They wanted, no, they needed, to hear the call of the shofar. </P> "	"nyt_eng_199509.gz"
+"83186"	"we"	"needed"	" After years of pretending that the (insert name of your favorite Boston team here) actually had a shot at the brass ring when they were merely wobbling toward respectability, we needed, as preschool educators are fond of saying, ``a success experience.'' You've heard those overly optimistic native sportscasters, pumping themselves full of fake air to announce, ``And the (insert name of your favorite Boston team here) are making a run for the title, only 58 games out of first with a full two days left in the season! We're not out of it yet!'' </P> "	"nyt_eng_199701.gz"

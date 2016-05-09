@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"158829"	"it"	"(stinks)"	" Right now, obviously, it (stinks), St. Louis said. I was looking to pick up where I left off (in 2003-04). It (stinks) even more because I was hungry to pick up where I left off. </P> "	"nyt_eng_200510.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"102843"	"it"	"darts"	" It resembles a metal-green fluff ball with a white throat, a few purple or red stripes and a black needle of a beak. Like all hummingbirds, it darts, hovers and whirs like a helicopter, dipping constantly into blossoms, eating half its weight every day. ``A wonder,'' Pimm said, ``to watch.'' </P> "	"nyt_eng_200112.gz"

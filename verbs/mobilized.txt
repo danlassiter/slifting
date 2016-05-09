@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"20879"	"they"	"mobilized"	" ``This makes them very confused,'' said Yen Do, the newspaper's publisher, in an interview. ``The war is all they have in their lives. They grew up, they mobilized, they fought and they were imprisoned. Now they have arrived here, and they have nothing.'' </P> "	"nyt_eng_199504.gz"

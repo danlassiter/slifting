@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"32481"	"we"	"dominate"	" ``If we win them, we dominate,'' McDonald said. ``If we don't, we give up a little bit. I feel like we're in position to do a lot of good things defensively. I just feel awfully confident in what we're doing.'' </P> "	"nyt_eng_199508.gz"

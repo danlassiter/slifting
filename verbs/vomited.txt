@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"58566"	"she"	"vomited"	" I pondered that action for several minutes before I finally fled that room and that nursing home. Within months, she vomited, aspirated food and died quickly and peacefully of pneumonia. </P> "	"nyt_eng_199605.gz"
+"155348"	"I"	"vomited"	" The first time I saw it, I vomited, because I couldn't control myself, Mohamad said. </P> "	"nyt_eng_200507.gz"
+"155367"	"I"	"vomited"	" The first time I saw it, I vomited, because I couldn't control myself, Mohamad said. </P> "	"nyt_eng_200507.gz"

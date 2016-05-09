@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"162052"	"he"	"48"	" Records also said Weiss, a former resident of Van Nuys andEncino, married Fawcett in 1980 when she was 23, he 48, and divorced him five ears later. She was hired by a real estate broker in Sherman Oaks, who fired her lst week because she never came to work. </P> "	"nyt_eng_200601.gz"
+"162054"	"he"	"48"	" Records also said Weiss, a former resident of Van Nuys and Encino, married Fawcett in 1980 when she was 23, he 48, and divorced him five years later. She was hired by a real estate broker in Sherman Oaks, who fired her last week because she never came to work. </P> "	"nyt_eng_200601.gz"
+"162055"	"he"	"48"	" Records also said Weiss, a former resident of Van Nuys and Encino, married Fawcett in 1980 when she was 23, he 48, and divorced him five years later. She was hired by a real estate broker in Sherman Oaks, who fired her last week because she never came to work. </P> "	"nyt_eng_200601.gz"

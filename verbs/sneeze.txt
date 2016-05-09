@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"89718"	"you"	"sneeze"	" The reason your nose runs, you sneeze, your eyes itch and you feel congested and tired is because you inhale other pollen, the kind you can't see. </P> "	"nyt_eng_200104.gz"

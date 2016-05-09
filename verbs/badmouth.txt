@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"71231"	"they"	"badmouth"	" Normally, sports owners looking to dip their feet in the public till know better than to speak frankly. They poormouth, they badmouth, they surely bigmouth, and above all else they do it all with a tongue as forked as Bart Simpson's hair. </P> "	"nyt_eng_199609.gz"

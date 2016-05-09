@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"172835"	"he"	"acknowleges"	" Listen, I don't sing about drinkin' and fightin' and cheatin' and all that, he said. Maybe that makes him tame, he acknowleges, but the only thing I've ever done is sing my kind of song for my kind of people. </P> "	"nyt_eng_200611.gz"
+"172958"	"he"	"acknowleges"	" Listen, I don't sing about drinkin' and fightin' and cheatin' and all that, he said. Maybe that makes him tame, he acknowleges, but the only thing I've ever done is sing my kind of song for my kind of people. </P> "	"nyt_eng_200611.gz"

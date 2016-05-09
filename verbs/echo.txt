@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"123681"	"they"	"echo"	" Models of ships, from oared galleys to imperial yachts, and dockyard facilities claim a different kind of attention. Done in incredible detail, they echo, on a grand and complex scale, the model kits for boats and planes beloved of hobbyists. Among the more arresting boat models is a 9-foot-long miniature of the Dauphine (1746), one of the last galleys built in France. Its 56 oars were manned by prisoners and slaves. </P> "	"nyt_eng_200208.gz"

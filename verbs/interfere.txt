@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"153885"	"we"	"interfere"	" If people start the pity trip on our students, we interfere, she says firmly. </P> "	"nyt_eng_200506.gz"

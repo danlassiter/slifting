@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"35548"	"I"	"remark"	" ``Sense and Sensibility,'' with Emma Thompson and Hugh Grant, follows ``Persuasion'' to the United States in December; the Arts &AMP; Entertainment Network will show the BBC's new ``Pride and Prejudice'' in January (thus replacing my own 1985 version, I remark, as graciously as I can); ``Emma,'' with Gwyneth Paltrow and Jeremy Northam, is in production, and ``Clueless,'' the Alicia Silverstone comedy, shamelessly based on ``Emma,'' opened in July. Austen fever, indeed. </P> "	"nyt_eng_199510.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"98877"	"he"	"cowers)"	" His resume had already been sent to Chemical Bank and Manufacturers Hanover Trust when a chance meeting with an FBI agent over a beer at Camp Lejeune, N.C., persuaded him to switch gears. Married 30 years to Susan, an antiques buff who hauls him off to auctions in his spare time (she bids, he cowers), he has two children. </P> "	"nyt_eng_200110.gz"

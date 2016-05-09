@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"28374"	"we"	"debate"	" ``We talk, we debate, but the point of the debate is to find out how receptive the other person is to your point of view,'' said Charlie Dorame, a lifetime member of the Pueblo Tesuque council. ``If you're talking, you can't hear, and if you can't hear, you can't learn.'' </P> "	"nyt_eng_199507.gz"

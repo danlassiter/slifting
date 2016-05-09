@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"140136"	"I"	"opened"	" From the day he left Athens, Ohio, for the military, anything that came in with his name on it, I opened, she said. There was no policy. </P> "	"nyt_eng_200407.gz"
+"140168"	"I"	"opened"	" From the day he left Athens, Ohio, for the military, anything that came in with his name on it, I opened, she said. There was no policy. </P> "	"nyt_eng_200407.gz"

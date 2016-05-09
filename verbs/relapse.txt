@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"115588"	"I"	"relapse"	" ``As soon as I stop the antibiotics, I relapse,'' Simnor said. </P> "	"nyt_eng_200205.gz"
+"115591"	"I"	"relapse"	" ``As soon as I stop the antibiotics, I relapse,'' Simnor said. </P> "	"nyt_eng_200205.gz"
+"115680"	"I"	"relapse"	" ``As soon as I stop the antibiotics, I relapse,'' Simnor said. </P> "	"nyt_eng_200205.gz"
+"115691"	"I"	"relapse"	" ``As soon as I stop the antibiotics, I relapse,'' Simnor said. </P> "	"nyt_eng_200205.gz"
+"115769"	"I"	"relapse"	" ``As soon as I stop the antibiotics, I relapse,'' Simnor said. </P> "	"nyt_eng_200205.gz"

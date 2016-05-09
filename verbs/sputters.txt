@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"157249"	"she"	"sputters"	" The audience also chortled at von Stade. She is a kind of stately, elegant woman in real life, Marshall said. To be funny, she had to play against that. In Act I, she apes the baby talk spoken by a camp-following trollop. And despite its lavishness, her sedan chair confers no dignity. She makes her entrance in it snoozing. When tapped awake, she sputters, Quickly, hide! as if she needed to conceal an illicit lover. </P> "	"nyt_eng_200508.gz"

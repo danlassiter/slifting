@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"57768"	"he"	"hits"	" ``He's the best athlete in the program,'' Scates said. ``He does everything well. He blocks, he hits, he sets, he digs. He's like Karch Kiraly.'' </P> "	"nyt_eng_199605.gz"
+"94680"	"he"	"hits"	" ``This is the player we wanted,'' Clarke said of Roenick. ``He's scored 50 goals in this league. He's one of the most exciting players in this league. He's a combative player who we know the fans are going to love. He can really skate, he hits, he loves to handle the puck, and he's been a premier player in this league for a long time.'' </P> "	"nyt_eng_200106.gz"
+"170072"	"he"	"hits"	" When they pitch to him, he hits, said Josh. When they don't pitch to him, I hit. </P> "	"nyt_eng_200608.gz"

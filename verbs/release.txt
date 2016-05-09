@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"60879"	"they"	"release"	" ``As soon as they grab, they release, because the human is either too large or doesn't taste like a fish,'' Burgess said. Victims bleed but rarely lose body tissue. The rare fatality in Florida, about once a decade, occurs when a larger species like a tiger shark or bull shark strikes. </P> "	"nyt_eng_199605.gz"

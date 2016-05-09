@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"17605"	"he"	"knelt"	" Most recently, Nathan Wigfall, 21, was sparring at a Washington D.C. recreation center in January. He was hit in the head with a left hook. At the end of the round, he knelt, then collapsed. He was rushed to a hospital, where a blood clot was removed from his brain. The next day, he was disconnected from life support. </P> "	"nyt_eng_199503.gz"

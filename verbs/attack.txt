@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"50853"	"you"	"attack"	" ``In war, you attack,'' President Ezer Weizman said as he visited bombing victims at the hospital. ``We need to strike _ a major strike.'' </P> "	"nyt_eng_199603.gz"

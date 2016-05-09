@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"95003"	"she"	"published"	" Sanger was an internationally known expert in blood grouping, having worked for many years at the Medical Research Council in London. In 1950, she published, with Dr. Robert Russell Race, ``Blood Groups in Man,'' a reference book for nearly 30 years. The sixth and final edition came out in 1975. </P> "	"nyt_eng_200107.gz"

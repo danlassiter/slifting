@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"126198"	"it"	"refreshes"	" Green: A harmonious hue that represents hope, renewal and resolve, it refreshes, restores and calms. </P> "	"nyt_eng_200209.gz"

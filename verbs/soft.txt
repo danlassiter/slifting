@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"51831"	"you"	"soft"	" ``C'mon, punk, you soft,'' the driver said. </P> "	"nyt_eng_199603.gz"

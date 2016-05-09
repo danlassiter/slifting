@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"54188"	"it"	"dropped"	" Finally, it dropped, like the jaws of everyone at Market Square Arena after the Knicks won a regular-season game that had all the qualities of a playoff classic. </P> "	"nyt_eng_199604.gz"

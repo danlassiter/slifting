@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"112505"	"it"	"purrs"	" Monita Fontaine, executive director of the Personal Watercraft Industry Association, said that the superintendents were discriminating against personal watercraft. She said new technology had cut pollutants by 75 percent and cut the noise by 70 percent over 1998 levels. ``The 2002 model is so quiet, it purrs,'' she said. </P> "	"nyt_eng_200204.gz"

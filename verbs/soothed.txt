@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"90144"	"I"	"soothed"	" Well, I soothed, change is the only constant anymore. Congratulations for making a courageous move before something forced it. Way to take charge of your career. </P> "	"nyt_eng_200104.gz"
+"96782"	"it"	"soothed"	" ``For a long time, those of us in the arts community have had to sell arts as an economic engine or a way to bring new business to town or with some other excuse,'' she continued. ``Not this time. I think everyone who heard our musicians this week came away with a deep appreciation for the intrinsic power of music. It did what music is supposed to do: it touched your soul, it soothed, it calmed.'' </P> "	"nyt_eng_200109.gz"

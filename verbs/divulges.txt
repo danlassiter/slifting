@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"16812"	"he"	"divulges"	" Of his own life, says Sacks, he hopes to do more research on island-based, primitive cultures. One recent study topic of his was a Pacific atoll on which the entire population is colorblind; it was they, he divulges, who found him rather odd, preoccupied with the ``irrelevancy'' of color. Another dream is to venture into space on a NASA project. Or, barring that, to plumb the depths of the oceanic universe in a deep-sea research vessel. </P> "	"nyt_eng_199503.gz"

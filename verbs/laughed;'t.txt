@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67339"	"he"	"laughed;'t"	" After a brief pause, he laughed;'t, at least not in his presence. </P> "	"nyt_eng_199608.gz"

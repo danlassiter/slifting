@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"104128"	"it"	"snowed"	" Second, it snowed, more than seven feet, the most ever recorded in a season in Chicago. The city's snow removal was so terrible that people supposed Daley took the snowplows with him; a former deputy mayor was found to have received a $90,000 consultant's contract for snow removal. </P> "	"nyt_eng_200201.gz"

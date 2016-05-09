@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"112430"	"it"	"creeps"	" Deep down, doubt must lurk. For all their bravado, for all their wondrous play, it creeps, ready to ambush their dreams. Ready to make their joyful regular season an almost painful footnote to a disappointing postseason. </P> "	"nyt_eng_200204.gz"

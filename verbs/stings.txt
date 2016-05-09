@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"163131"	"it"	"stings"	" It hurts, it stings, said Ruggiero, a three-time Olympian. I'm in shock. </P> "	"nyt_eng_200602.gz"

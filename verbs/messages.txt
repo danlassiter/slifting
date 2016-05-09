@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"90184"	"he"	"messages"	" Back at the office, her devilishly sexy boss, Daniel Cleaver (Hugh Grant), initiates an e-mail flirtation. When she shows up in an extremely short skirt, he messages, ``Is skirt home sick?'' </P> "	"nyt_eng_200104.gz"

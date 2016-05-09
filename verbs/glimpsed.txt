@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"110949"	"we"	"glimpsed"	" But on our first day we chose to head inland. Peering skyward, we glimpsed, a few blocks to our north, at Second Street off Market Street, the tall, reedlike white spire and arched-window cupola that sits atop Christ Church _ a graceful compact structure that looks from the outside as if it was lifted from a British blueprint. </P> "	"nyt_eng_200203.gz"

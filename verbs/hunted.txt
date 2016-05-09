@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"57472"	"he"	"hunted"	" When he was able, he hunted, fished, camped and played on the water, much of it with his dad. </P> "	"nyt_eng_199605.gz"

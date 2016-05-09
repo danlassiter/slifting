@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"118743"	"he"	"flees"	" Opening nationwide on June 21, ``Minority Report'' is based loosely on a Philip K. Dick short story. It's set in Washington in 2054, with Cruise cast as Det. John Anderton, head of the Precrime Division, a unit that uses precognitives, known as Precogs, to arrest murderers before they ever kill. When the Precogs finger Anderton himself, however, he flees, intent on proving his innocence _ if he really is innocent _ before his own team catches up with him. </P> "	"nyt_eng_200206.gz"

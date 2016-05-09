@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"131469"	"they"	"break"	" ``Just using condoms, they break,'' he said. ``It's a big hassle, trying to get 24-hour emergency contraception ... I'd so much rather take a pill every day, just for that extra assurance.'' </P> "	"nyt_eng_200211.gz"

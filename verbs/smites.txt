@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"112916"	"he"	"smites"	" Wielding a spear, knife, ax, bow, sword and brute strength, he smites, skewers, bludgeons, rends and thwacks his way through dozens of cannon-fodder foes. You expected the Rock to lose? Not in a World Wrestling Federation minute. </P> "	"nyt_eng_200204.gz"

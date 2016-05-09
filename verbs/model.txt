@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"18523"	"they"	"model"	" ``One of the things we know about young people is they tend to be very suggestible, they model,'' said Ron Maris of the University of South Carolina's Center for Suicidology. ``They kind of have a herd mentality.'' The suicide rate among teen-agers goes up 7 percent after a highly publicized suicide, he said, compared with 1 to 3 percent among adults. </P> "	"nyt_eng_199504.gz"

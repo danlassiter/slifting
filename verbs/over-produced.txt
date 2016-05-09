@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"121792"	"they"	"over-produced"	" ``The companies just kept coming out with more and more and soon the collectors couldn't keep up,'' Sieber said. ``They killed the cash cow, they over-produced, and it lost its appeal, it lost its uniqueness. They got greedy.'' </P> "	"nyt_eng_200208.gz"

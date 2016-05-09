@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"100197"	"they"	"sputter"	" European leaders, opposing our missile shield in what they hoped would be a worldwide gang-up against American hegemony, are agape. How could Putin bypass their toll bridge to integration with the West, they sputter, and make a private deal with the unilateralist Bush? </P> "	"nyt_eng_200111.gz"

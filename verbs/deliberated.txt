@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"79706"	"they"	"deliberated"	" It was an old problem for the troubled winner of last year's Breeders' Cup Juvenile and this year's Florida Derby and Wood Memorial. However, the Wood last April was the last race he won. After that, he became the pawn in a series of mental duels between Paragallo and his trainer, Jim Ryerson. They hesitated, they deliberated, they procrastinated. </P> "	"nyt_eng_199611.gz"

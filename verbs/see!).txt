@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"67246"	"I"	"see!)"	" On the Internet, nobody writes words when they can write acronyms _ as in YABA (yet another bloody acronym). FYI, there's TIA (thanks in advance), BRB (be right back), BTW (by the way), OTOH (on the other hand), RSN (real soon now), OIC (oh, I see!), LOL (laughed out loud), ROTFL (rolled on the floor laughing), IRL (in real life), LMKOAP (let me know of any problems), IWBNI (it would be nice if) and AFK (away from keyboard). </P> "	"nyt_eng_199608.gz"

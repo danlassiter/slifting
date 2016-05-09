@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"80963"	"we"	"panic"	" ``When we don't have the lead, we panic,'' Kings center Ian Laperriere said. ``Everybody should be ashamed the way we played. We need 20 guys to show up every night or else we're going to lose. We don't' have enough skill.'' </P> "	"nyt_eng_199612.gz"

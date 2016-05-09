@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"98271"	"you"	"clap"	" ``Friends, you clap, but even I don't yet know how big the competition is that we'll face after we enter the WTO,'' China's prime minister, Zhu Rongji, told a gathering of private businessmen in Nanjing the week the Geneva talks concluded. ``My heart isn't yet very settled.'' </P> "	"nyt_eng_200110.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"117669"	"I"	"rolled"	" Along with a group of volunteer neighbors, I rolled, tumbled, stretched and chanted for a week, both indoors and outdoors. </P> "	"nyt_eng_200206.gz"

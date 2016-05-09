@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"130916"	"I"	"deduct"	" ``I subtract, I deduct,'' he said through an interpreter. He even makes a cup of tea artful: he brews a sea-green flower, which opens up in hot water. </P> "	"nyt_eng_200211.gz"

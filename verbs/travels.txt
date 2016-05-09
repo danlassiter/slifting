@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"33154"	"he"	"travels"	" Though Rushdie still lives in hiding and is never without a coterie of heavily armed bodyguards paid by the British government, he travels, eats in restaurants, appears at bookstores and is a regular fixture at London's smartest literary parties. </P> "	"nyt_eng_199509.gz"

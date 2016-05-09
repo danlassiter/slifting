@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"66922"	"he"	"robbed"	" For most of his life, Roger Atkins was a drug addict, living on the streets, using heroin, cocaine, crack, angel dust, whatever he could find. To support his habit, he robbed, sold drugs and lived on welfare benefits. </P> "	"nyt_eng_199608.gz"

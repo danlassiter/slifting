@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"117739"	"I"	"half-guiltily"	" I managed a smile but later that evening when everyone was in bed, I half-guiltily, half-resentfully stashed the rod in its green cylindrical case in an attic closet and never gave it another thought. </P> "	"nyt_eng_200206.gz"

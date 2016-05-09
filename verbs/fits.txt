@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"124115"	"it"	"fits"	" ``I was told, `Wherever you put the name of God, it fits,''' Salaam said. </P> </TEXT> </DOC> <DOC id=NYT_ENG_20020903.0316 type=story > <HEADLINE> CANCUN OFFERS MORE VACATION BANG FOR YOUR BUCK: ALL-INCLUSIVE </HEADLINE> <DATELINE> CANCUN, Mexico  (BC-CANCUN-ALL-INCLUSIVE-) </DATELINE> <TEXT> "	"nyt_eng_200209.gz"
+"124125"	"it"	"fits"	" ``I was told, `Wherever you put the name of God, it fits,''' Salaam said. </P> </TEXT> </DOC> <DOC id=NYT_ENG_20020903.0345 type=story > <HEADLINE> ACCUSER WITHDRAWS SUIT AGAINST 2 PRIESTS </HEADLINE> <DATELINE> 09-03-02 21:32:00EDT (BC-CHURCH-EDWARDS-BOS) </DATELINE> <TEXT> "	"nyt_eng_200209.gz"

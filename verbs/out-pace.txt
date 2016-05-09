@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92529"	"they"	"out-pace"	" ``Latino culture grooms you to be a wife, to be a mother,'' said Garcia, 52. But she said, because Latina and black women tend to do better in the workplace, and continue their education, they out-pace, and thus often outgrow, their men. </P> "	"nyt_eng_200105.gz"

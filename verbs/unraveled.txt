@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"123001"	"they"	"unraveled"	" The Sox needed a victory. And just when they appeared poised to secure one on the strength of a sparkling outing by Derek Lowe, they unraveled, spoiling Lowe's bid to become the league's first 18-game winner and keep them from opening their eighth straight series with a loss. </P> "	"nyt_eng_200208.gz"

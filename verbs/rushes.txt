@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"57610"	"she"	"rushes"	" Still, with David Greene as director, the production is handsome and crisply paced. Dennehy, though in relatively few scenes, gets Gerald perfectly as an irresistible monster. And there's a special treat in watching Ms. Brown's mournful Grace suddenly being happy when, on hearing of her husband's stroke, she rushes, too soon as it turns out, to try on a variety of widow's weeds. These exercises in exploitation can have their little rewards. </P> "	"nyt_eng_199605.gz"

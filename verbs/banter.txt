@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"57662"	"they"	"banter"	" Yet when the hardboots on the Churchill Downs backstretch talk about Lukas this week, they banter, even laugh, about another distinction. </P> "	"nyt_eng_199605.gz"

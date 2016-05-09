@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"26199"	"he"	"ducked"	" ``He backed, he ducked, he turned, he twisted and he didn't have a chance,'' Sathyavagiswaran testified. </P> "	"nyt_eng_199506.gz"
+"60360"	"he"	"ducked"	" As with all children, the rough-and-tumble play that characterizes this action-adventure can leave its players slashed and bruised. Sorbo sports a couple of mean scars from swordplay gone awry. In one sequence, he ducked, his opponent didn't and he suffered a stab in the back that required nine stitches. </P> "	"nyt_eng_199605.gz"
+"60387"	"he"	"ducked"	" As with all children, the rough-and-tumble play that characterizes this action-adventure can leave its players slashed and bruised. Sorbo sports a couple of mean scars from swordplay gone awry. In one sequence, he ducked, his opponent didn't and he suffered a stab in the back that required nine stitches. </P> "	"nyt_eng_199605.gz"

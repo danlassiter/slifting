@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"1941"	"it"	"sounds"	" The staging is heavy-footed, literally and figuratively. (The fairies, it sounds, must be wearing combat boots.) Too often, Ms. Danner's satire, seemingly aimed as much at composer and librettist as at their own targets, loses focus and bite, and sheer silliness reigns. </P> "	"nyt_eng_199408.gz"

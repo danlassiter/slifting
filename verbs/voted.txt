@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"48689"	"they"	"voted"	" After a livelier, more civil debate than the one sounding out on the primary hustings, they voted, 228 to 122, to approve the state's participation in the Goals 2000 program of federal aid for improved education standards, a program that conservatives regularly denounce as another big government intrusion. </P> "	"nyt_eng_199602.gz"

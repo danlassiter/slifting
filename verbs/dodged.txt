@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"95612"	"they"	"dodged"	" PASADENA -- As expected, CBS executives were strafed with questions regarding their network's controversial reality series ``Big Brother 2'' when they met with television journalists at a press conference Tuesday morning. And, as expected, they dodged, spun, ignored and outright refused to answer most of those questions satisfactorily. </P> "	"nyt_eng_200107.gz"

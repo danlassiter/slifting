@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"173250"	"I"	"very"	" I understand my role as leader of the Democrats, but even more important than that, I very, very, very much respect that I will be the Speaker of the House, not of the Democrats, Pelosi said Wednesday. </P> "	"nyt_eng_200611.gz"

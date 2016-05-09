@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"18178"	"we"	"confront"	" ``He was born with slaves and he thought it was an evil. Yet how does he unravel an institution that had been beloved by mankind? Free labor -- c'mon, man, can't get a better deal than that. In actuality, you have to ask: Could Jefferson ever have tried to abolish slavery and been president? No. He couldn't have made it. But by putting Jefferson in France, where slavery is illegal, and by bringing Sally Hemings in, we confront, directly, his heart with the issue of slavery.'' </P> "	"nyt_eng_199503.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"92606"	"you"	"foodies"	" ``I say, `Come here, you foodies, and have a ball.' Turn a negative experience into a positive experience, a family experience.'' </P> "	"nyt_eng_200106.gz"

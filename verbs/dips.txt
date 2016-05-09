@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91711"	"it"	"dips"	" It twists, it dips, it bends, it doubles back on itself. </P> "	"nyt_eng_200105.gz"

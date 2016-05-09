@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"31573"	"he"	"backtracks"	" But then again, he backtracks, maybe not. </P> "	"nyt_eng_199508.gz"

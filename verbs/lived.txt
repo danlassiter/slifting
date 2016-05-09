@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29156"	"he"	"lived"	" In researching that book in 1950 and 1951, he lived, along with his wife and their two small sons, in the hilltop village of Roussillon, to which, in the book, he gave the fictitious name of Peyrane. His touching, humorous, sharp and close-up account reached a resoundingly favorable conclusion: </P> "	"nyt_eng_199507.gz"

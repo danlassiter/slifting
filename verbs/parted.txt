@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"105166"	"they"	"parted"	" As months went by and it became clear that he and the architect didn't have the same taste, they parted, and he hired another one. This architect suggested significant alterations in the space, including putting the piano on a platform, moving the door to the apartment and expanding and renovating the kitchen. </P> "	"nyt_eng_200202.gz"

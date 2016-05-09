@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"132914"	"I"	"burned"	" The album has a surprising number of songs about trying to communicate and about re-establishing trust. In the pensive ``Friday,'' Anastasio could be singing about a Phish jam: ``I crashed, I burned, but then I learned to keep my eye on you.'' </P> "	"nyt_eng_200212.gz"

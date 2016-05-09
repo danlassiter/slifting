@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"150564"	"she"	"emotes"	" She is responsive, she tries to vocalize, she emotes, Weldon said at a news conference Sunday. </P> "	"nyt_eng_200503.gz"

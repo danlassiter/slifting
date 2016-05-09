@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"85827"	"he"	"instructs"	" Wars, he instructs, are preceded by political instability, which in turn is preceded by economic instability. That very often is accompanied by rapid inflation, which he says is caused by inappropriate monetary policy. </P> "	"nyt_eng_199701.gz"

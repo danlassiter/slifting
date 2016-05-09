@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"1883"	"I"	"reluctantly"	" Again, I reluctantly, hesitantly sounded a single, small ``beep,'' a cheerful reminder that we were there, stranded in the middle of Taylor Street. This time, the woman leaving the car stuck her tongue out at me. </P> "	"nyt_eng_199408.gz"

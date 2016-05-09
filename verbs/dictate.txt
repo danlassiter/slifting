@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"104641"	"you"	"dictate"	" Copytalk is a glorified dictation service. From any phone, you dial Copytalk's toll-free number. At the tone, you dictate, for example, an e-mail message. Between 3 and 20 minutes later, the message you dictated is sent on its merry way across the Internet (with or without your review, at your option), looking exactly as if it came from your desktop PC. </P> "	"nyt_eng_200201.gz"

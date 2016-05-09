@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"108249"	"they"	"saluted"	" Each man had been shot in the head. As the soldiers passed the coffins Sunday, they saluted, then moved on to the brothers' parents. </P> "	"nyt_eng_200203.gz"

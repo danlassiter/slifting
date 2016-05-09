@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"1987"	"he"	"pondered"	" ``Tourism,'' he responded instantly. ``Tourism is an export industry.'' Asked to name a second, he pondered, then suggested ``beneficiation,'' or processing natural resources. </P> "	"nyt_eng_199408.gz"

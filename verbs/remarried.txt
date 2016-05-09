@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"140400"	"she"	"remarried"	" She became a textbook editor and then a published author (The Crime Victim's Book, with Morton Bard, and Wifestyles: Women Talk About Marriage). Along the way, she remarried, had a son, who is 24, and earned a master's of fine arts in writing. </P> "	"nyt_eng_200407.gz"

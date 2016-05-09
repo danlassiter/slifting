@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"88499"	"I"	"throw"	" As for the pickoff, what Reynoso does often and well is this: After he comes to a set, he puts the ball right in front of his left inside quadriceps instead of putting the ball in his glove. Then he whirls and, watch out. ``When I throw, I throw,'' he said. </P> "	"nyt_eng_199703.gz"

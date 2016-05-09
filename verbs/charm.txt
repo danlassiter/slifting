@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"140719"	"they"	"charm"	" Cruise's performance (aided and abetted by Foxx's fine work) reminds us why sociopaths are more interesting fodder for film than psychopaths or that other movie staple, the serial killer. They seduce, they charm, then they turn on you. It's a tension that makes Vincent appealing and appalling. </P> "	"nyt_eng_200408.gz"

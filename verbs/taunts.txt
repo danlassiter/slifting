@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"37179"	"he"	"taunts"	" So he pushes, he taunts, he cajoles. In the House Dining Room, he confronts a colleague about his idea of enhancing the national parks. The lawmaker, a Western Republican, backs away fast, as if he's just encountered a grizzly in the remote ridges of Glacier National Park. Kasich challenges him: ``If you can't stand the heat, I'll go to someone with broad shoulders.'' </P> "	"nyt_eng_199510.gz"
+"54432"	"he"	"taunts"	" Find me an example of bravery in suburban Boston, he taunts, and standing up to bullies in the schoolyard does not count. </P> "	"nyt_eng_199604.gz"

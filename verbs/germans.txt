@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"20920"	"we"	"germans"	" ``We all live very comfortably, everything works smoothly, we are reconciled with our neighboring countries. That's something we should be proud of. But when we go abroad, we Germans, with all that history, are shy; we make ourselves small and stay in the background.'' </P> "	"nyt_eng_199505.gz"
+"137492"	"we"	"germans"	" Victor Klemperer, the great diarist of the Holocaust, saved from the gas chamber 28 years later only by his marriage to an ``Aryan,'' went further: ``We, we Germans are better than other nations. Freer in thought, purer in feeling, juster in action. We, we Germans, are a truly chosen people.'' </P> "	"nyt_eng_200304.gz"

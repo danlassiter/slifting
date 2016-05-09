@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"4809"	"it"	"ain't"	" ``Hollywood, it ain't,'' Morales said succinctly, playing with a small hand-carved icon similar to the giant stone statues, or ``moai,'' for which the island is best-known. </P> "	"nyt_eng_199409.gz"

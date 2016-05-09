@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"162812"	"I"	"dare"	" Cezanne said, I dare, sir, I dare, responding to an inquiring journalist as he hauled his paintings to be spurned yet again by the Salon jury. I have the courage of my opinions -- and he who laughs last laughs best. </P> "	"nyt_eng_200602.gz"

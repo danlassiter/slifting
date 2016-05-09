@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"62179"	"it"	"floods"	" Through the center of that stony valley cascades the Merced River. In the spring, it floods, and in the late summer, it can dry up. We were halfway between the extremes and it burbled satisfyingly between lines of rustling willows. </P> "	"nyt_eng_199606.gz"
+"62212"	"it"	"floods"	" Through the center of that stony valley cascades the Merced River. In the spring, it floods, and in the late summer, it can dry up. We were halfway between the extremes and it burbled satisfyingly between lines of rustling willows. </P> "	"nyt_eng_199606.gz"

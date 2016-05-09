@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"170763"	"it"	"dramatizes"	" And once you've seen it, you might even feel that Huang's cursive masterpiece out-Pollocks Pollock. Certainly its 60-foot-long flow of looping, swooping characters -- they twist and shout; pump up, slim down; leave skid marks behind them -- blurs distinctions between writing and painting, control and spontaneity, virtuosity and accident. On top of this, it dramatizes, in compelling, nonrepresentational terms, a complicated story of political intrigue and endangered friendship. </P> "	"nyt_eng_200609.gz"

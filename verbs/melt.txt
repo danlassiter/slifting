@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"38929"	"they"	"melt"	" The birthplace of comets. Comets, balls of ice and dust, die all the time _ as they fly through space, they melt, explode or vaporize. Scientists think they've now found where they're born: a cold and distant corner of the sky extending well past Pluto. Three years ago, scientists sighted about 30 comets suspended in these deep reaches of space, waiting to be jostled loose and pulled toward the sun, tails blazing. Scientists think that several million comets may be out there. </P> "	"nyt_eng_199511.gz"

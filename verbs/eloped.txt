@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"91686"	"we"	"eloped"	" ``Two weeks later, we eloped,'' she says. </P> "	"nyt_eng_200105.gz"

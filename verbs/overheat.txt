@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"30878"	"they"	"overheat"	" ``Even if they're not sick, once they reach the beach in Florida, they overheat,'' Odell says, explaining that whales don't sweat. </P> "	"nyt_eng_199508.gz"

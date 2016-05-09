@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"165426"	"I"	"falter"	" Happy are they who don't doubt themselves and whose pens fly across the page, Gustave Flaubert wrote in 1847, when he was 25. I myself hesitate, I falter, I become angry and fearful, my drive diminishes as my taste improves, and I brood more over an ill-suited word than I rejoice over a well-proportioned paragraph. </P> "	"nyt_eng_200604.gz"

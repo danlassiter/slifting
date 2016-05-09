@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"136633"	"it"	"involved"	" ``This case involved poor judgment, it involved abuse of power, it involved, in my opinion, an attempt to cover up those things that occurred prior to the accident itself,'' Blunt said. ``It's apparent from the report the FAA harassed Joe Brinell, contributing to the accident.'' </P> "	"nyt_eng_200301.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"102304"	"you"	"scratch"	" ``That's why it's hard,'' said Griese, who was 18-of-33 for 135 yards with one touchdown and one interception. ``You fight, you scratch, you claw for every inch that you can get out there, and one play changes it all.'' </P> "	"nyt_eng_200112.gz"

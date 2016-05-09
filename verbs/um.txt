@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"166917"	"we"	"um"	" Melissa says: So, we um, we think that they shouldn't really wear them. And then she laughs. </P> "	"nyt_eng_200605.gz"

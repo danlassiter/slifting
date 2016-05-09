@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"23020"	"we"	"assist"	" In the past, Barlow has reacted angrily to suggestions that he is running a mercenary outfit. ``Where the security in a country is a problem, we assist,'' he recently told the Reuters news agency. ``We assist in water purification, construction and medical services. White South Africans are the only ones prepared to make a difference.'' </P> "	"nyt_eng_199505.gz"

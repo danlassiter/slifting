@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"120636"	"you"	"tat"	" ``You can stick this in your pocket, and when you're at the doctor's office, you tat,'' Thomas said. </P> "	"nyt_eng_200207.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"20590"	"I"	"fix"	" With just a tool bag slug over his shoulder, Hoch becomes Kazmierczack, a Polish immigrant who knocks on an apartment door and, in broken English, tries to explain that he's the handyman responding to the occupant's repair call. ``I fix, I fix,'' he keeps saying. </P> "	"nyt_eng_199504.gz"

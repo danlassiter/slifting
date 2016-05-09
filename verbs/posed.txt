@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"19356"	"he"	"posed"	" Fifty years ago, as on Wednesday, the azaleas and the dogwoods were in riotous bloom here as Roosevelt spent a busy morning signing letters and documents. Then, before lunch, he posed, for the artist Elizabeth Shoumatoff. </P> "	"nyt_eng_199504.gz"
+"134809"	"he"	"posed"	" Jordan should have retired in June 1998 after hitting the championship-clinching jumper for the Bulls against the Jazz. He paused, he posed, he pondered. It was the perfect exit for the game's greatest player. </P> "	"nyt_eng_200212.gz"

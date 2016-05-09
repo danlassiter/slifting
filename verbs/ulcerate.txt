@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"521"	"they"	"ulcerate"	" ``Dentures rub, they ulcerate,'' he said. ``Most people I see are dental cripples. It can be psychologically debilitating to have to excuse yourself from the table to rinse out your mouth every time you get food stuck.'' </P> "	"nyt_eng_199407.gz"

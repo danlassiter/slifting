@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"16255"	"they"	"wobble"	" By now you've seen them on TV, the bizarre family of battery mutants who resemble goofy cyborgs dipped in latex rubber. They smile, they wobble, they walk like Herman Munster in corrective snowshoes. </P> "	"nyt_eng_199503.gz"
+"121453"	"they"	"wobble"	" ``In the old days, we had lots of guys going to the pro leagues, but ain't no scouts coming up here anymore, cause all the players be clowning now,'' he said. ``It's more like a hip-hop show. They wiggle, they wobble, but they can't hit the backboard with a rock.'' </P> "	"nyt_eng_200208.gz"
+"121467"	"they"	"wobble"	" ``In the old days, we had lots of guys going to the pro leagues, but ain't no scouts coming up here anymore, cause all the players be clowning now,'' he said. ``It's more like a hip-hop show. They wiggle, they wobble, but they can't hit the backboard with a rock.'' </P> "	"nyt_eng_200208.gz"

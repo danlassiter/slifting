@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"86639"	"they"	"advise"	" Gum manufacturers know that chewed gum can create a sticky, virtually permanent stain. When people throw gum on sidewalks, it mars the pavement, but it can also be tracked by others onto shoes, carpets or clothes. Gum is adhesive, and the sticky mess dries into a solid blob that is difficult to remove. Manufacturers do not want people to spit gum out or stick it in some random spot; keep the wrapper, they advise, and throw the gum away in the trash. But they cannot change people's habits. </P> "	"nyt_eng_199702.gz"
+"160656"	"they"	"advise"	" If you're going to fall, they advise, keep your knees flexed. Don't try to get up until you've finished sliding. </P> "	"nyt_eng_200512.gz"

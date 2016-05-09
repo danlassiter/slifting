@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"71178"	"you"	"idiots"	" ``The police said, `We are the police, you idiots,' '' Baez Jr. said. </P> "	"nyt_eng_199609.gz"

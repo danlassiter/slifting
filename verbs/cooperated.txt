@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"102959"	"they"	"cooperated"	" The replication parameters were less than perfect, just as DNA replication in the carbon-based world is less than perfect, resulting in minor changes, or mutations, from one generation of Tierrans to the next. The organisms assembled themselves into habitats, he said. They competed, they cooperated, they cheated, they parasitized, they parasitized the parasites. They reproduced with varying success, and, as living things are wont to do, they died. </P> "	"nyt_eng_200112.gz"

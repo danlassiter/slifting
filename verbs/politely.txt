@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"77792"	"he"	"politely"	" He's on the prowl. Earlier, while walking through his house, he politely, almost quietly, talked about housekeeping matters. Now the voice is rolling, and his arms are swinging the stick. ``When I get into the box with this bat and this barrelhead, you are in my territory. I'm not in yours. You are in mine.'' </P> "	"nyt_eng_199611.gz"

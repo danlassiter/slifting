@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"133016"	"we"	"hollered"	" ``We paraded, we hollered, we fought,'' Runyon said. ``We went up to the president's house in black shrouds. We raised one hell of a lot of noise. Columbia just hated my guts.'' </P> "	"nyt_eng_200212.gz"
+"144128"	"they"	"hollered"	" The Bronx fans were not about to let him forget it. Over and over, they hollered, Who's your daddy? at Martinez, usually in the derisive, singsong way reserved for only the most reviled visitors. </P> "	"nyt_eng_200410.gz"

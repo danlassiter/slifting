@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"10691"	"I"	"wonder?)"	" In the same feature, which examines luncheon entertaining (who eats lunch at home anymore, I wonder?), the time-conscious hostess (of course) is given recipes for ``a very simple'' menu consisting of orange and banana cocktail, bouillon, egg sandwiches, aspic jelly, roasted chicken, tomato slaw and either orange tart or prune whip for dessert. </P> "	"nyt_eng_199412.gz"

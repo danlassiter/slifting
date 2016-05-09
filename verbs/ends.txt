@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"29471"	"it"	"ends"	" ``If the streak ends, it ends,'' he said. ``We'll give it one more try in three to three and a half weeks. He never stopped, he kept trying and he didn't get beat that far. </P> "	"nyt_eng_199507.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"172525"	"I"	"inhaled"	" When I was a kid, I inhaled, Obama said here to an audience of magazine editors. That was the point. </P> "	"nyt_eng_200610.gz"

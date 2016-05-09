@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"93909"	"they"	"finished"	" nation's public schools. ``We went through that (test requirement) in the 1980's in Arkansas and Texas, and by the time, they finished, 98 percent of the teachers passed,'' Bob Chase, president of the National Education Association, said in an interview. ``It was a colossal waste of money.'' (Cox News Service) WITH QUALIFIED--LIST. </P> "	"nyt_eng_200106.gz"
+"93928"	"they"	"finished"	" nation's public schools. ``We went through that (test requirement) in the 1980's in Arkansas and Texas, and by the time, they finished, 98 percent of the teachers passed,'' Bob Chase, president of the National Education Association, said in an interview. ``It was a colossal waste of money.'' (Cox News Service) WITH QUALIFIED--LIST. </P> "	"nyt_eng_200106.gz"
+"122862"	"we"	"finished"	" ``About 1:30, we finished, pulled up anchor and headed back in,'' Marcus said. </P> "	"nyt_eng_200208.gz"

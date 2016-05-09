@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"12470"	"he"	"shocked"	" Those rueful, accusatory words are John O'Hara's, and in four decades of writing fiction (his first book was published in 1934, his last in 1974, four years after he died), he shocked, courted and overwhelmed his readers by any and every means at hand. </P> "	"nyt_eng_199501.gz"

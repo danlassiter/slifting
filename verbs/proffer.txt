@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"44884"	"I"	"proffer"	" But a nation that spends millions on Valentine's Day roses, chocolates and supermarket champagne seems nonetheless to be in desperate need of love the other 364 days. Which, I proffer, is why stories like ``The Bridges of Madison County'' sell better than hot French bread stacked near the checkout lane. </P> "	"nyt_eng_199601.gz"

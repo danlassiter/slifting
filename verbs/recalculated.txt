@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"69075"	"I"	"recalculated"	" In view of those uncertainties, I recalculated, using 8 percent average growth for the portfolio. The total fell to $430,508, which might be invested to bring in $30,135, or $2,511 a month, which would put you almost $1,200 a month short of your target. </P> "	"nyt_eng_199608.gz"

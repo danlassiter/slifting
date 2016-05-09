@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"39979"	"he"	"lances"	" So one year into a five-year commitment to play Dr. Jeffrey Geiger, the multitalented, egomaniacal cardiologist on ``Chicago Hope'' (he sings, he lances, he reads angiograms), Patinkin did what few New York actors who go Hollywood do: He came home. </P> "	"nyt_eng_199511.gz"

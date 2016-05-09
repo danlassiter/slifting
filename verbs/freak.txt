@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"32337"	"they"	"freak"	" Of course, this is dehumanizing. People need things to count on, to believe in, to go home to, figuratively speaking. Untethered, they freak, gain weight, join cults. This is where the concept of psychic address becomes crucial; that is, your area code, your ZIP code, your bank code, your computer entry code, your Social Security number and half a dozen other cryptographic series that you know by heart and use every day now serve as the currency of identity. </P> "	"nyt_eng_199508.gz"

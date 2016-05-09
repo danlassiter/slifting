@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"99545"	"he"	"bunted"	" Facing Curt Schilling, however, Jeter hit a soft liner to shortstop in his first at-bat, grounded to short in his second at-bat and grounded to first base. Jeter was having such trouble that when he led off the ninth inning for the Yankees, he bunted, and was thrown out by third baseman Matt Williams. ``There are times he'll try to drop one down when he doesn't feel comfortable,'' Denbo said. </P> "	"nyt_eng_200111.gz"

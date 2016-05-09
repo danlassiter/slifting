@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"48700"	"he"	"brushed"	" Just like a diva, she had a hairdresser hovering over her before she met her public. For 45 minutes, he brushed, sprayed a mixture of water and conditioner, brushed, combed and brushed again. </P> "	"nyt_eng_199602.gz"

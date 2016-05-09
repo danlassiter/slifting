@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"114055"	"it"	"dissipates"	" ``If you can't get the child evaluated right away, it dissipates,'' she said. ``The family may barrage the child with questions, which causes the child to shut down.'' </P> "	"nyt_eng_200204.gz"
+"146057"	"it"	"dissipates"	" The talk always comes right before an election, and right after, it dissipates, Glorioso said. I did talk radio in the 1990s, and you heard it from Republicans. Costa Rica seemed to be the favorite spot for them. </P> "	"nyt_eng_200411.gz"

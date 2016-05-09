@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"40547"	"she"	"bathes"	" Petrie, who teaches Indian cooking near her home in Kent, has adapted the old ways to the new country. Before meals, she bathes, puts on fresh clothes, takes off her shoes. Cleanliness is essential. </P> "	"nyt_eng_199511.gz"
+"40619"	"she"	"bathes"	" Petrie, who teaches Indian cooking near her home in Kent, has adapted the old ways to the new country. Before meals, she bathes, puts on fresh clothes, takes off her shoes. Cleanliness is essential. </P> "	"nyt_eng_199511.gz"

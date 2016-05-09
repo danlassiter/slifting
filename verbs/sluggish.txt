@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"25618"	"you"	"sluggish"	" A sample: ``You suck up to Nazis, you sluggish, PCB mulching, goat hankering, plasmoidal slimemold of a foul-smelling telephone solicitor.'' </P> "	"nyt_eng_199506.gz"
+"25829"	"you"	"sluggish"	" A sample: ``You suck up to Nazis, you sluggish, PCB mulching, goat hankering, plasmoidal slimemold of a foul-smelling telephone solicitor.'' </P> "	"nyt_eng_199506.gz"

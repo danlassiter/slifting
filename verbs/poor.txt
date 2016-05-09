@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"48551"	"you"	"poor"	" That did it for me. I said, ``Oh, you poor, underprivileged little thing, you. Somebody has a nicer pool than you do. God, the hardship of it all _ the horrible deprivation!'' </P> "	"nyt_eng_199602.gz"
+"48624"	"you"	"poor"	" That did it for me. I said, ``Oh, you poor, underprivileged little thing, you. Somebody has a nicer pool than you do. God, the hardship of it all _ the horrible deprivation!'' </P> "	"nyt_eng_199602.gz"

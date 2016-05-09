@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"149108"	"it"	"simmers"	" Bearded and sinewy, Albo looks a bit like an end is here doomsayer, but he talks with the high, insinuating whine of a Chelsea art gallery receptionist. So while his fury over a vacuous, heat-seeking celebrity society obviously roils just below the skin, it never boils over into a rant. Instead, it simmers, frets, crackles and -- thanks to some hilarious dance sequences -- whips itself into a self-mocking froth. </P> "	"nyt_eng_200502.gz"

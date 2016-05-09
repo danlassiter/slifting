@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"130186"	"it"	"leads'')"	" Yes, our media glorify violence (``If it bleeds, it leads''), he says, but take a look at Japan's violent entertainment. True, we have a bloody history, but hey, what about the Germans and British? And yes, we have too many guns lying around. But Canada has 10 million households and 7 million guns and they don't shoot one another. </P> "	"nyt_eng_200211.gz"

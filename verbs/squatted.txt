@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"103579"	"he"	"squatted"	" Guards said that as they chased him and yelled repeatedly for him to stop, he squatted, pulled a pin from a grenade and killed himself. </P> "	"nyt_eng_200201.gz"
+"103580"	"he"	"squatted"	" Guards said that as they chased him and yelled repeatedly for him to stop, he squatted, pulled a pin from a grenade and killed himself. </P> "	"nyt_eng_200201.gz"
+"115280"	"he"	"squatted"	" ``There,'' Garron said. Shading his eyes, he squatted, pointed and resorted to guide-shorthand. ``The water shakin' some. Eleven o'clock. A hundred feet.'' </P> "	"nyt_eng_200205.gz"

@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"54953"	"you"	"practice"	" A cruel fact of life is that, sometimes, just trying isn't enough. Sometimes, you practice, you prepare, you concentrate and . . . you still strike out. </P> "	"nyt_eng_199604.gz"
+"56555"	"they"	"practice"	" ``But one of the things that upsets me even more by these activities that draw so much attention is that by and large it tends to drown out the fact that there are 400 players in our league. They come to work every day, they practice, they play hard, they conduct themselves on and off the court in ways that make me proud.'' </P> "	"nyt_eng_199604.gz"

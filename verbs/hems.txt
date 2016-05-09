@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"162075"	"she"	"hems"	" But when I ask her whether her allergy is to refined sugar only or to natural sugars as well, she hems, haws and downgrades her condition to a blood sugar concern, which apparently doesn't extend to the sparkling wine she is drinking. </P> "	"nyt_eng_200601.gz"

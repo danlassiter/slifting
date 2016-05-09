@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"21365"	"he"	"hesitates"	" Kline keeps the deadpan humor rolling. Asked if there are cinematic worlds left for him to conquer, he hesitates, then replies flatly, ``I'd like to work underwater. I'd like to do a water movie.'' </P> "	"nyt_eng_199505.gz"
+"153890"	"he"	"hesitates"	" Heilman says he can replace an existing valve with one that will work whether she is standing or prone. Still, for a moment, he hesitates, searching for other explanations for Emily's head pain. Paint fumes, he has concluded, would be an uncommon cause for such prolonged torment. </P> "	"nyt_eng_200506.gz"

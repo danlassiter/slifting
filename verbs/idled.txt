@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"86840"	"I"	"idled"	" As my classmates began a steady climb to an adult altitude, I idled, never again outgrowing a pair of shoes or needing to have a dress hem let down. Before I knew it, I was short. What a shock _ a tall thinker in a now short body. Maybe I never got over it. </P> "	"nyt_eng_199702.gz"
+"86952"	"I"	"idled"	" As my classmates began a steady climb to an adult altitude, I idled, never again outgrowing a pair of shoes or needing to have a dress hem let down. Before I knew it, I was short. What a shock _ a tall thinker in a now short body. Maybe I never got over it. </P> "	"nyt_eng_199702.gz"

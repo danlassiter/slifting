@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"151612"	"they"	"interact"	" If I get run over and I'm not paralyzed, but I have head trauma. ... Inside, I might be OK, although outside I might be going goo, goo, he said, making grimaces and mimicking spastic gestures. People like that ... they're still living, they interact, but they're a bit goofy. I'd definitely want to be kept alive. </P> "	"nyt_eng_200504.gz"

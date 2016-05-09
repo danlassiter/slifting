@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"84930"	"it"	"soars"	" Perhaps Robert Redford could be enlisted to make a new movie: ``Three Days of the California Condor.'' It is a story filled with laughter, pain, suspense, triumph and tragedy. It sings, it soars, it depicts flights of fancy ... Forgive me, I'm (ITAL) verklempt (END ITAL). </P> "	"nyt_eng_199701.gz"
+"84934"	"it"	"soars"	" Perhaps Robert Redford could be enlisted to make a new movie: ``Three Days of the California Condor.'' It is a story filled with laughter, pain, suspense, triumph and tragedy. It sings, it soars, it depicts flights of fancy ... Forgive me, I'm (ITAL) verklempt (END ITAL). </P> "	"nyt_eng_199701.gz"

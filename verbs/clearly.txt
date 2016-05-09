@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"86617"	"he"	"clearly"	" He already is. After only 46 games, he clearly, unequivocally, is the most valuable commodity on the roster. David Wesley may be the most indispensable player on a game-by-game basis and Rick Fox may be the glue holding things together, such as it is. But Walker clearly is the future. </P> "	"nyt_eng_199702.gz"
+"86621"	"he"	"clearly"	" He already is. After only 46 games, he clearly, unequivocally, is the most valuable commodity on the roster. David Wesley may be the most indispensable player on a game-by-game basis and Rick Fox may be the glue holding things together, such as it is. But Walker clearly is the future. </P> "	"nyt_eng_199702.gz"

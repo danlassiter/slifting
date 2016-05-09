@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"48798"	"he"	"interrupts"	" She complains about a long day at work and he responds, ``Oh, I suppose house dads don't work hard?'' Then in a jab, adds, ``Who did you kick out on the street today?'' When she talks about education as part of her campaign platform, he interrupts, ``Oh, that's a new one _ I've never heard that before.'' Even as she describes her own mother as a longtime Republican, he shakes his head vigorously. </P> "	"nyt_eng_199602.gz"

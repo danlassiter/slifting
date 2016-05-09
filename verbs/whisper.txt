@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"4063"	"they"	"whisper"	" Some Republican strategists believe that Ms. Burstein's unabashed liberalism -- and, they whisper, her sexual orientation -- would make her the weakest candidate in a general election where the Democrats must win votes upstate and on Long Island. </P> "	"nyt_eng_199409.gz"
+"71114"	"I"	"whisper"	" Then, to Adam, I whisper, ``Pretend I'm not here.'' </P> "	"nyt_eng_199609.gz"
+"113069"	"they"	"whisper"	" Even now, while Powell has been in Israel trying to repair the damage caused by U.S. disengagement, anonymous colleagues back in Washington have been sniping at the secretary of state for even attempting to halt the Israelis' attack on suspected terrorists. Such an effort, they whisper, violates the Bush Doctrine, which mandates just the kind of response against terror that Sharon is conducting. </P> "	"nyt_eng_200204.gz"

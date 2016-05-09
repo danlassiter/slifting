@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"70420"	"you"	"drive"	" Come to think of it, it does. I drive, you drive, we all drive. Any more national security questions? Oh yes, there in the back. You wish to know about the Kurds? </P> "	"nyt_eng_199609.gz"

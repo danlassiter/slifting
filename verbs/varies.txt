@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"138203"	"it"	"varies"	" ``My camp performance, it varies,'' Williams said. ``Some days, I'm playing on all cylinders and some I'm not. I'd say I'm right around a B or B-plus.'' </P> "	"nyt_eng_200308.gz"

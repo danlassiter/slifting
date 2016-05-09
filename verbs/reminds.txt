@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"1134"	"she"	"reminds"	" Many of them simply agree with Assistant Attorney General Anne Bingaman that the deal was about as tough as the antitrust statutes would support. To win, she reminds, ``you have to have the law and the facts,'' on your side. </P> "	"nyt_eng_199407.gz"
+"120306"	"he"	"reminds"	" But again, he reminds, the reality check doesn't come until October. This spring and summer, in fact, Conner's insistence that Long Beach is at least as good a training ground as Hauraki Gulf in Auckland has drawn some mild criticism. </P> "	"nyt_eng_200207.gz"

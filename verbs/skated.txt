@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"159617"	"he"	"skated"	" So our boy is human. Actually, he's kind of been acting out all year, what with the curious GQ photo spread and the ludicrous reaction to San Diego coach Marty Schottenheimer's sincere attempt to lavish praise on the battered Patriots after his team defeated the defending champs. Brady turned it around on Schottenheimer, attacking him for even commenting about his team. Being Tom Brady, he skated, when he deserved to be censured. </P> "	"nyt_eng_200511.gz"

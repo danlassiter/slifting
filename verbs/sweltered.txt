@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"26436"	"we"	"sweltered"	" In the meantime, we've been entertaining the community. All last summer, we sweltered, cursing our 100-year-old house's cumbersome windows, stuck so tight by time that they couldn't be budged even an inch. We bought and assembled three giant fans, we arranged to run lengthy errands during the afternoon heat, and finally, in desperation, we consulted a window man, who gave us a several-thousand-dollar estimate for all new windows. </P> "	"nyt_eng_199506.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"162743"	"it"	"bends"	" Think of a swell not as a constant shape but as something more akin to a Slinky (the long, flexible steel spring used as a children's toy). As it interacts with the ocean floor and the coastline, it bends, extends, bunches up, drags and springs forward. </P> "	"nyt_eng_200602.gz"

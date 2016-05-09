@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"147947"	"you"	"calcify"	" Well, first off, he is quick to reject the word formula. As soon as you think there's one, you get smug, you calcify, you go into decline, he says. You end up like a beached whale, you're finished. </P> "	"nyt_eng_200501.gz"

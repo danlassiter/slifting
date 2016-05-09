@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"136106"	"we"	"leaped"	" Like those boys on the dirt pile, my two brothers and I scampered up the auburn mound, which soared many feet in the air. We found a sawdust cliff, and when we got up the guts, we leaped, knowing sawdust would pillow our fall. </P> "	"nyt_eng_200301.gz"

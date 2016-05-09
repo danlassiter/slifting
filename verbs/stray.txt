@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"41997"	"we"	"stray"	" ``Give the country a chance to be great about this. Shake them up. Shake me up,'' he said. ``Push us all hard. But do it in a way that remembers this is fundamentally a good country. Every now and then, we stray, we get off the track a little bit, but we're still around for more than 200 years because most of the time when the chips are down, we do the right thing.'' </P> "	"nyt_eng_199512.gz"

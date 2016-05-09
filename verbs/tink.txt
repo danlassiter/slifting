@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"75227"	"I"	"tink"	" This fellow Fife Symington is, I tink, the best to ever go under the bar. He has the spine of a limbo master, mon. </P> "	"nyt_eng_199610.gz"
+"75229"	"I"	"tink"	" This fellow Fife Symington is, I tink, the best to ever go under the bar. He has the spine of a limbo master, mon. </P> "	"nyt_eng_199610.gz"

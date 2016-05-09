@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"119946"	"we"	"again"	" ``You have not always spoken with one voice. Unfortunately, persons associated with this organization have in fact made statements that indicated support of terrorists and terrorist organizations,'' Mueller said in his speech. ``Muslims and non-Muslims alike justifiably are outraged by such statements. No perceived, political, or other agenda justifies acts of terrorism, and we must _ I mean, we again, together _ must speak out against terrorism.'' </P> "	"nyt_eng_200206.gz"

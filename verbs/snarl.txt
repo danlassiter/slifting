@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"163289"	"I"	"snarl"	" A few skirmishes and we've all had enough. Benny growls, I snarl, and Smuts crawls back under the cover to flop his fuzzy body across my feet. The false quiet lasts, I suspect, just long enough for me to fall asleep and be out of the way for a while so they can get on with their plans for the night. </P> "	"nyt_eng_200602.gz"

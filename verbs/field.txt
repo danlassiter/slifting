@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"143055"	"they"	"field"	" Boy, you say to him, the Sox are strong this year. Not only do they hit well, but they pitch, they field, they filch the occasional base. They do all sorts of stuff they never found all that interesting in the past. </P> "	"nyt_eng_200409.gz"

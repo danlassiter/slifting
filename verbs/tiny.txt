@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"105736"	"we"	"tiny"	" The politicians, Umaru said, did not fight for the ordinary Nigerian, but only among themselves for the spoils of the country, the world's sixth-largest oil producer. Alluding to the recent assassination of the justice minister, Ige, he said: ``Even at the top, they are not safe. They are killing themselves. What about us, we tiny, tiny human beings who are trying to survive?'' </P> "	"nyt_eng_200202.gz"

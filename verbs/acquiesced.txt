@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"152976"	"she"	"acquiesced"	" It's her first album since 2001's Everybody Got Their Something, which yielded the delicious club hit Like a Feather. Despite critical success, that album stalled commercially, and officials at her label, Virgin Records, wanted to prod Costa toward a more radio-friendly pop sound. At first, she acquiesced, but as the project went along, she became less comfortable with the results. </P> "	"nyt_eng_200505.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"8853"	"she"	"faltered"	" After successfully defending her 1993 title at Lucerne, she barely made it to Wimbledon; she and her classmates pulled a ritual all-nighter on graduation weekend, and by the time she got to England, she was better prepared for a good night's sleep than a good match. After three rounds, she faltered, and then came another third-round loss at the United States Open and a leg injury that hobbled her fitness. </P> "	"nyt_eng_199411.gz"

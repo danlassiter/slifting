@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"1607"	"I"	"persevere"	" Nevertheless, I persevere, this week trying out Compaq's newest high-end machine. (LTE Elite 4/75CX -- Compaq Computer Corp., $5,999.) It's a strong contender, but still not one I'd shell out money for -- and certainly not at this price. </P> "	"nyt_eng_199407.gz"
+"42897"	"you"	"persevere"	" ``When times are tough, you persevere,'' said the man who was an entrepreneur for the five years he was out of football. ``They can't get to me. I've already been to the valley. I talked with my players about that this week. </P> "	"nyt_eng_199512.gz"

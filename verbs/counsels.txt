@@ -1,0 +1,5 @@
+"pronoun"	"verb"	"context"	"filename"
+"15785"	"he"	"counsels"	" Though he acknowledges that amateurs may be intimidated by the idea of his ``Under Wraps'' class, Becker makes it look easy. And, he counsels, with a little practice, people who are comfortable in the kitchen can handle his recipes. </P> "	"nyt_eng_199503.gz"
+"15786"	"he"	"counsels"	" Though he acknowledges that amateurs may be intimidated by the idea of his ``Under Wraps'' class, Becker makes it look easy. And, he counsels, with a little practice, people who are comfortable in the kitchen can handle his recipes. </P> "	"nyt_eng_199503.gz"
+"99064"	"she"	"counsels"	" So, you'll find a chapter on sheet cakes in the new book, along with practical advice on what kind of chocolate to use for baking. (Save the expensive European chocolates for eating on Valentine's Day, she counsels, because a hot oven blasts their nuances straight out of a cake.) </P> "	"nyt_eng_200110.gz"
+"124131"	"he"	"counsels"	" The secret is taking command of the agenda, said Rumsfeld. Make others respond to your world view, he counsels, or you will waste your day reacting to initiatives from them. </P> "	"nyt_eng_200209.gz"

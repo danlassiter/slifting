@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"125006"	"they"	"biked"	" In the same vein, Maounis, Giammona and their friend Ralph Baione were a lot like family. As teenagers growing up in Gravesend, Brooklyn, in the 1970s, they went to discotheques together; as adults, they biked, traveled, got haircuts and met women together. They even shared a nickname: Way. </P> "	"nyt_eng_200209.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"15644"	"she"	"bites"	" The girl is 14 and suffers a seizure disorder, language impairment and mild mental retardation. In school, she bites, kicks, slaps and throws objects at other students. Her outbursts in the last two years add up to 19 attacks a week. </P> "	"nyt_eng_199502.gz"

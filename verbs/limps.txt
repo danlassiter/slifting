@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"135464"	"he"	"limps"	" There's nothing ``typical'' about Smike, the crippled companion of Nicholas Nickleby in director Douglas McGrath's adaptation of Dickens' 1839 novel. Smike is a prototype for Dickens' rogues gallery of abused and exploited children. He's an orphan, he limps, he gets beaten by the despicable school master Wackford Squeers and he melts everyone's heart. </P> "	"nyt_eng_200301.gz"

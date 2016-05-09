@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"24478"	"she"	"grins"	" ``You think I'm gettin' hassled?'' she asks. ``I get more than my fair share. I have to talk to people. I ignore. I cajole. I argue. I educate. I run or I _'' Suddenly, she grins, and holds up three gleaming machetes. ``Forget the talking _'' starting to juggle the machetes, ``_ forget the cajoling! All I want is a nice, cold machete!'' </P> "	"nyt_eng_199506.gz"
+"55648"	"he"	"grins"	" Fun? Well, sure, he grins, but that's a fringe benefit of being a scientist. He's brainstorming. Stimulating his imagination, foreseeing a future in which virtual reality (VR) computers like his are as common in doctors' offices as tongue depressors. </P> "	"nyt_eng_199604.gz"

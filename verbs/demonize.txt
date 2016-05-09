@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"21657"	"you"	"demonize"	" A year ago, I'd never heard the word ``demonize.'' Today, it's everywhere. I imagine it's taught in public schools nowadays. (``I demonize, you demonize, he, she or it demonizes ...'') </P> "	"nyt_eng_199505.gz"

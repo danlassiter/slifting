@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"72990"	"they"	"huffed"	" Furthermore, they huffed, the candidates seldom gave straight answers and never explained how to make their ideas fly in Congress. </P> "	"nyt_eng_199609.gz"

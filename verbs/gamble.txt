@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"105116"	"you"	"gamble"	" ``But when you gamble, you gamble,'' said Kemper, 58. ``I don't think it would have made me mad at all if the whole thing hadn't been false, from head to foot.'' </P> "	"nyt_eng_200202.gz"

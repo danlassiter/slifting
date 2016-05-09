@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"49167"	"she"	"invited"	" ``You make a better door than a window, kid,'' she told one reporter. Obviously unmoved by talk of the hereafter, she invited, ``Why don't you sit on my lap?'' </P> "	"nyt_eng_199602.gz"

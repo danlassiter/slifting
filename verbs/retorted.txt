@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"89996"	"I"	"retorted"	" He cleared his throat. ``Actually, today you went down to 85 feet,'' he said. Impossible, I retorted, explaining that I had looked at the depth gauge several times. </P> "	"nyt_eng_200104.gz"
+"113406"	"he"	"retorted"	" On Monday, when Bush was asked about Gore's charges as he helped clear a snowy, muddy and very cold mountain trail, he retorted, ``Haven't paid attention to them.'' When a reporter called out that Gore was saying that Bush had no environmental record, the president shot back, ``that's why I haven't paid attention to him.'' </P> "	"nyt_eng_200204.gz"
+"166957"	"he"	"retorted"	" His voice hardening, Patrick said he'd joined Ameriquest to help clean up the company. Reilly, he retorted, had failed to stop Big Dig costs from soaring and said he accepted tens of thousands of dollars in campaign contributions from contractors on the project. </P> "	"nyt_eng_200605.gz"

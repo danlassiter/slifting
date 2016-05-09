@@ -1,0 +1,4 @@
+"pronoun"	"verb"	"context"	"filename"
+"145651"	"we"	"moved"	" Kerry wanted to know what impact the ads were having. Shrum recalled that for days the polls indicated nothing. Then the damage began to show. As soon as we saw it, we moved, Shrum said. </P> "	"nyt_eng_200411.gz"
+"165314"	"we"	"moved"	" Every time the rent went up, we moved, he said. We didn't need a moving truck because we only moved a few doors down. </P> "	"nyt_eng_200604.gz"
+"170935"	"she"	"moved"	" Born in Athens, Ga., to a bohemian academic family, she has few memories of the South but recalls that her parents, whom she describes as hippies, did not fit into their social environment. When she was 6, her father, a teacher at the University of Georgia, moved the family to Brooklyn because he wanted to pursue acting. When her parents divorced, she moved, at 13, to Paris with her mother. </P> "	"nyt_eng_200609.gz"

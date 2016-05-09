@@ -1,0 +1,3 @@
+"pronoun"	"verb"	"context"	"filename"
+"95643"	"he"	"seethed"	" He was particularly outraged that the ``poorer, less educated, less privileged'' were sent to the war as ``economic cannon fodder'' while rich kids escaped their duty. The policies, he seethed, represented ``an anti-democratic disgrace.'' </P> "	"nyt_eng_200107.gz"
+"95670"	"he"	"seethed"	" He was particularly outraged that the ``poorer, less educated, less privileged'' were sent to the war as ``economic cannon fodder'' while rich kids escaped their duty. The policies, he seethed, represented ``an anti-democratic disgrace.'' </P> "	"nyt_eng_200107.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"120843"	"I"	"hug"	" But Williams is also clearly willing to downplay his acting ambitions and just be Greg Brady. He pledges to be open to his fans any time, any place. ``I sign, I hug, I kiss, I write on body parts,'' he declares. </P> "	"nyt_eng_200207.gz"

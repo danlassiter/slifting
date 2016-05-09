@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"162209"	"he"	"noted)"	" It is now officially impossible to avoid the confident, smiling, and surgically smoothed face of Silvio Berlusconi. Nearly every night recently, he has shown up on television, talking about his mother, his morals, his enemies, his garden (an outsize million square meters, he noted), even about Erasmus. </P> "	"nyt_eng_200601.gz"

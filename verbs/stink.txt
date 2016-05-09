@@ -1,0 +1,6 @@
+"pronoun"	"verb"	"context"	"filename"
+"29838"	"they"	"stink"	" People say they're dirty, they stink, they look like rats. Even the name means ``little thief'' in Latin. </P> "	"nyt_eng_199508.gz"
+"89942"	"I"	"stink"	" ``Biomechanically, I stink,'' Garcia says. ``I saw myself in a video and I looked hilarious. My hips are gyrating, my arms are flailing like a windmill.'' </P> "	"nyt_eng_200104.gz"
+"92027"	"they"	"stink"	" They're big, they're ugly, they're scary, they stink, and they're all over the place. </P> "	"nyt_eng_200105.gz"
+"134641"	"you"	"stink"	" ``The guy said: `You'll never be as good as your dad. In fact, you stink,''' Winslow Jr. said Thursday. He fell silent for a moment, then said: ``I just keep fighting. I will be the greatest tight end ever, though. That's my goal.'' </P> "	"nyt_eng_200212.gz"
+"141686"	"I"	"stink"	" Sometimes, I stink, France said. </P> "	"nyt_eng_200408.gz"

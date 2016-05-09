@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"17963"	"he"	"storms"	" When that summer of 1945 reveals the full horror of the Nazi death camps, Pound is at first reluctant to believe it, then is defiant. Shown pictures of the camps, he thunders at his lawyer, ``I didn't have anything to do with this.'' Asked about his diatribes against Jews, he storms, ``How did anti-Semitism emerge as an indictable charge of treason?'' </P> "	"nyt_eng_199503.gz"

@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"65349"	"he"	"aggressively"	" In just 18 months there, he aggressively, if not ruthlessly, cut one-third of its workers, 11,000 of them, and sold $2 billion of assets before selling the company to Kimberly-Clark for $9 billion. </P> "	"nyt_eng_199607.gz"

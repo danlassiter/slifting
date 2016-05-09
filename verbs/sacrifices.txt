@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"75962"	"he"	"sacrifices"	" That makes it sound like the people in Jimmy's life are the ones who have to make sacrifices, who have to do all the bowing and ring-kissing. But no, Jimmy says, he sacrifices, too. </P> "	"nyt_eng_199610.gz"

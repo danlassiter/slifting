@@ -1,0 +1,2 @@
+"pronoun"	"verb"	"context"	"filename"
+"34966"	"we"	"refurbished"	" ``We would never have suspended racing in order to renovate the track,'' he said. ``So, we kept racing while upgrading things, year by year. In 1986, we painted. In 1987, we refurbished, floor by floor. We built an electrical plant, a new office building, this year a new paddock. One stage at a time. But we also sold off some of the real estate, $55 million worth. And that also helped pay for the improvements, which cost us $28 million.'' </P> "	"nyt_eng_199509.gz"
